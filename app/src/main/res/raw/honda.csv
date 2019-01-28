@@ -1,0 +1,905 @@
+10145,Honda,Accord Wagon,1993,4,Regular,18,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+10146,Honda,Accord Wagon,1993,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+10631,Honda,Civic Del Sol,1994,4,Regular,25,33,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+10632,Honda,Civic Del Sol,1994,4,Regular,30,37,33,269.3030303,9.988181818,1.5,Front-Wheel Drive,Manual 5-spd
+10633,Honda,Civic Del Sol,1994,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+10634,Honda,Civic Del Sol,1994,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+10635,Honda,Civic Del Sol,1994,4,Premium,23,28,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 5-spd
+10741,Honda,Civic,1994,4,Regular,25,33,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+10742,Honda,Civic,1994,4,Regular,35,41,38,233.8684211,8.673947368,1.5,Front-Wheel Drive,Manual 5-spd
+10743,Honda,Civic,1994,4,Regular,33,41,36,246.8611111,9.155833333,1.5,Front-Wheel Drive,Manual 5-spd
+10744,Honda,Civic,1994,4,Regular,29,36,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 5-spd
+10745,Honda,Civic,1994,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+10746,Honda,Civic,1994,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+10747,Honda,Civic HB VX,1994,4,Regular,39,50,43,206.6744186,7.665348837,1.5,Front-Wheel Drive,Manual 5-spd
+10748,Honda,Civic HB VX,1994,4,Regular,37,45,40,222.175,8.24025,1.5,Front-Wheel Drive,Manual 5-spd
+10749,Honda,Prelude,1994,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+10750,Honda,Prelude,1994,4,Premium,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+10751,Honda,Prelude,1994,4,Regular,21,26,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+10752,Honda,Prelude,1994,4,Premium,19,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+10753,Honda,Prelude,1994,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+10903,Honda,Accord,1994,4,Regular,20,27,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+10904,Honda,Accord,1994,4,Regular,20,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+10905,Honda,Accord,1994,4,Regular,22,29,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+10906,Honda,Accord,1994,4,Regular,22,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+11106,Honda,Accord Wagon,1994,4,Regular,19,25,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+11107,Honda,Accord Wagon,1994,4,Regular,20,27,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+11108,Honda,Accord Wagon,1994,4,Regular,21,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+11109,Honda,Accord Wagon,1994,4,Regular,22,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+11472,Honda,Passport 2WD,1994,4,Regular,15,18,16,555.4375,20.600625,2.6,Rear-Wheel Drive,Manual 5-spd
+11473,Honda,Passport 2WD,1994,6,Regular,15,17,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Automatic 4-spd
+11474,Honda,Passport 2WD,1994,6,Regular,15,17,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Manual 5-spd
+11543,Honda,Passport 4WD,1994,6,Regular,14,17,15,592.4666667,21.974,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+11544,Honda,Passport 4WD,1994,6,Regular,15,17,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+11594,Honda,Civic Del Sol,1995,4,Regular,25,33,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+11595,Honda,Civic Del Sol,1995,4,Regular,30,37,33,269.3030303,9.988181818,1.5,Front-Wheel Drive,Manual 5-spd
+11596,Honda,Civic Del Sol,1995,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+11597,Honda,Civic Del Sol,1995,4,Premium,23,27,24,370.2916667,13.73375,1.6,Front-Wheel Drive,Manual 5-spd
+11598,Honda,Civic Del Sol,1995,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+11697,Honda,Civic,1995,4,Regular,25,33,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+11698,Honda,Civic,1995,4,Regular,35,41,38,233.8684211,8.673947368,1.5,Front-Wheel Drive,Manual 5-spd
+11699,Honda,Civic,1995,4,Regular,29,36,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 5-spd
+11700,Honda,Civic,1995,4,Regular,33,41,36,246.8611111,9.155833333,1.5,Front-Wheel Drive,Manual 5-spd
+11701,Honda,Civic,1995,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+11702,Honda,Civic,1995,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+11703,Honda,Civic HB VX,1995,4,Regular,39,50,43,206.6744186,7.665348837,1.5,Front-Wheel Drive,Manual 5-spd
+11704,Honda,Civic HB VX,1995,4,Regular,37,45,40,222.175,8.24025,1.5,Front-Wheel Drive,Manual 5-spd
+11705,Honda,Prelude,1995,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+11706,Honda,Prelude,1995,4,Premium,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+11707,Honda,Prelude,1995,4,Regular,21,26,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+11708,Honda,Prelude,1995,4,Premium,19,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+11709,Honda,Prelude,1995,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+1171,Honda,Civic CRX,1985,4,Regular,24,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 3-spd
+1172,Honda,Civic CRX,1985,4,Regular,26,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Manual 5-spd
+1173,Honda,Civic CRX HF,1985,4,Regular,37,46,41,216.7560976,8.039268293,1.5,Front-Wheel Drive,Manual 5-spd
+11851,Honda,Accord,1995,4,Regular,21,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+11852,Honda,Accord,1995,4,Regular,20,27,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+11853,Honda,Accord,1995,4,Regular,22,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+11854,Honda,Accord,1995,4,Regular,22,29,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+11855,Honda,Accord,1995,6,Regular,17,23,19,467.7368421,17.34789474,2.7,Front-Wheel Drive,Automatic 4-spd
+12081,Honda,Accord Wagon,1995,4,Regular,19,25,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+12082,Honda,Accord Wagon,1995,4,Regular,21,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+12083,Honda,Accord Wagon,1995,4,Regular,21,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+12084,Honda,Accord Wagon,1995,4,Regular,22,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+12109,Honda,Odyssey,1995,4,Regular,18,22,20,444.35,16.4805,2.2,Front-Wheel Drive,Automatic 4-spd
+1227,Honda,Accord,1985,4,Regular,22,27,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+1228,Honda,Accord,1985,4,Regular,22,27,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+1229,Honda,Accord,1985,4,Regular,22,27,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+1230,Honda,Accord,1985,4,Regular,22,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+1231,Honda,Accord,1985,4,Regular,21,24,22,403.9545455,14.98227273,1.8,Front-Wheel Drive,Automatic 4-spd
+1232,Honda,Civic,1985,4,Regular,31,39,34,261.3823529,9.694411765,1.3,Front-Wheel Drive,Manual 4-spd
+1233,Honda,Civic,1985,4,Regular,25,29,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 3-spd
+1234,Honda,Civic,1985,4,Regular,27,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 5-spd
+1235,Honda,Prelude,1985,4,Regular,21,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+12430,Honda,Passport 2WD,1995,4,Regular,16,20,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Manual 5-spd
+12519,Honda,Del Sol,1996,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+12520,Honda,Del Sol,1996,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+12521,Honda,Del Sol,1996,4,Premium,23,27,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 5-spd
+12522,Honda,Del Sol,1996,4,Regular,29,35,32,277.71875,10.3003125,1.6,Front-Wheel Drive,Manual 5-spd
+12523,Honda,Del Sol,1996,4,Regular,26,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+12606,Honda,Civic,1996,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+12607,Honda,Civic,1996,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+12608,Honda,Civic,1996,4,Regular,26,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+12609,Honda,Civic,1996,4,Regular,28,35,31,286.6774194,10.63258065,1.6,Front-Wheel Drive,Manual 5-spd
+12610,Honda,Civic HX,1996,4,Regular,30,35,32,277.71875,10.3003125,1.6,Front-Wheel Drive,Automatic (variable gear ratios)
+12611,Honda,Civic HX,1996,4,Regular,33,41,36,246.8611111,9.155833333,1.6,Front-Wheel Drive,Manual 5-spd
+12612,Honda,Prelude,1996,4,Regular,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+12613,Honda,Prelude,1996,4,Premium,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+12614,Honda,Prelude,1996,4,Regular,21,26,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+12615,Honda,Prelude,1996,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+12616,Honda,Prelude,1996,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+12721,Honda,Accord,1996,4,Regular,20,28,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+12722,Honda,Accord,1996,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+12723,Honda,Accord,1996,4,Regular,22,29,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+12724,Honda,Accord,1996,4,Regular,22,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+12725,Honda,Accord,1996,6,Regular,17,23,19,467.7368421,17.34789474,2.7,Front-Wheel Drive,Automatic 4-spd
+12904,Honda,Accord Wagon,1996,4,Regular,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+12905,Honda,Accord Wagon,1996,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+12906,Honda,Accord Wagon,1996,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+12930,Honda,Odyssey,1996,4,Regular,18,22,19,467.7368421,17.34789474,2.2,Front-Wheel Drive,Automatic 4-spd
+13171,Honda,Passport 2WD,1996,4,Regular,17,20,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Manual 5-spd
+13172,Honda,Passport 2WD,1996,6,Regular,14,17,15,592.4666667,21.974,3.2,Rear-Wheel Drive,Automatic 4-spd
+13173,Honda,Passport 2WD,1996,6,Regular,15,17,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Manual 5-spd
+132,Honda,Accord,1985,4,Regular,21,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+13230,Honda,Passport 4WD,1996,6,Regular,14,17,15,592.4666667,21.974,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+13231,Honda,Passport 4WD,1996,6,Regular,15,17,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+13260,Honda,Del Sol,1997,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+13261,Honda,Del Sol,1997,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+13262,Honda,Del Sol,1997,4,Regular,28,35,31,286.6774194,10.63258065,1.6,Front-Wheel Drive,Manual 5-spd
+13263,Honda,Del Sol,1997,4,Premium,23,27,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 5-spd
+13264,Honda,Del Sol,1997,4,Regular,26,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+133,Honda,Accord,1985,4,Regular,23,30,26,341.8076923,12.67730769,1.8,Front-Wheel Drive,Manual 5-spd
+13354,Honda,Civic,1997,4,Regular,29,35,31,286.6774194,10.63258065,1.6,Front-Wheel Drive,Automatic (variable gear ratios)
+13355,Honda,Civic,1997,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+13356,Honda,Civic,1997,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+13357,Honda,Civic,1997,4,Regular,31,39,34,261.3823529,9.694411765,1.6,Front-Wheel Drive,Manual 5-spd
+13358,Honda,Civic,1997,4,Regular,26,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+13359,Honda,Civic,1997,4,Regular,28,35,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+134,Honda,Accord,1985,4,Regular,20,25,22,403.9545455,14.98227273,1.8,Front-Wheel Drive,Automatic 4-spd
+13468,Honda,Accord,1997,4,Regular,21,28,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+13469,Honda,Accord,1997,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+13470,Honda,Accord,1997,4,Regular,22,29,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+13471,Honda,Accord,1997,4,Regular,22,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+13472,Honda,Accord,1997,6,Regular,17,23,19,467.7368421,17.34789474,2.7,Front-Wheel Drive,Automatic 4-spd
+135,Honda,Accord,1985,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Manual 5-spd
+136,Honda,Civic,1985,4,Regular,32,38,34,261.3823529,9.694411765,1.3,Front-Wheel Drive,Manual 4-spd
+13658,Honda,Accord Wagon,1997,4,Regular,18,24,20,444.35,16.4805,2.2,Front-Wheel Drive,Automatic 4-spd
+13659,Honda,Accord Wagon,1997,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+13660,Honda,Accord Wagon,1997,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+13674,Honda,Odyssey,1997,4,Regular,18,24,20,444.35,16.4805,2.2,Front-Wheel Drive,Automatic 4-spd
+137,Honda,Civic,1985,4,Regular,23,26,24,370.2916667,13.73375,1.5,Front-Wheel Drive,Automatic 3-spd
+138,Honda,Civic,1985,4,Regular,26,31,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Manual 5-spd
+13898,Honda,Passport 2WD,1997,4,Regular,17,20,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Manual 5-spd
+13899,Honda,Passport 2WD,1997,6,Regular,14,17,15,592.4666667,21.974,3.2,Rear-Wheel Drive,Automatic 4-spd
+139,Honda,Prelude,1985,4,Regular,21,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+13900,Honda,Passport 2WD,1997,6,Regular,15,17,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Manual 5-spd
+13958,Honda,Passport 4WD,1997,6,Regular,14,17,15,592.4666667,21.974,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+13959,Honda,Passport 4WD,1997,6,Regular,15,17,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+140,Honda,Prelude,1985,4,Regular,22,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+14088,Honda,Civic,1998,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+14089,Honda,Civic CNG,1998,4,CNG,24,31,27,262.575,0.068888889,1.6,Front-Wheel Drive,Automatic 4-spd
+14090,Honda,Civic,1998,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+14091,Honda,Civic,1998,4,Regular,27,34,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+14092,Honda,Civic,1998,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+14093,Honda,Civic HX,1998,4,Regular,29,35,31,286.6774194,10.63258065,1.6,Front-Wheel Drive,Automatic (variable gear ratios)
+14094,Honda,Civic HX,1998,4,Regular,30,39,34,261.3823529,9.694411765,1.6,Front-Wheel Drive,Manual 5-spd
+14095,Honda,Prelude,1998,4,Premium,19,25,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+14096,Honda,Prelude,1998,4,Premium,20,24,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+141,Honda,Prelude,1985,4,Regular,19,24,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+142,Honda,Prelude,1985,4,Regular,21,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+1428,Honda,Civic Wagon,1985,4,Regular,25,29,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 3-spd
+1429,Honda,Civic Wagon,1985,4,Regular,27,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 5-spd
+14313,Honda,Accord,1998,4,Regular,19,27,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 4-spd
+14314,Honda,Accord,1998,4,Regular,20,27,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 4-spd
+14315,Honda,Accord,1998,4,Regular,21,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+14316,Honda,Accord,1998,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+14317,Honda,Accord,1998,6,Regular,18,26,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 4-spd
+14432,Honda,Odyssey,1998,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+14656,Honda,CR-V 2WD,1998,4,Regular,19,23,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+14657,Honda,Passport 2WD,1998,6,Regular,15,19,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Automatic 4-spd
+14658,Honda,Passport 2WD,1998,6,Regular,16,19,17,522.7647059,19.38882353,3.2,Rear-Wheel Drive,Manual 5-spd
+14730,Honda,CR-V 4WD,1998,4,Regular,19,23,20,444.35,16.4805,2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+14731,Honda,CR-V 2WD,1998,4,Regular,19,23,21,423.1904762,15.69571429,2,Front-Wheel Drive,Manual 5-spd
+14732,Honda,Passport 4WD,1998,6,Regular,15,19,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+14733,Honda,Passport 4WD,1998,6,Regular,16,19,17,522.7647059,19.38882353,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+14868,Honda,Civic,1999,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+14869,Honda,Civic,1999,4,Regular,24,31,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+14870,Honda,Civic,1999,4,Regular,27,34,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+14871,Honda,Civic,1999,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+14872,Honda,Civic,1999,4,Premium,22,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 5-spd
+14873,Honda,Civic HX,1999,4,Regular,29,35,31,286.6774194,10.63258065,1.6,Front-Wheel Drive,Automatic (variable gear ratios)
+14874,Honda,Civic HX,1999,4,Regular,30,38,33,269.3030303,9.988181818,1.6,Front-Wheel Drive,Manual 5-spd
+14875,Honda,Prelude,1999,4,Premium,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+14876,Honda,Prelude,1999,4,Premium,20,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+15,Honda,Civic CRX,1985,4,Regular,24,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 3-spd
+15102,Honda,Accord,1999,4,Regular,20,27,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 4-spd
+15103,Honda,Accord,1999,4,Regular,20,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 4-spd
+15104,Honda,Accord,1999,4,Regular,21,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+15105,Honda,Accord,1999,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+15106,Honda,Accord,1999,6,Regular,18,26,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 4-spd
+15427,Honda,Odyssey,1999,6,Regular,16,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 4-spd
+15464,Honda,Passport 2WD,1999,6,Regular,15,19,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Automatic 4-spd
+15465,Honda,Passport 2WD,1999,6,Regular,16,19,17,522.7647059,19.38882353,3.2,Rear-Wheel Drive,Manual 5-spd
+15529,Honda,Passport 4WD,1999,6,Regular,15,19,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+15530,Honda,Passport 4WD,1999,6,Regular,16,19,17,522.7647059,19.38882353,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+15606,Honda,Insight,2000,3,Regular,49,61,53,167.6792453,6.219056604,1,Front-Wheel Drive,Manual 5-spd
+15607,Honda,S2000,2000,4,Premium,18,23,20,444.35,16.4805,2,Rear-Wheel Drive,Manual 6-spd
+15672,Honda,Civic,2000,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+15673,Honda,Civic,2000,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Automatic 4-spd
+15674,Honda,Civic,2000,4,Regular,27,33,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+15675,Honda,Civic,2000,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+15676,Honda,Civic,2000,4,Premium,22,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 5-spd
+15677,Honda,Civic HX,2000,4,Regular,29,35,31,286.6774194,10.63258065,1.6,Front-Wheel Drive,Automatic (variable gear ratios)
+15678,Honda,Civic HX,2000,4,Regular,30,39,33,269.3030303,9.988181818,1.6,Front-Wheel Drive,Manual 5-spd
+15679,Honda,Prelude,2000,4,Premium,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic 4-spd
+15680,Honda,Prelude,2000,4,Premium,20,25,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+15904,Honda,Accord,2000,4,Regular,20,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 4-spd
+15905,Honda,Accord,2000,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 4-spd
+15906,Honda,Accord,2000,4,Regular,22,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+15907,Honda,Accord,2000,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Manual 5-spd
+15908,Honda,Accord,2000,6,Regular,18,25,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 4-spd
+16,Honda,Civic CRX,1985,4,Regular,27,34,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 5-spd
+16227,Honda,Odyssey,2000,6,Regular,16,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 4-spd
+16268,Honda,CR-V 2WD,2000,4,Regular,20,23,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+16269,Honda,Passport 2WD,2000,6,Regular,15,19,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Automatic 4-spd
+16270,Honda,Passport 2WD,2000,6,Regular,15,18,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Manual 5-spd
+16340,Honda,CR-V 4WD,2000,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+16341,Honda,CR-V 4WD,2000,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+16342,Honda,Passport 4WD,2000,6,Regular,14,19,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+16343,Honda,Passport 4WD,2000,6,Regular,15,18,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+16404,Honda,Civic CNG,2000,4,CNG,24,31,27,262.575,0.068888889,1.6,Front-Wheel Drive,Automatic 4-spd
+16445,Honda,Insight,2001,3,Regular,45,49,47,189.0851064,7.012978723,1,Front-Wheel Drive,Automatic (variable gear ratios)
+16446,Honda,Insight,2001,3,Regular,45,49,47,189.0851064,7.012978723,1,Front-Wheel Drive,Automatic (variable gear ratios)
+16447,Honda,Insight,2001,3,Regular,48,60,53,167.6792453,6.219056604,1,Front-Wheel Drive,Manual 5-spd
+16448,Honda,S2000,2001,4,Premium,18,24,20,444.35,16.4805,2,Rear-Wheel Drive,Manual 6-spd
+16513,Honda,Civic HX,2001,4,Regular,30,36,32,277.71875,10.3003125,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+16514,Honda,Civic HX,2001,4,Regular,31,39,34,261.3823529,9.694411765,1.7,Front-Wheel Drive,Manual 5-spd
+16515,Honda,Prelude,2001,4,Premium,20,25,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+16516,Honda,Prelude,2001,4,Premium,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Automatic (S4)
+16633,Honda,Civic,2001,4,Regular,26,34,29,306.4482759,11.36586207,1.7,Front-Wheel Drive,Automatic 4-spd
+16634,Honda,Civic,2001,4,Regular,26,34,29,306.4482759,11.36586207,1.7,Front-Wheel Drive,Automatic 4-spd
+16635,Honda,Civic,2001,4,Regular,28,35,31,286.6774194,10.63258065,1.7,Front-Wheel Drive,Manual 5-spd
+16636,Honda,Civic,2001,4,Regular,27,33,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+16764,Honda,Accord,2001,4,Regular,20,27,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 4-spd
+16765,Honda,Accord,2001,4,Regular,20,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 4-spd
+16766,Honda,Accord,2001,4,Regular,22,29,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+16767,Honda,Accord,2001,4,Regular,22,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+16768,Honda,Accord,2001,6,Regular,18,26,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 4-spd
+17,Honda,Civic CRX,1985,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+1706,Honda,Civic CRX,1986,4,Regular,25,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+1707,Honda,Civic CRX,1986,4,Regular,26,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+1708,Honda,Civic CRX,1986,4,Regular,26,30,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Manual 5-spd
+1709,Honda,Civic CRX HF,1986,4,Regular,42,51,46,193.1956522,7.165434783,1.5,Front-Wheel Drive,Manual 5-spd
+17096,Honda,Odyssey,2001,6,Regular,16,23,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 4-spd
+1710,Honda,Civic CRX HF,1986,4,Regular,37,45,40,222.175,8.24025,1.5,Front-Wheel Drive,Manual 5-spd
+17135,Honda,CR-V 2WD,2001,4,Regular,20,23,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+17136,Honda,Passport 2WD,2001,6,Regular,15,20,17,522.7647059,19.38882353,3.2,Rear-Wheel Drive,Automatic 4-spd
+17137,Honda,Passport 2WD,2001,6,Regular,15,19,17,522.7647059,19.38882353,3.2,Rear-Wheel Drive,Manual 5-spd
+17230,Honda,CR-V 4WD,2001,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+17231,Honda,CR-V 4WD,2001,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+17232,Honda,Passport 4WD,2001,6,Regular,15,19,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+17233,Honda,Passport 4WD,2001,6,Regular,15,19,17,522.7647059,19.38882353,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+17323,Honda,Civic CNG,2001,4,CNG,26,31,28,253.1973214,0.066428571,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+17354,Honda,Insight,2002,3,Regular,45,49,47,189.0851064,7.012978723,1,Front-Wheel Drive,Automatic (variable gear ratios)
+17355,Honda,Insight,2002,3,Regular,48,59,53,167.6792453,6.219056604,1,Front-Wheel Drive,Manual 5-spd
+17356,Honda,S2000,2002,4,Premium,18,24,20,444.35,16.4805,2,Rear-Wheel Drive,Manual 6-spd
+17426,Honda,Civic HX,2002,4,Regular,30,36,32,277.71875,10.3003125,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+17427,Honda,Civic HX,2002,4,Regular,31,40,34,261.3823529,9.694411765,1.7,Front-Wheel Drive,Manual 5-spd
+17552,Honda,Civic,2002,4,Regular,26,35,30,296.2333333,10.987,1.7,Front-Wheel Drive,Automatic 4-spd
+17553,Honda,Civic,2002,4,Regular,26,34,29,306.4482759,11.36586207,1.7,Front-Wheel Drive,Automatic 4-spd
+17554,Honda,Civic,2002,4,Regular,28,36,31,286.6774194,10.63258065,1.7,Front-Wheel Drive,Manual 5-spd
+17555,Honda,Civic,2002,4,Regular,27,33,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+17556,Honda,Civic,2002,4,Regular,23,28,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+17691,Honda,Accord,2002,4,Regular,20,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 4-spd
+17692,Honda,Accord,2002,4,Regular,20,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 4-spd
+17693,Honda,Accord,2002,4,Regular,22,29,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+17694,Honda,Accord,2002,4,Regular,22,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+17695,Honda,Accord,2002,6,Regular,18,26,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 4-spd
+18,Honda,Civic CRX HF,1985,4,Regular,40,48,43,206.6744186,7.665348837,1.5,Front-Wheel Drive,Manual 5-spd
+18028,Honda,Odyssey,2002,6,Regular,16,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+18079,Honda,CR-V 2WD,2002,4,Regular,20,26,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+18080,Honda,Passport 2WD,2002,6,Regular,15,20,17,522.7647059,19.38882353,3.2,Rear-Wheel Drive,Automatic 4-spd
+18081,Honda,Passport 2WD,2002,6,Regular,15,19,17,522.7647059,19.38882353,3.2,Rear-Wheel Drive,Manual 5-spd
+18184,Honda,CR-V 4WD,2002,4,Regular,20,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+18185,Honda,CR-V 4WD,2002,4,Regular,19,23,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+18186,Honda,Passport 4WD,2002,6,Regular,15,19,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+18187,Honda,Passport 4WD,2002,6,Regular,15,19,17,522.7647059,19.38882353,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+1825,Honda,Accord,1986,4,Regular,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+1826,Honda,Accord,1986,4,Regular,23,30,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+18268,Honda,Civic CNG,2002,4,CNG,26,31,28,253.1973214,0.066428571,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+1827,Honda,Accord,1986,4,Regular,21,26,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+1828,Honda,Accord,1986,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+1829,Honda,Civic,1986,4,Regular,31,39,34,261.3823529,9.694411765,1.3,Front-Wheel Drive,Manual 4-spd
+1830,Honda,Civic,1986,4,Regular,24,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+1831,Honda,Civic,1986,4,Regular,26,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Manual 5-spd
+18312,Honda,Insight,2003,3,Regular,45,49,47,189.0851064,7.012978723,1,Front-Wheel Drive,Automatic (variable gear ratios)
+18313,Honda,Insight,2003,3,Regular,48,59,53,167.6792453,6.219056604,1,Front-Wheel Drive,Manual 5-spd
+18314,Honda,S2000,2003,4,Premium,18,24,20,444.35,16.4805,2,Rear-Wheel Drive,Manual 6-spd
+1832,Honda,Civic,1986,4,Regular,26,30,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Manual 5-spd
+1835,Honda,Prelude,1986,4,Regular,21,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+1836,Honda,Prelude,1986,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+1837,Honda,Prelude,1986,4,Regular,21,26,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+1838,Honda,Prelude,1986,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+18518,Honda,Civic,2003,4,Regular,29,36,32,277.71875,10.3003125,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+18519,Honda,Civic,2003,4,Regular,25,34,29,306.4482759,11.36586207,1.7,Front-Wheel Drive,Automatic 4-spd
+18520,Honda,Civic,2003,4,Regular,26,34,29,306.4482759,11.36586207,1.7,Front-Wheel Drive,Automatic 4-spd
+18521,Honda,Civic,2003,4,Regular,27,35,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+18522,Honda,Civic,2003,4,Regular,31,39,34,261.3823529,9.694411765,1.7,Front-Wheel Drive,Manual 5-spd
+18523,Honda,Civic,2003,4,Regular,27,35,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+18524,Honda,Civic,2003,4,Regular,22,28,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+18525,Honda,Civic Hybrid,2003,4,Regular,40,43,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+18526,Honda,Civic Hybrid,2003,4,Regular,38,45,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Manual 5-spd
+18655,Honda,Accord,2003,4,Regular,21,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+18656,Honda,Accord,2003,4,Regular,23,31,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+18657,Honda,Accord,2003,6,Regular,19,27,22,403.9545455,14.98227273,3,Front-Wheel Drive,Automatic 5-spd
+18658,Honda,Accord,2003,6,Regular,18,27,21,423.1904762,15.69571429,3,Front-Wheel Drive,Manual 6-spd
+19006,Honda,Odyssey,2003,6,Regular,16,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+19056,Honda,CR-V 2WD,2003,4,Regular,20,26,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 4-spd
+19057,Honda,Element 2WD,2003,4,Regular,20,24,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+19058,Honda,Element 2WD,2003,4,Regular,19,24,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+19171,Honda,CR-V 4WD,2003,4,Regular,19,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+19172,Honda,CR-V 4WD,2003,4,Regular,19,23,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+19173,Honda,Element 4WD,2003,4,Regular,19,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+19174,Honda,Pilot 4WD,2003,6,Regular,15,21,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+19292,Honda,Civic CNG,2003,4,CNG,26,31,28,253.1973214,0.066428571,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+19301,Honda,Civic Hybrid,2003,4,Regular,39,43,40,222.175,8.24025,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+19302,Honda,Civic Hybrid,2003,4,Regular,37,45,40,222.175,8.24025,1.3,Front-Wheel Drive,Manual 5-spd
+19330,Honda,Element 4WD,2003,4,Regular,18,22,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+19356,Honda,Insight,2004,3,Regular,45,49,47,189.0851064,7.012978723,1,Front-Wheel Drive,Automatic (variable gear ratios)
+19357,Honda,Insight,2004,3,Regular,48,58,52,170.9038462,6.338653846,1,Front-Wheel Drive,Manual 5-spd
+19358,Honda,S2000,2004,4,Premium,17,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 6-spd
+19581,Honda,Civic,2004,4,Regular,29,36,32,277.71875,10.3003125,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+19582,Honda,Civic,2004,4,Regular,25,34,29,306.4482759,11.36586207,1.7,Front-Wheel Drive,Automatic 4-spd
+19583,Honda,Civic,2004,4,Regular,26,35,30,296.2333333,10.987,1.7,Front-Wheel Drive,Automatic 4-spd
+19584,Honda,Civic,2004,4,Regular,27,34,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+19585,Honda,Civic,2004,4,Regular,27,34,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+19586,Honda,Civic,2004,4,Regular,31,39,34,261.3823529,9.694411765,1.7,Front-Wheel Drive,Manual 5-spd
+19587,Honda,Civic,2004,4,Regular,22,28,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+19588,Honda,Civic Hybrid,2004,4,Regular,39,43,40,222.175,8.24025,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+19589,Honda,Civic Hybrid,2004,4,Regular,39,42,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+19590,Honda,Civic Hybrid,2004,4,Regular,37,45,40,222.175,8.24025,1.3,Front-Wheel Drive,Manual 5-spd
+19591,Honda,Civic Hybrid,2004,4,Regular,38,45,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Manual 5-spd
+19747,Honda,Accord,2004,4,Regular,21,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+19748,Honda,Accord,2004,4,Regular,23,31,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+19749,Honda,Accord,2004,6,Regular,18,27,22,403.9545455,14.98227273,3,Front-Wheel Drive,Automatic 5-spd
+19750,Honda,Accord,2004,6,Regular,18,27,21,423.1904762,15.69571429,3,Front-Wheel Drive,Manual 6-spd
+20131,Honda,Odyssey,2004,6,Regular,16,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+20183,Honda,CR-V 2WD,2004,4,Regular,20,26,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 4-spd
+20184,Honda,Element 2WD,2004,4,Regular,20,24,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+20185,Honda,Element 2WD,2004,4,Regular,19,24,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+20295,Honda,CR-V 4WD,2004,4,Regular,19,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+20296,Honda,CR-V 4WD,2004,4,Regular,19,23,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+20297,Honda,Element 4WD,2004,4,Regular,19,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+20298,Honda,Element 4WD,2004,4,Regular,18,22,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+20299,Honda,Pilot 4WD,2004,6,Regular,15,21,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+20406,Honda,Civic CNG,2004,4,CNG,26,31,28,253.1973214,0.066428571,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+20478,Honda,Insight,2005,3,Regular,45,49,47,189.0851064,7.012978723,1,Front-Wheel Drive,Automatic (variable gear ratios)
+20479,Honda,Insight,2005,3,Regular,48,58,52,170.9038462,6.338653846,1,Front-Wheel Drive,Manual 5-spd
+20480,Honda,S2000,2005,4,Premium,17,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 6-spd
+20705,Honda,Civic,2005,4,Regular,29,36,32,277.71875,10.3003125,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+20706,Honda,Civic,2005,4,Regular,25,34,29,306.4482759,11.36586207,1.7,Front-Wheel Drive,Automatic 4-spd
+20707,Honda,Civic,2005,4,Regular,26,35,30,296.2333333,10.987,1.7,Front-Wheel Drive,Automatic 4-spd
+20708,Honda,Civic,2005,4,Regular,27,34,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+20709,Honda,Civic,2005,4,Regular,31,39,34,261.3823529,9.694411765,1.7,Front-Wheel Drive,Manual 5-spd
+20710,Honda,Civic,2005,4,Regular,27,34,30,296.2333333,10.987,1.7,Front-Wheel Drive,Manual 5-spd
+20711,Honda,Civic,2005,4,Regular,22,28,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+20712,Honda,Civic Hybrid,2005,4,Regular,39,43,40,222.175,8.24025,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+20713,Honda,Civic Hybrid,2005,4,Regular,39,42,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+20714,Honda,Civic Hybrid,2005,4,Regular,37,45,40,222.175,8.24025,1.3,Front-Wheel Drive,Manual 5-spd
+20715,Honda,Civic Hybrid,2005,4,Regular,38,45,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Manual 5-spd
+20867,Honda,Accord,2005,4,Regular,21,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+20868,Honda,Accord,2005,4,Regular,23,31,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+20869,Honda,Accord,2005,6,Regular,19,28,22,403.9545455,14.98227273,3,Front-Wheel Drive,Automatic 5-spd
+20870,Honda,Accord,2005,6,Regular,18,27,21,423.1904762,15.69571429,3,Front-Wheel Drive,Manual 6-spd
+21235,Honda,Odyssey,2005,6,Regular,17,26,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+21236,Honda,Odyssey,2005,6,Regular,17,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+21298,Honda,CR-V 2WD,2005,4,Regular,20,26,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 5-spd
+21405,Honda,CR-V 4WD,2005,4,Regular,20,25,22,403.9545455,14.98227273,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+21406,Honda,CR-V 4WD,2005,4,Regular,19,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+21407,Honda,Pilot 4WD,2005,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+21527,Honda,Civic CNG,2005,4,CNG,26,31,28,253.1973214,0.066428571,1.7,Front-Wheel Drive,Automatic (variable gear ratios)
+21539,Honda,Accord Hybrid,2005,6,Regular,25,33,28,317.3928571,11.77178571,3,Front-Wheel Drive,Automatic 5-spd
+21540,Honda,Element 2WD,2005,4,Regular,19,24,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+21541,Honda,Element 2WD,2005,4,Regular,19,23,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+21542,Honda,Element 4WD,2005,4,Regular,19,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+21543,Honda,Element 4WD,2005,4,Regular,18,22,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+21607,Honda,CR-V 2WD,1999,4,Regular,20,23,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+21608,Honda,CR-V 4WD,1999,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+21609,Honda,CR-V 4WD,1999,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+21631,Honda,Insight,2006,3,Regular,45,49,47,189.0851064,7.012978723,1,Front-Wheel Drive,Automatic (variable gear ratios)
+21632,Honda,Insight,2006,3,Regular,48,58,52,170.9038462,6.338653846,1,Front-Wheel Drive,Manual 5-spd
+21633,Honda,S2000,2006,4,Premium,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 6-spd
+21736,Honda,Civic,2006,4,Regular,26,36,30,296.2333333,10.987,1.8,Front-Wheel Drive,Automatic 5-spd
+21737,Honda,Civic,2006,4,Regular,26,34,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+21960,Honda,Accord,2006,4,Regular,21,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+21961,Honda,Accord,2006,4,Regular,23,31,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+21962,Honda,Accord,2006,6,Regular,18,26,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 5-spd
+21963,Honda,Accord,2006,6,Regular,18,27,21,423.1904762,15.69571429,3,Front-Wheel Drive,Manual 6-spd
+22281,Honda,Ridgeline Truck 4WD,2006,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+22330,Honda,Odyssey,2006,6,Regular,17,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+22331,Honda,Odyssey,2006,6,Regular,17,26,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+22401,Honda,CR-V 2WD,2006,4,Regular,20,26,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 5-spd
+22402,Honda,Element 2WD,2006,4,Regular,19,24,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+22403,Honda,Element 2WD,2006,4,Regular,19,23,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+22404,Honda,Pilot 2WD,2006,6,Regular,16,22,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 5-spd
+2248,Honda,Civic Wagon,1986,4,Regular,24,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+2249,Honda,Civic Wagon,1986,4,Regular,26,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Manual 5-spd
+2250,Honda,Civic Wagon 4WD,1986,4,Regular,22,26,24,370.2916667,13.73375,1.5,4-Wheel or All-Wheel Drive,Manual 5-spd
+22508,Honda,CR-V 4WD,2006,4,Regular,20,25,22,403.9545455,14.98227273,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+22509,Honda,CR-V 4WD,2006,4,Regular,19,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+22510,Honda,Element 4WD,2006,4,Regular,19,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+22511,Honda,Element 4WD,2006,4,Regular,18,22,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+22512,Honda,Pilot 4WD,2006,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+22643,Honda,Civic Hybrid,2006,4,Regular,40,45,42,211.5952381,7.847857143,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+22675,Honda,Civic,2006,4,Premium,20,29,23,386.3913043,14.33086957,2,Front-Wheel Drive,Manual 6-spd
+22676,Honda,Accord Hybrid,2006,6,Regular,22,31,25,355.48,13.1844,3,Front-Wheel Drive,Automatic 5-spd
+22860,Honda,Fit,2007,4,Regular,27,35,30,296.2333333,10.987,1.5,Front-Wheel Drive,Automatic 5-spd
+22861,Honda,Fit,2007,4,Regular,28,34,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+22862,Honda,Fit,2007,4,Regular,27,34,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Automatic (S5)
+23053,Honda,Civic CNG,2006,4,CNG,24,36,28,253.1973214,0.066428571,1.8,Front-Wheel Drive,Automatic 5-spd
+23370,Honda,Ridgeline Truck 4WD,2007,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+23479,Honda,S2000,2007,4,Premium,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 6-spd
+23502,Honda,Civic,2007,4,Regular,25,36,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Automatic 5-spd
+23503,Honda,Civic,2007,4,Regular,26,34,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+23504,Honda,Civic,2007,4,Premium,20,29,23,386.3913043,14.33086957,2,Front-Wheel Drive,Manual 6-spd
+23533,Honda,Civic Hybrid,2007,4,Regular,40,45,42,211.5952381,7.847857143,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+23567,Honda,Accord,2007,4,Regular,21,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+23568,Honda,Accord,2007,4,Regular,23,31,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+23569,Honda,Accord,2007,6,Regular,18,26,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 5-spd
+23570,Honda,Accord,2007,6,Regular,18,27,21,423.1904762,15.69571429,3,Front-Wheel Drive,Manual 6-spd
+23571,Honda,Accord Hybrid,2007,6,Regular,24,32,27,329.1481481,12.20777778,3,Front-Wheel Drive,Automatic 5-spd
+23701,Honda,Odyssey,2007,6,Regular,16,23,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 5-spd
+23702,Honda,Odyssey,2007,6,Regular,17,24,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+23729,Honda,CR-V 2WD,2007,4,Regular,20,27,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 5-spd
+23730,Honda,Element 2WD,2007,4,Regular,20,25,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+23731,Honda,Element 2WD,2007,4,Regular,18,23,20,444.35,16.4805,2.4,Front-Wheel Drive,Manual 5-spd
+23732,Honda,Pilot 2WD,2007,6,Regular,16,22,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 5-spd
+23791,Honda,CR-V 4WD,2007,4,Regular,19,26,22,403.9545455,14.98227273,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+23792,Honda,Element 4WD,2007,4,Regular,19,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+23793,Honda,Element 4WD,2007,4,Regular,18,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+23794,Honda,Pilot 4WD,2007,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+23862,Honda,Civic CNG,2007,4,CNG,24,36,28,253.1973214,0.066428571,1.8,Front-Wheel Drive,Automatic 5-spd
+24543,Honda,Ridgeline Truck 4WD,2008,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+24607,Honda,Element 2WD,2008,4,Regular,20,25,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+24608,Honda,Element 2WD,2008,4,Regular,18,23,20,444.35,16.4805,2.4,Front-Wheel Drive,Manual 5-spd
+24609,Honda,Pilot 2WD,2008,6,Regular,16,22,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 5-spd
+24654,Honda,Element 4WD,2008,4,Regular,19,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+24655,Honda,Element 4WD,2008,4,Regular,18,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+24656,Honda,Pilot 4WD,2008,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+24758,Honda,S2000,2008,4,Premium,18,25,21,423.1904762,15.69571429,2.2,Rear-Wheel Drive,Manual 6-spd
+24825,Honda,Accord Coupe,2008,4,Regular,21,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+24826,Honda,Accord Coupe,2008,4,Regular,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 5-spd
+24827,Honda,Accord Coupe,2008,6,Regular,19,28,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 5-spd
+24828,Honda,Accord Coupe,2008,6,Regular,17,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Manual 6-spd
+24829,Honda,Civic Hybrid,2008,4,Regular,40,45,42,211.5952381,7.847857143,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+24900,Honda,Accord,2008,4,Regular,21,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+24901,Honda,Accord,2008,4,Regular,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 5-spd
+24902,Honda,Accord,2008,6,Regular,19,29,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 5-spd
+24920,Honda,Fit,2008,4,Regular,27,34,30,296.2333333,10.987,1.5,Front-Wheel Drive,Automatic 5-spd
+24921,Honda,Fit,2008,4,Regular,28,34,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+24922,Honda,Fit,2008,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Automatic (S5)
+24981,Honda,CR-V 2WD,2008,4,Regular,20,27,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 5-spd
+25023,Honda,CR-V 4WD,2008,4,Regular,20,26,22,403.9545455,14.98227273,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+25082,Honda,Civic,2008,4,Regular,25,36,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Automatic 5-spd
+25083,Honda,Civic CNG,2008,4,CNG,24,36,28,253.1973214,0.066428571,1.8,Front-Wheel Drive,Automatic 5-spd
+25084,Honda,Civic,2008,4,Regular,26,34,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+25085,Honda,Civic,2008,4,Premium,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 6-spd
+25116,Honda,Odyssey,2008,6,Regular,16,23,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 5-spd
+25117,Honda,Odyssey,2008,6,Regular,17,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+25630,Honda,Pilot 2WD,2009,6,Regular,17,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+25676,Honda,Pilot 4WD,2009,6,Regular,16,22,18,493.7222222,18.31166667,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+25788,Honda,S2000,2009,4,Premium,18,25,21,423.1904762,15.69571429,2.2,Rear-Wheel Drive,Manual 6-spd
+25868,Honda,Civic CNG,2009,4,CNG,24,36,28,253.1973214,0.066428571,1.8,Front-Wheel Drive,Automatic 5-spd
+25869,Honda,Civic,2009,4,Regular,26,34,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+25870,Honda,Civic,2009,4,Regular,25,36,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Automatic 5-spd
+25917,Honda,Accord Coupe,2009,4,Regular,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 5-spd
+25918,Honda,Accord Coupe,2009,4,Regular,21,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+25919,Honda,Accord Coupe,2009,6,Regular,19,28,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 5-spd
+25920,Honda,Accord Coupe,2009,6,Regular,17,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Manual 6-spd
+25921,Honda,Civic Hybrid,2009,4,Regular,40,45,42,211.5952381,7.847857143,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+26005,Honda,Accord,2009,4,Regular,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 5-spd
+26006,Honda,Accord,2009,4,Regular,21,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+26007,Honda,Accord,2009,6,Regular,19,29,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 5-spd
+26019,Honda,Fit,2009,4,Regular,28,35,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Automatic 5-spd
+26020,Honda,Fit,2009,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+26021,Honda,Fit,2009,4,Regular,27,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Automatic (S5)
+26091,Honda,Ridgeline Truck 4WD,2009,6,Regular,15,20,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+26114,Honda,Odyssey,2009,6,Regular,16,23,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 5-spd
+26115,Honda,Odyssey,2009,6,Regular,17,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+26132,Honda,CR-V 2WD,2009,4,Regular,20,27,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 5-spd
+26176,Honda,CR-V 4WD,2009,4,Regular,20,26,22,403.9545455,14.98227273,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+26250,Honda,Civic,2009,4,Premium,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 6-spd
+26280,Honda,Element 2WD,2009,4,Regular,18,23,20,444.35,16.4805,2.4,Front-Wheel Drive,Manual 5-spd
+26281,Honda,Element 2WD,2009,4,Regular,20,25,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+26284,Honda,Element 4WD,2009,4,Regular,18,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd
+26285,Honda,Element 4WD,2009,4,Regular,19,24,21,423.1904762,15.69571429,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+26365,Honda,Insight,2010,4,Regular,40,43,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Auto(AV-S7)
+26366,Honda,Insight,2010,4,Regular,40,43,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+26572,Honda,Civic CRX,1984,4,Regular,38,47,41,216.7560976,8.039268293,1.3,,Manual 5-spd
+26573,Honda,Civic CRX,1984,4,Regular,25,30,27,329.1481481,12.20777778,1.5,,Automatic 3-spd
+26574,Honda,Civic CRX,1984,4,Regular,28,35,30,296.2333333,10.987,1.5,,Manual 5-spd
+26682,Honda,Accord,1984,4,Regular,23,29,25,355.48,13.1844,1.8,,Automatic 4-spd
+26683,Honda,Accord,1984,4,Regular,25,32,28,317.3928571,11.77178571,1.8,,Manual 5-spd
+26684,Honda,Civic,1984,4,Regular,32,39,35,253.9142857,9.417428571,1.3,,Manual 4-spd
+26685,Honda,Civic,1984,4,Regular,23,26,25,355.48,13.1844,1.5,,Automatic 3-spd
+26686,Honda,Civic,1984,4,Regular,27,32,29,306.4482759,11.36586207,1.5,,Manual 5-spd
+26687,Honda,Prelude,1984,4,Regular,21,27,23,386.3913043,14.33086957,1.8,,Automatic 4-spd
+26688,Honda,Prelude,1984,4,Regular,21,29,24,370.2916667,13.73375,1.8,,Manual 5-spd
+27103,Honda,Civic Wagon,1984,4,Regular,23,26,25,355.48,13.1844,1.5,,Automatic 3-spd
+27104,Honda,Civic Wagon,1984,4,Regular,26,32,29,306.4482759,11.36586207,1.5,,Manual 5-spd
+27692,Honda,Civic CRX,1984,4,Regular,36,45,39,227.8717949,8.451538462,1.3,,Manual 5-spd
+27693,Honda,Civic CRX,1984,4,Regular,24,29,26,341.8076923,12.67730769,1.5,,Automatic 3-spd
+27694,Honda,Civic CRX,1984,4,Regular,28,35,30,296.2333333,10.987,1.5,,Manual 5-spd
+27792,Honda,Accord,1984,4,Regular,22,28,24,370.2916667,13.73375,1.8,,Automatic 4-spd
+27793,Honda,Accord,1984,4,Regular,23,30,26,341.8076923,12.67730769,1.8,,Manual 5-spd
+27794,Honda,Civic,1984,4,Regular,31,37,33,269.3030303,9.988181818,1.3,,Manual 4-spd
+27795,Honda,Civic,1984,4,Regular,23,27,25,355.48,13.1844,1.5,,Automatic 3-spd
+27796,Honda,Civic,1984,4,Regular,26,33,29,306.4482759,11.36586207,1.5,,Manual 5-spd
+27797,Honda,Prelude,1984,4,Regular,21,27,23,386.3913043,14.33086957,1.8,,Automatic 4-spd
+27798,Honda,Prelude,1984,4,Regular,22,29,25,355.48,13.1844,1.8,,Manual 5-spd
+28141,Honda,Civic Wagon,1984,4,Regular,23,27,25,355.48,13.1844,1.5,,Automatic 3-spd
+28142,Honda,Civic Wagon,1984,4,Regular,26,33,28,317.3928571,11.77178571,1.5,,Manual 5-spd
+28731,Honda,Odyssey,2010,6,Regular,16,23,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 5-spd
+28732,Honda,Odyssey,2010,6,Regular,17,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+28756,Honda,Pilot 2WD,2010,6,Regular,17,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+28796,Honda,Pilot 4WD,2010,6,Regular,16,22,18,493.7222222,18.31166667,3.5,All-Wheel Drive,Automatic 5-spd
+28978,Honda,Prelude,1993,4,Regular,20,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+2908,Honda,Civic CRX,1987,4,Regular,25,31,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 4-spd
+2909,Honda,Civic CRX,1987,4,Regular,26,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+2910,Honda,Civic CRX,1987,4,Regular,26,30,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Manual 5-spd
+29103,Honda,Passport 2WD,1995,6,Regular,14,18,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Automatic 4-spd
+29104,Honda,Passport 2WD,1995,6,Regular,15,18,16,555.4375,20.600625,3.2,Rear-Wheel Drive,Manual 5-spd
+29107,Honda,Passport 4WD,1995,6,Regular,14,17,15,592.4666667,21.974,3.2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+29108,Honda,Passport 4WD,1995,6,Regular,15,17,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Manual 5-spd
+2911,Honda,Civic CRX HF,1987,4,Regular,42,51,46,193.1956522,7.165434783,1.5,Front-Wheel Drive,Manual 5-spd
+2912,Honda,Civic CRX HF,1987,4,Regular,37,45,40,222.175,8.24025,1.5,Front-Wheel Drive,Manual 5-spd
+29170,Honda,Civic,1999,4,CNG,24,31,27,262.575,0.068888889,1.6,Front-Wheel Drive,Automatic 4-spd
+29197,Honda,CR-V 2WD,1999,4,Regular,20,23,21,423.1904762,15.69571429,2,2-Wheel Drive,Automatic 4-spd
+29204,Honda,CR-V 4WD,1999,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+29205,Honda,CR-V 4WD,1999,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Automatic 4-spd
+29573,Honda,CR-V 4WD,1997,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel Drive,Automatic 4-spd
+29598,Honda,Ridgeline Truck 4WD,2010,6,Regular,15,20,17,522.7647059,19.38882353,3.5,All-Wheel Drive,Automatic 5-spd
+29636,Honda,Fit,2010,4,Regular,28,35,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Automatic 5-spd
+29637,Honda,Fit,2010,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+29638,Honda,Fit,2010,4,Regular,27,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Automatic (S5)
+29654,Honda,Accord Coupe,2010,4,Regular,21,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+29655,Honda,Accord Coupe,2010,4,Regular,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 5-spd
+29656,Honda,Accord Coupe,2010,6,Regular,19,28,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 5-spd
+29657,Honda,Accord Coupe,2010,6,Regular,17,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Manual 6-spd
+29658,Honda,Accord,2010,4,Regular,21,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+29659,Honda,Accord,2010,4,Regular,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 5-spd
+29660,Honda,Accord,2010,6,Regular,19,29,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic 5-spd
+29700,Honda,Civic,2010,4,Regular,25,36,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Automatic 5-spd
+29701,Honda,Civic,2010,4,Regular,26,34,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+29702,Honda,Civic,2010,4,Premium,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 6-spd
+29712,Honda,Civic Hybrid,2010,4,Regular,40,45,42,211.5952381,7.847857143,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+29743,Honda,CR-V 2WD,2010,4,Regular,21,28,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+29749,Honda,CR-V 4WD,2010,4,Regular,21,27,23,386.3913043,14.33086957,2.4,All-Wheel Drive,Automatic 5-spd
+29758,Honda,Civic CNG,2010,4,CNG,24,36,28,253.1973214,0.066428571,1.8,Front-Wheel Drive,Automatic 5-spd
+29795,Honda,Element 2WD,2010,4,Regular,20,25,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+29796,Honda,Element 2WD,2010,4,Regular,18,23,20,444.35,16.4805,2.4,Front-Wheel Drive,Manual 5-spd
+29804,Honda,Element 4WD,2010,4,Regular,19,24,21,423.1904762,15.69571429,2.4,All-Wheel Drive,Automatic 5-spd
+29805,Honda,Element 4WD,2010,4,Regular,18,23,20,444.35,16.4805,2.4,All-Wheel Drive,Manual 5-spd
+29935,Honda,Accord Crosstour 2WD,2010,6,Regular,18,27,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic 5-spd
+29944,Honda,Accord Crosstour 4WD,2010,6,Regular,17,25,20,444.35,16.4805,3.5,All-Wheel Drive,Automatic 5-spd
+30184,Honda,Pilot 2WD,2011,6,Regular,17,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 5-spd
+30208,Honda,Pilot 4WD,2011,6,Regular,16,22,18,493.7222222,18.31166667,3.5,All-Wheel Drive,Automatic 5-spd
+3033,Honda,Civic,1987,4,Regular,31,39,34,261.3823529,9.694411765,1.3,Front-Wheel Drive,Manual 4-spd
+3034,Honda,Civic,1987,4,Regular,23,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+3035,Honda,Civic,1987,4,Regular,26,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Manual 5-spd
+3036,Honda,Civic,1987,4,Regular,26,30,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Manual 5-spd
+3039,Honda,Prelude,1987,4,Regular,21,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+3040,Honda,Prelude,1987,4,Regular,22,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+3041,Honda,Prelude,1987,4,Regular,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+3042,Honda,Prelude,1987,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+30471,Honda,Ridgeline Truck 4WD,2011,6,Regular,15,20,17,522.7647059,19.38882353,3.5,All-Wheel Drive,Automatic 5-spd
+30587,Honda,CR-Z,2011,4,Regular,31,37,34,261.3823529,9.694411765,1.5,Front-Wheel Drive,Manual 6-spd
+30588,Honda,CR-Z,2011,4,Regular,34,38,36,246.8611111,9.155833333,1.5,Front-Wheel Drive,Auto(AV-S7)
+30601,Honda,Civic CNG,2011,4,CNG,24,36,28,253.1973214,0.066428571,1.8,Front-Wheel Drive,Automatic 5-spd
+30602,Honda,Civic,2011,4,Regular,26,34,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+30603,Honda,Civic,2011,4,Regular,25,35,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Automatic 5-spd
+30604,Honda,Civic,2011,4,Premium,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 6-spd
+30627,Honda,Civic Hybrid,2011,4,Regular,39,43,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+30628,Honda,Accord Coupe,2011,4,Regular,23,31,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+30629,Honda,Accord Coupe,2011,4,Regular,22,32,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic 5-spd
+30630,Honda,Accord Coupe,2011,6,Regular,18,26,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Manual 6-spd
+30631,Honda,Accord Coupe,2011,6,Regular,19,29,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic (S5)
+30684,Honda,Accord,2011,4,Regular,23,32,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+30685,Honda,Accord,2011,4,Regular,22,33,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic 5-spd
+30686,Honda,Accord,2011,6,Regular,20,30,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic 5-spd
+30742,Honda,CR-V 2WD,2011,4,Regular,21,28,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+30782,Honda,CR-V 4WD,2011,4,Regular,21,27,23,386.3913043,14.33086957,2.4,All-Wheel Drive,Automatic 5-spd
+30843,Honda,Insight,2011,4,Regular,39,41,40,222.175,8.24025,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+30844,Honda,Insight,2011,4,Regular,39,41,40,222.175,8.24025,1.3,Front-Wheel Drive,Auto(AV-S7)
+30883,Honda,Odyssey,2011,6,Regular,19,27,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+30884,Honda,Odyssey,2011,6,Regular,18,27,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic 5-spd
+30885,Honda,Accord Crosstour 2WD,2011,6,Regular,18,27,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic 5-spd
+30886,Honda,Element 2WD,2011,4,Regular,20,24,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+30901,Honda,Accord Crosstour 4WD,2011,6,Regular,18,26,21,423.1904762,15.69571429,3.5,All-Wheel Drive,Automatic 5-spd
+30902,Honda,Element 4WD,2011,4,Regular,19,24,21,423.1904762,15.69571429,2.4,All-Wheel Drive,Automatic 5-spd
+30903,Honda,Element 4WD,2011,4,Regular,18,22,20,444.35,16.4805,2.4,All-Wheel Drive,Manual 5-spd
+30970,Honda,EV Plus,1999,,Electricity,49,46,48,0,0.426,,,Automatic (A1)
+30975,Honda,EV Plus,1998,,Electricity,49,46,48,0,0.426,,,Automatic (A1)
+31079,Honda,Fit,2011,4,Regular,28,35,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Automatic 5-spd
+31080,Honda,Fit,2011,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+31081,Honda,Fit,2011,4,Regular,27,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Automatic (S5)
+31186,Honda,Civic,2012,4,Regular,28,38,31,286.6774194,10.63258065,1.8,Front-Wheel Drive,Automatic 5-spd
+31187,Honda,Civic,2012,4,Regular,28,35,31,286.6774194,10.63258065,1.8,Front-Wheel Drive,Manual 5-spd
+31188,Honda,Civic,2012,4,Premium,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 6-spd
+31189,Honda,Civic HF,2012,4,Regular,28,39,32,277.71875,10.3003125,1.8,Front-Wheel Drive,Automatic 5-spd
+31190,Honda,Civic Hybrid,2012,4,Regular,43,44,44,201.9772727,7.491136364,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+31681,Honda,Accord Coupe,2012,4,Regular,23,31,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+31682,Honda,Accord Coupe,2012,4,Regular,22,32,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic 5-spd
+31683,Honda,Accord Coupe,2012,6,Regular,18,26,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Manual 6-spd
+31684,Honda,Accord Coupe,2012,6,Regular,19,29,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic (S5)
+31787,Honda,Accord,2012,4,Regular,23,33,27,329.1481481,12.20777778,2.4,Front-Wheel Drive,Manual 5-spd
+31788,Honda,Accord,2012,4,Regular,22,33,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic 5-spd
+31789,Honda,Accord,2012,6,Regular,20,30,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic 5-spd
+31817,Honda,Fit,2012,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+31818,Honda,Fit,2012,4,Regular,28,35,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Automatic 5-spd
+31819,Honda,Fit,2012,4,Regular,27,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Automatic (S5)
+31895,Honda,Odyssey,2012,6,Regular,18,27,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic 5-spd
+31896,Honda,Odyssey,2012,6,Regular,19,27,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+31913,Honda,Crosstour 2WD,2012,6,Regular,18,27,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic 5-spd
+31914,Honda,Pilot 2WD,2012,6,Regular,18,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+31961,Honda,Crosstour 4WD,2012,6,Regular,18,26,21,423.1904762,15.69571429,3.5,All-Wheel Drive,Automatic 5-spd
+31962,Honda,Pilot 4WD,2012,6,Regular,17,24,20,444.35,16.4805,3.5,All-Wheel Drive,Automatic 5-spd
+32011,Honda,CR-Z,2012,4,Regular,31,37,34,261.3823529,9.694411765,1.5,Front-Wheel Drive,Manual 6-spd
+32012,Honda,CR-Z,2012,4,Regular,34,38,36,246.8611111,9.155833333,1.5,Front-Wheel Drive,Auto(AV-S7)
+32053,Honda,Insight,2012,4,Regular,40,42,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+32054,Honda,Insight,2012,4,Regular,40,42,41,216.7560976,8.039268293,1.3,Front-Wheel Drive,Auto(AV-S7)
+32127,Honda,Ridgeline Truck 4WD,2012,6,Regular,16,21,17,522.7647059,19.38882353,3.5,All-Wheel Drive,Automatic 5-spd
+32128,Honda,CR-V 2WD,2012,4,Regular,23,30,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic 5-spd
+32138,Honda,CR-V 4WD,2012,4,Regular,22,29,25,355.48,13.1844,2.4,All-Wheel Drive,Automatic 5-spd
+32336,Honda,Civic Natural Gas,2012,4,CNG,27,38,31,228.6943548,0.06,1.8,Front-Wheel Drive,Automatic 5-spd
+3234,Honda,Accord,1987,4,Regular,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+3235,Honda,Accord,1987,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+3236,Honda,Accord,1987,4,Regular,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+3237,Honda,Accord,1987,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+33158,Honda,Insight,2013,4,Regular,40,42,41,216,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+33159,Honda,Insight,2013,4,Regular,40,42,41,216,8.039268293,1.3,Front-Wheel Drive,Auto(AV-S7)
+33170,Honda,Accord,2013,4,Regular,26,34,29,307,11.36586207,2.4,Front-Wheel Drive,Auto(AV-S7)
+33171,Honda,Accord,2013,4,Regular,24,34,27,327,12.20777778,2.4,Front-Wheel Drive,Manual 6-spd
+33172,Honda,Accord,2013,6,Regular,21,33,25,353,13.1844,3.5,Front-Wheel Drive,Automatic 6-spd
+33173,Honda,Accord,2013,6,Regular,21,31,24,365,13.73375,3.5,Front-Wheel Drive,Automatic (S6)
+33174,Honda,Accord,2013,6,Regular,18,28,21,414,15.69571429,3.5,Front-Wheel Drive,Manual 6-spd
+33223,Honda,Odyssey,2013,6,Regular,18,27,21,425,15.69571429,3.5,Front-Wheel Drive,Automatic 5-spd
+33224,Honda,Odyssey,2013,6,Regular,19,27,22,404,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+33227,Honda,CR-V 2WD,2013,4,Regular,23,30,26,346,12.67730769,2.4,Front-Wheel Drive,Automatic 5-spd
+33228,Honda,Pilot 2WD,2013,6,Regular,18,25,20,433,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+33239,Honda,CR-V 4WD,2013,4,Regular,22,29,25,357,13.1844,2.4,All-Wheel Drive,Automatic 5-spd
+33253,Honda,Pilot 4WD,2013,6,Regular,17,24,20,447,16.4805,3.5,All-Wheel Drive,Automatic 5-spd
+33265,Honda,Fit EV,2013,,Electricity,132,105,118,0,0.174,,Front-Wheel Drive,Automatic (A1)
+33269,Honda,Accord,2013,4,Regular,26,35,30,300,10.987,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+33273,Honda,Fit,2013,4,Regular,27,33,29,305,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+33274,Honda,Fit,2013,4,Regular,28,35,31,292,10.63258065,1.5,Front-Wheel Drive,Automatic 5-spd
+33275,Honda,Fit,2013,4,Regular,27,33,30,305,10.987,1.5,Front-Wheel Drive,Automatic (S5)
+33297,Honda,Ridgeline Truck 4WD,2013,6,Regular,16,21,17,505,19.38882353,3.5,All-Wheel Drive,Automatic 5-spd
+33364,Honda,Crosstour 2WD,2012,4,Regular,21,29,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 5-spd
+33465,Honda,CR-Z,2013,4,Regular,31,37,33,266,9.988181818,1.5,Front-Wheel Drive,Manual 6-spd
+33471,Honda,Civic,2013,4,Premium,22,31,25,354,13.1844,2.4,Front-Wheel Drive,Manual 6-spd
+33475,Honda,Crosstour 4WD,2013,6,Regular,19,27,22,406,14.98227273,3.5,All-Wheel Drive,Automatic (S6)
+33501,Honda,CR-Z,2013,4,Regular,35,38,36,244,9.155833333,1.5,Front-Wheel Drive,Auto(AV-S7)
+33503,Honda,Civic Natural Gas,2013,4,CNG,27,38,31,218,0.06,1.8,Front-Wheel Drive,Automatic 5-spd
+33504,Honda,Civic,2013,4,Regular,28,39,32,279,10.3003125,1.8,Front-Wheel Drive,Automatic 5-spd
+33505,Honda,Civic,2013,4,Regular,28,35,31,288,10.63258065,1.8,Front-Wheel Drive,Manual 5-spd
+33506,Honda,Civic HF,2013,4,Regular,29,41,33,265,9.988181818,1.8,Front-Wheel Drive,Automatic 5-spd
+33507,Honda,Civic Hybrid,2013,4,Regular,43,44,44,200,7.491136364,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+33508,Honda,Crosstour 2WD,2013,4,Regular,22,30,25,357,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+33509,Honda,Crosstour 2WD,2013,6,Regular,20,29,23,384,14.33086957,3.5,Front-Wheel Drive,Automatic (S6)
+33557,Honda,Accord Plug-in Hybrid,2014,4,Regular Gas and Electricity,47,46,46,130,4.827656777,2,Front-Wheel Drive,Automatic (variable gear ratios)
+33717,Honda,Odyssey,2014,6,Regular,19,27,22,404,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+33905,Honda,Fit EV,2014,,Electricity,132,105,118,0,0.174,,Front-Wheel Drive,Automatic (A1)
+34227,Honda,CR-V 2WD,2014,4,Regular,23,30,26,345,12.67730769,2.4,Front-Wheel Drive,Automatic 5-spd
+34230,Honda,CR-V 4WD,2014,4,Regular,22,29,25,357,13.1844,2.4,All-Wheel Drive,Automatic 5-spd
+34313,Honda,Accord,2014,4,Regular,26,33,29,309,11.36586207,2.4,Front-Wheel Drive,Auto(AV-S7)
+34314,Honda,Accord,2014,6,Regular,21,31,24,364,13.73375,3.5,Front-Wheel Drive,Automatic (S6)
+34315,Honda,Accord,2014,6,Regular,18,28,21,414,15.69571429,3.5,Front-Wheel Drive,Manual 6-spd
+34337,Honda,Insight,2014,4,Regular,40,42,41,216,8.039268293,1.3,Front-Wheel Drive,Automatic (variable gear ratios)
+34338,Honda,Insight,2014,4,Regular,40,42,41,216,8.039268293,1.3,Front-Wheel Drive,Auto(AV-S7)
+34344,Honda,Accord,2014,4,Regular,24,34,27,324,12.20777778,2.4,Front-Wheel Drive,Manual 6-spd
+34345,Honda,Accord,2014,4,Regular,26,35,30,300,10.987,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+34346,Honda,Accord,2014,6,Regular,21,34,25,350,13.1844,3.5,Front-Wheel Drive,Automatic 6spd
+34361,Honda,Ridgeline Truck 4WD,2014,6,Regular,16,21,17,505,19.38882353,3.5,All-Wheel Drive,Automatic 5-spd
+34373,Honda,Pilot 2WD,2014,6,Regular,18,25,20,433,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+34380,Honda,Pilot 4WD,2014,6,Regular,17,24,20,447,16.4805,3.5,All-Wheel Drive,Automatic 5-spd
+34395,Honda,Accord Hybrid,2014,4,Regular,49,45,47,188,7.012978723,2,Front-Wheel Drive,Automatic (variable gear ratios)
+34426,Honda,CR-Z,2014,4,Regular,35,38,36,244,9.155833333,1.5,Front-Wheel Drive,Auto(AV-S7)
+34427,Honda,CR-Z,2014,4,Regular,31,37,33,266,9.988181818,1.5,Front-Wheel Drive,Manual 6-spd
+34506,Honda,Crosstour 2WD,2014,4,Regular,22,30,25,357,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+34507,Honda,Crosstour 2WD,2014,6,Regular,20,29,23,384,14.33086957,3.5,Front-Wheel Drive,Automatic (S6)
+34511,Honda,Crosstour 4WD,2014,6,Regular,19,27,22,406,14.98227273,3.5,All-Wheel Drive,Automatic (S6)
+34719,Honda,Civic Hybrid,2014,4,Regular,43,45,44,202,7.491136364,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+34728,Honda,Civic Natural Gas,2014,4,CNG,27,38,31,218,0.06,1.8,Front-Wheel Drive,Automatic 5-spd
+34772,Honda,Civic,2014,4,Regular,29,37,33,273,9.988181818,1.8,Front-Wheel Drive,Automatic (variable gear ratios)
+34773,Honda,Civic,2014,4,Premium,22,31,25,352,13.1844,2.4,Front-Wheel Drive,Manual 6-spd
+34774,Honda,Civic HF,2014,4,Regular,31,40,34,259,9.694411765,1.8,Front-Wheel Drive,Automatic (variable gear ratios)
+34784,Honda,Civic,2014,4,Regular,29,37,32,276,10.3003125,1.8,Front-Wheel Drive,Auto(AV-S7)
+34785,Honda,Civic,2014,4,Regular,28,35,31,289,10.63258065,1.8,Front-Wheel Drive,Manual 5-spd
+34836,Honda,Fit,2015,4,Regular,32,37,34,261,9.694411765,1.5,Front-Wheel Drive,Auto(AV-S7)
+34837,Honda,Fit,2015,4,Regular,29,36,32,282,10.3003125,1.5,Front-Wheel Drive,Manual 6-spd
+34855,Honda,Fit,2015,4,Regular,33,40,36,250,9.155833333,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+3503,Honda,Civic Wagon,1987,4,Regular,24,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+3504,Honda,Civic Wagon,1987,4,Regular,26,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Manual 5-spd
+35048,Honda,Pilot 2WD,2015,6,Regular,18,25,20,433,16.4805,3.5,Front-Wheel Drive,Automatic 5-spd
+3505,Honda,Civic Wagon 4WD,1987,4,Regular,22,26,24,370.2916667,13.73375,1.5,4-Wheel or All-Wheel Drive,Manual 5-spd
+35054,Honda,Pilot 4WD,2015,6,Regular,17,24,20,447,16.4805,3.5,All-Wheel Drive,Automatic 5-spd
+35463,Honda,Odyssey,2015,6,Regular,19,27,22,404,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+35548,Honda,Accord,2015,6,Regular,18,28,21,414,15.69571429,3.5,Front-Wheel Drive,Manual 6-spd
+35549,Honda,Accord,2015,6,Regular,21,34,25,350,13.1844,3.5,Front-Wheel Drive,Automatic 6-spd
+35550,Honda,Accord,2015,6,Regular,21,31,24,364,13.73375,3.5,Front-Wheel Drive,Automatic (S6)
+35551,Honda,Accord,2015,4,Regular,23,34,27,328,12.20777778,2.4,Front-Wheel Drive,Manual 6-spd
+35552,Honda,Accord,2015,4,Regular,27,35,30,296,10.987,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+35553,Honda,Accord,2015,4,Regular,26,34,29,307,11.36586207,2.4,Front-Wheel Drive,Auto(AV-S7)
+35627,Honda,Accord Hybrid,2015,4,Regular,49,45,47,188,7.012978723,2,Front-Wheel Drive,Automatic (variable gear ratios)
+35657,Honda,CR-Z,2015,4,Regular,35,38,36,244,9.155833333,1.5,Front-Wheel Drive,Auto(AV-S7)
+35658,Honda,CR-Z,2015,4,Regular,31,37,33,266,9.988181818,1.5,Front-Wheel Drive,Manual 6-spd
+35667,Honda,Civic Hybrid,2015,4,Regular,43,45,44,202,7.491136364,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+35668,Honda,Civic,2015,4,Regular,29,37,33,272,9.988181818,1.8,Front-Wheel Drive,Automatic (variable gear ratios)
+35669,Honda,Civic,2015,4,Regular,29,37,32,276,10.3003125,1.8,Front-Wheel Drive,Auto(AV-S7)
+35670,Honda,Civic,2015,4,Regular,28,35,31,289,10.63258065,1.8,Front-Wheel Drive,Manual 5-spd
+35671,Honda,Civic HF,2015,4,Regular,31,40,34,259,9.694411765,1.8,Front-Wheel Drive,Automatic (variable gear ratios)
+35672,Honda,Civic,2015,4,Premium,22,31,25,352,13.1844,2.4,Front-Wheel Drive,Manual 6-spd
+35691,Honda,Crosstour 2WD,2015,4,Regular,22,30,25,357,13.1844,2.4,Front-Wheel Drive,Automatic 5-spd
+35692,Honda,Crosstour 2WD,2015,6,Regular,20,29,23,384,14.33086957,3.5,Front-Wheel Drive,Automatic (S6)
+35698,Honda,Crosstour 4WD,2015,6,Regular,19,27,22,406,14.98227273,3.5,All-Wheel Drive,Automatic (S6)
+35784,Honda,CR-V 2WD,2015,4,Regular,27,33,29,306,11.36586207,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+35787,Honda,CR-V 4WD,2015,4,Regular,26,32,28,317,11.77178571,2.4,All-Wheel Drive,Automatic (variable gear ratios)
+35886,Honda,Civic Natural Gas,2015,4,CNG,27,38,31,218,0.06,1.8,Front-Wheel Drive,Automatic 5-spd
+35998,Honda,HR-V 2WD,2016,4,Regular,25,33,28,314,11.77178571,1.8,Front-Wheel Drive,Manual 6-spd
+35999,Honda,HR-V 2WD,2016,4,Regular,28,34,31,290,10.63258065,1.8,Front-Wheel Drive,Automatic (variable gear ratios)
+36000,Honda,HR-V 2WD,2016,4,Regular,28,34,31,290,10.63258065,1.8,Front-Wheel Drive,Auto(AV-S7)
+36001,Honda,HR-V 4WD,2016,4,Regular,27,32,29,313,11.36586207,1.8,All-Wheel Drive,Automatic (variable gear ratios)
+36002,Honda,HR-V 4WD,2016,4,Regular,27,32,29,313,11.36586207,1.8,All-Wheel Drive,Auto(AV-S7)
+36135,Honda,Fit,2016,4,Regular,29,36,32,282,10.3003125,1.5,Front-Wheel Drive,Manual 6-spd
+36136,Honda,Fit,2016,4,Regular,33,40,36,250,9.155833333,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+36137,Honda,Fit,2016,4,Regular,32,37,34,261,9.694411765,1.5,Front-Wheel Drive,Auto(AV-S7)
+36414,Honda,Pilot 2WD,2016,6,Regular,20,27,23,388,14.33086957,3.5,Front-Wheel Drive,Automatic (S9)
+36415,Honda,Pilot 2WD,2016,6,Regular,19,27,22,405,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+36425,Honda,Pilot 4WD,2016,6,Regular,19,26,22,406,14.98227273,3.5,All-Wheel Drive,Automatic (S9)
+36426,Honda,Pilot 4WD,2016,6,Regular,18,25,21,423,15.69571429,3.5,All-Wheel Drive,Automatic 6-spd
+36767,Honda,Odyssey,2016,6,Regular,19,27,22,404,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+36847,Honda,Accord,2016,6,Regular,18,28,21,414,15.69571429,3.5,Front-Wheel Drive,Manual 6-spd
+36848,Honda,Accord,2016,6,Regular,21,33,25,350,13.1844,3.5,Front-Wheel Drive,Automatic 6-spd
+36849,Honda,Accord,2016,6,Regular,21,32,24,362,13.73375,3.5,Front-Wheel Drive,Automatic (S6)
+36850,Honda,Accord,2016,4,Regular,23,33,27,332,12.20777778,2.4,Front-Wheel Drive,Manual 6-spd
+36851,Honda,Accord,2016,4,Regular,27,36,30,292,10.987,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+36852,Honda,Accord,2016,4,Regular,26,34,29,304,11.36586207,2.4,Front-Wheel Drive,Auto(AV-S7)
+36992,Honda,CR-V 2WD,2016,4,Regular,26,32,29,309,11.36586207,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+37024,Honda,CR-V 4WD,2016,4,Regular,25,31,27,326,12.20777778,2.4,All-Wheel Drive,Automatic (variable gear ratios)
+37075,Honda,Civic 4Dr,2016,4,Regular,31,42,35,252,9.417428571,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+37076,Honda,Civic 4Dr,2016,4,Regular,27,38,31,287,10.63258065,2,Front-Wheel Drive,Manual 6-spd
+37077,Honda,Civic 4Dr,2016,4,Regular,30,40,34,262,9.694411765,2,Front-Wheel Drive,Automatic (variable gear ratios)
+37093,Honda,CR-Z,2016,4,Regular,31,37,33,266,9.988181818,1.5,Front-Wheel Drive,Manual 6-spd
+37094,Honda,CR-Z,2016,4,Regular,35,38,36,244,9.155833333,1.5,Front-Wheel Drive,Auto(AV-S7)
+37284,Honda,Civic 2Dr,2016,4,Regular,31,41,35,250,9.417428571,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+37285,Honda,Civic 2Dr,2016,4,Regular,26,37,30,293,10.987,2,Front-Wheel Drive,Manual 6-spd
+37286,Honda,Civic 2Dr,2016,4,Regular,30,39,34,265,9.694411765,2,Front-Wheel Drive,Automatic (variable gear ratios)
+37403,Honda,Ridgeline FWD,2017,6,Regular,19,26,22,410,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+37404,Honda,Ridgeline AWD,2017,6,Regular,18,25,21,424,15.69571429,3.5,All-Wheel Drive,Automatic 6-spd
+37621,Honda,Accord,2017,6,Regular,18,28,21,414,15.69571429,3.5,Front-Wheel Drive,Manual 6-spd
+37622,Honda,Accord,2017,6,Regular,21,33,25,350,13.1844,3.5,Front-Wheel Drive,Automatic 6-spd
+37623,Honda,Accord,2017,6,Regular,21,32,24,362,13.73375,3.5,Front-Wheel Drive,Automatic (S6)
+37624,Honda,Accord,2017,4,Regular,23,32,26,334,12.67730769,2.4,Front-Wheel Drive,Manual 6-spd
+37625,Honda,Accord,2017,4,Regular,27,36,30,292,10.987,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+37626,Honda,Accord,2017,4,Regular,26,34,29,303,11.36586207,2.4,Front-Wheel Drive,Auto(AV-S7)
+37637,Honda,Fit,2017,4,Regular,33,40,36,247,9.155833333,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+37638,Honda,Fit,2017,4,Regular,32,37,34,260,9.694411765,1.5,Front-Wheel Drive,Auto(AV-S7)
+37639,Honda,Fit,2017,4,Regular,29,36,32,281,10.3003125,1.5,Front-Wheel Drive,Manual 6-spd
+37825,Honda,Accord Hybrid,2017,4,Regular,49,47,48,183,6.866875,2,Front-Wheel Drive,Automatic (variable gear ratios)
+38158,Honda,HR-V FWD,2017,4,Regular,25,33,28,314,11.77178571,1.8,Front-Wheel Drive,Manual 6-spd
+38159,Honda,HR-V FWD,2017,4,Regular,28,34,31,289,10.63258065,1.8,Front-Wheel Drive,Automatic (variable gear ratios)
+38160,Honda,HR-V FWD,2017,4,Regular,28,34,31,289,10.63258065,1.8,Front-Wheel Drive,Auto(AV-S7)
+38161,Honda,HR-V AWD,2017,4,Regular,27,31,29,314,11.36586207,1.8,All-Wheel Drive,Automatic (variable gear ratios)
+38162,Honda,HR-V AWD,2017,4,Regular,27,31,29,314,11.36586207,1.8,All-Wheel Drive,Auto(AV-S7)
+38236,Honda,Civic 2Dr,2017,4,Regular,28,39,32,278,10.3003125,2,Front-Wheel Drive,Manual 6-spd
+38237,Honda,Civic 2Dr,2017,4,Regular,30,39,34,262,9.694411765,2,Front-Wheel Drive,Automatic (variable gear ratios)
+38238,Honda,Civic 2Dr,2017,4,Regular,30,41,35,258,9.417428571,1.5,Front-Wheel Drive,Manual 6-spd
+38239,Honda,Civic 2Dr,2017,4,Regular,31,40,35,256,9.417428571,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+38246,Honda,Civic 4Dr,2017,4,Regular,28,40,32,273,10.3003125,2,Front-Wheel Drive,Manual 6-spd
+38247,Honda,Civic 4Dr,2017,4,Regular,31,40,34,257,9.694411765,2,Front-Wheel Drive,Automatic (variable gear ratios)
+38248,Honda,Civic 4Dr,2017,4,Regular,31,42,35,251,9.417428571,1.5,Front-Wheel Drive,Manual 6-spd
+38249,Honda,Civic 4Dr,2017,4,Regular,32,42,36,248,9.155833333,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+38255,Honda,Civic 5Dr,2017,4,Regular,30,39,33,264,9.988181818,1.5,Front-Wheel Drive,Manual 6-spd
+38256,Honda,Civic 5Dr,2017,4,Regular,31,40,34,260,9.694411765,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+38257,Honda,Civic 5Dr Sport,2017,4,Premium,30,36,32,274,10.3003125,1.5,Front-Wheel Drive,Auto(AV-S7)
+38258,Honda,Civic 5Dr Sport,2017,4,Premium,30,39,33,264,9.988181818,1.5,Front-Wheel Drive,Manual 6-spd
+38446,Honda,Pilot FWD,2017,6,Regular,20,27,23,388,14.33086957,3.5,Front-Wheel Drive,Automatic (S9)
+38447,Honda,Pilot FWD,2017,6,Regular,19,27,22,405,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+38448,Honda,CR-V FWD,2017,4,Regular,26,32,28,312,11.77178571,2.4,Front-Wheel Drive,Automatic (variable gear ratios)
+38449,Honda,CR-V FWD,2017,4,Regular,28,34,30,292,10.987,1.5,Front-Wheel Drive,Automatic (variable gear ratios)
+38450,Honda,Pilot AWD,2017,6,Regular,19,26,22,407,14.98227273,3.5,All-Wheel Drive,Automatic (S9)
+38451,Honda,Pilot AWD,2017,6,Regular,18,26,21,421,15.69571429,3.5,All-Wheel Drive,Automatic 6-spd
+38452,Honda,CR-V AWD,2017,4,Regular,25,31,27,328,12.20777778,2.4,All-Wheel Drive,Automatic (variable gear ratios)
+38453,Honda,CR-V AWD,2017,4,Regular,27,33,29,303,11.36586207,1.5,All-Wheel Drive,Automatic (variable gear ratios)
+38509,Honda,Odyssey,2017,6,Regular,19,27,22,404,14.98227273,3.5,Front-Wheel Drive,Automatic 6-spd
+4135,Honda,Civic CRX,1988,4,Regular,26,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Automatic 4-spd
+4136,Honda,Civic CRX,1988,4,Regular,29,35,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 5-spd
+4137,Honda,Civic CRX,1988,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+4138,Honda,Civic CRX HF,1988,4,Regular,41,49,44,201.9772727,7.491136364,1.5,Front-Wheel Drive,Manual 5-spd
+4139,Honda,Civic CRX HF,1988,4,Regular,37,47,41,216.7560976,8.039268293,1.5,Front-Wheel Drive,Manual 5-spd
+4254,Honda,Civic,1988,4,Regular,25,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+4255,Honda,Civic,1988,4,Regular,24,30,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 4-spd
+4256,Honda,Civic,1988,4,Regular,24,30,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 4-spd
+4257,Honda,Civic,1988,4,Regular,30,35,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 4-spd
+4258,Honda,Civic,1988,4,Regular,30,35,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 4-spd
+4259,Honda,Civic,1988,4,Regular,28,34,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+4260,Honda,Civic,1988,4,Regular,28,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 5-spd
+4261,Honda,Prelude,1988,4,Regular,18,24,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 4-spd
+4262,Honda,Prelude,1988,4,Regular,20,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+4263,Honda,Prelude,1988,4,Regular,19,24,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+4264,Honda,Prelude,1988,4,Regular,20,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+4432,Honda,Accord,1988,4,Regular,21,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 4-spd
+4433,Honda,Accord,1988,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+4434,Honda,Accord,1988,4,Regular,20,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+4435,Honda,Accord,1988,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+4676,Honda,Civic Wagon,1988,4,Regular,24,30,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 4-spd
+4677,Honda,Civic Wagon,1988,4,Regular,24,30,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+4678,Honda,Civic Wagon,1988,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+4679,Honda,Civic Wagon 4WD,1988,4,Regular,22,24,23,386.3913043,14.33086957,1.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+5260,Honda,Civic CRX,1989,4,Regular,25,33,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+5261,Honda,Civic CRX,1989,4,Regular,29,37,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 5-spd
+5262,Honda,Civic CRX,1989,4,Regular,24,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Manual 5-spd
+5263,Honda,Civic CRX HF,1989,4,Regular,41,49,44,201.9772727,7.491136364,1.5,Front-Wheel Drive,Manual 5-spd
+5264,Honda,Civic CRX HF,1989,4,Regular,37,47,41,216.7560976,8.039268293,1.5,Front-Wheel Drive,Manual 5-spd
+5388,Honda,Civic,1989,4,Regular,23,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+5389,Honda,Civic,1989,4,Regular,29,35,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Manual 4-spd
+5390,Honda,Civic,1989,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+5391,Honda,Civic,1989,4,Regular,24,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Manual 5-spd
+5392,Honda,Prelude,1989,4,Regular,18,24,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 4-spd
+5393,Honda,Prelude,1989,4,Regular,20,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+5394,Honda,Prelude,1989,4,Regular,18,24,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 4-spd
+5395,Honda,Prelude,1989,4,Regular,20,24,21,423.1904762,15.69571429,2,Front-Wheel Drive,Manual 5-spd
+5556,Honda,Accord,1989,4,Regular,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+5557,Honda,Accord,1989,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+5558,Honda,Accord,1989,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+5834,Honda,Civic Wagon,1989,4,Regular,23,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+5835,Honda,Civic Wagon,1989,4,Regular,26,32,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+5836,Honda,Civic Wagon 4WD,1989,4,Regular,21,25,23,386.3913043,14.33086957,1.6,4-Wheel or All-Wheel Drive,Automatic 4-spd
+5837,Honda,Civic Wagon 4WD,1989,4,Regular,22,24,23,386.3913043,14.33086957,1.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+593,Honda,Civic Wagon,1985,4,Regular,23,26,24,370.2916667,13.73375,1.5,Front-Wheel Drive,Automatic 3-spd
+594,Honda,Civic Wagon,1985,4,Regular,26,31,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Manual 5-spd
+595,Honda,Civic Wagon 4WD,1985,4,Regular,23,27,24,370.2916667,13.73375,1.5,4-Wheel or All-Wheel Drive,Manual 5-spd
+6407,Honda,Civic CRX,1990,4,Regular,25,32,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+6408,Honda,Civic CRX,1990,4,Regular,27,32,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+6409,Honda,Civic CRX,1990,4,Regular,24,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+6410,Honda,Civic CRX HF,1990,4,Regular,40,47,43,206.6744186,7.665348837,1.5,Front-Wheel Drive,Manual 5-spd
+6411,Honda,Civic CRX HF,1990,4,Regular,36,44,39,227.8717949,8.451538462,1.5,Front-Wheel Drive,Manual 5-spd
+6525,Honda,Civic,1990,4,Regular,24,30,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+6526,Honda,Civic,1990,4,Regular,28,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 4-spd
+6527,Honda,Civic,1990,4,Regular,27,31,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+6528,Honda,Civic,1990,4,Regular,22,26,24,370.2916667,13.73375,1.6,Front-Wheel Drive,Automatic 4-spd
+6529,Honda,Civic,1990,4,Regular,24,29,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Manual 5-spd
+6530,Honda,Prelude,1990,4,Regular,18,24,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 4-spd
+6531,Honda,Prelude,1990,4,Regular,19,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+6532,Honda,Prelude,1990,4,Regular,19,25,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+6533,Honda,Prelude,1990,4,Regular,20,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+6534,Honda,Prelude,1990,4,Regular,18,23,20,444.35,16.4805,2.1,Front-Wheel Drive,Automatic 4-spd
+6535,Honda,Prelude,1990,4,Regular,19,24,21,423.1904762,15.69571429,2.1,Front-Wheel Drive,Manual 5-spd
+6688,Honda,Accord,1990,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+6689,Honda,Accord,1990,4,Regular,21,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+6918,Honda,Civic Wagon,1990,4,Regular,24,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+6919,Honda,Civic Wagon,1990,4,Regular,27,31,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+6920,Honda,Civic Wagon 4WD,1990,4,Regular,21,24,22,403.9545455,14.98227273,1.6,4-Wheel or All-Wheel Drive,Automatic 4-spd
+6921,Honda,Civic Wagon 4WD,1990,4,Regular,21,24,22,403.9545455,14.98227273,1.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+7471,Honda,Civic CRX,1991,4,Regular,25,31,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 4-spd
+7472,Honda,Civic CRX,1991,4,Regular,27,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+7473,Honda,Civic CRX,1991,4,Regular,24,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+7474,Honda,Civic CRX HF,1991,4,Regular,40,47,43,206.6744186,7.665348837,1.5,Front-Wheel Drive,Manual 5-spd
+7475,Honda,Civic CRX HF,1991,4,Regular,36,44,39,227.8717949,8.451538462,1.5,Front-Wheel Drive,Manual 5-spd
+7617,Honda,Civic,1991,4,Regular,24,30,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+7618,Honda,Civic,1991,4,Regular,28,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 4-spd
+7619,Honda,Civic,1991,4,Regular,27,32,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+7620,Honda,Civic,1991,4,Regular,21,26,23,386.3913043,14.33086957,1.6,Front-Wheel Drive,Automatic 4-spd
+7621,Honda,Civic,1991,4,Regular,24,29,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Manual 5-spd
+7622,Honda,Prelude,1991,4,Regular,18,24,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 4-spd
+7623,Honda,Prelude,1991,4,Regular,19,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+7624,Honda,Prelude,1991,4,Regular,19,25,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 4-spd
+7625,Honda,Prelude,1991,4,Regular,20,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+7626,Honda,Prelude,1991,4,Regular,18,23,20,444.35,16.4805,2.1,Front-Wheel Drive,Automatic 4-spd
+7627,Honda,Prelude,1991,4,Regular,19,24,21,423.1904762,15.69571429,2.1,Front-Wheel Drive,Manual 5-spd
+7794,Honda,Accord,1991,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+7795,Honda,Accord,1991,4,Regular,21,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+8048,Honda,Accord Wagon,1991,4,Regular,18,24,20,444.35,16.4805,2.2,Front-Wheel Drive,Automatic 4-spd
+8049,Honda,Accord Wagon,1991,4,Regular,19,25,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+8050,Honda,Civic Wagon,1991,4,Regular,24,29,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+8051,Honda,Civic Wagon,1991,4,Regular,27,32,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+8052,Honda,Civic Wagon 4WD,1991,4,Regular,22,25,23,386.3913043,14.33086957,1.6,4-Wheel or All-Wheel Drive,Automatic 4-spd
+8053,Honda,Civic Wagon 4WD,1991,4,Regular,21,24,22,403.9545455,14.98227273,1.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+8713,Honda,Civic,1992,4,Regular,26,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Automatic 4-spd
+8714,Honda,Civic,1992,4,Regular,35,43,38,233.8684211,8.673947368,1.5,Front-Wheel Drive,Manual 5-spd
+8715,Honda,Civic,1992,4,Regular,33,42,37,240.1891892,8.908378378,1.5,Front-Wheel Drive,Manual 5-spd
+8716,Honda,Civic,1992,4,Regular,30,36,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 5-spd
+8717,Honda,Civic,1992,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+8718,Honda,Civic,1992,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+8719,Honda,Civic HB VX,1992,4,Regular,39,49,43,206.6744186,7.665348837,1.5,Front-Wheel Drive,Manual 5-spd
+8720,Honda,Civic HB VX,1992,4,Regular,36,46,40,222.175,8.24025,1.5,Front-Wheel Drive,Manual 5-spd
+8721,Honda,Prelude,1992,4,Regular,19,27,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+8722,Honda,Prelude,1992,4,Regular,21,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+8723,Honda,Prelude,1992,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+8724,Honda,Prelude,1992,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+8884,Honda,Accord,1992,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+8885,Honda,Accord,1992,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+8886,Honda,Accord,1992,4,Regular,21,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+8887,Honda,Accord,1992,4,Regular,21,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+9123,Honda,Accord Wagon,1992,4,Regular,18,24,20,444.35,16.4805,2.2,Front-Wheel Drive,Automatic 4-spd
+9124,Honda,Accord Wagon,1992,4,Regular,19,25,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Manual 5-spd
+9646,Honda,Civic Del Sol,1993,4,Regular,26,33,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 4-spd
+9647,Honda,Civic Del Sol,1993,4,Regular,29,34,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+9648,Honda,Civic Del Sol,1993,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+9649,Honda,Civic Del Sol,1993,4,Regular,25,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+9770,Honda,Civic,1993,4,Regular,26,35,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Automatic 4-spd
+9771,Honda,Civic,1993,4,Regular,35,41,38,233.8684211,8.673947368,1.5,Front-Wheel Drive,Manual 5-spd
+9772,Honda,Civic,1993,4,Regular,29,36,32,277.71875,10.3003125,1.5,Front-Wheel Drive,Manual 5-spd
+9773,Honda,Civic,1993,4,Regular,33,41,36,246.8611111,9.155833333,1.5,Front-Wheel Drive,Manual 5-spd
+9774,Honda,Civic,1993,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+9775,Honda,Civic,1993,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+9776,Honda,Civic HB VX,1993,4,Regular,39,49,43,206.6744186,7.665348837,1.5,Front-Wheel Drive,Manual 5-spd
+9777,Honda,Civic HB VX,1993,4,Regular,37,45,40,222.175,8.24025,1.5,Front-Wheel Drive,Manual 5-spd
+9778,Honda,Prelude,1993,4,Regular,20,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+9779,Honda,Prelude,1993,4,Premium,19,24,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+9780,Honda,Prelude,1993,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+9781,Honda,Prelude,1993,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+9782,Honda,Prelude,1993,4,Premium,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+9929,Honda,Accord,1993,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+9930,Honda,Accord,1993,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd

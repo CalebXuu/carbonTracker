@@ -1,0 +1,893 @@
+10083,Pontiac,Grand Prix,1993,6,Regular,17,25,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 3-spd
+10084,Pontiac,Grand Prix,1993,6,Regular,17,27,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+10085,Pontiac,Grand Prix,1993,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Automatic 4-spd
+10086,Pontiac,Grand Prix,1993,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Manual 5-spd
+10131,Pontiac,Bonneville,1993,6,Premium,15,23,18,493.7222222,18.31166667,3.8,Front-Wheel Drive,Automatic 4-spd
+10132,Pontiac,Bonneville,1993,6,Regular,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+10521,Pontiac,Trans Sport 2WD,1993,6,Regular,16,21,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 3-spd
+10522,Pontiac,Trans Sport 2WD,1993,6,Regular,15,23,18,493.7222222,18.31166667,3.8,Front-Wheel Drive,Automatic 4-spd
+10802,Pontiac,Firebird/Formula,1994,6,Regular,17,26,20,444.35,16.4805,3.4,Rear-Wheel Drive,Automatic 4-spd
+10803,Pontiac,Firebird/Formula,1994,6,Regular,17,26,20,444.35,16.4805,3.4,Rear-Wheel Drive,Manual 5-spd
+10804,Pontiac,Firebird/Formula,1994,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+10805,Pontiac,Firebird/Formula,1994,8,Premium,15,24,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Manual 6-spd
+10806,Pontiac,Firefly,1994,3,Regular,31,36,33,269.3030303,9.988181818,1,Front-Wheel Drive,Automatic 3-spd
+10807,Pontiac,Firefly,1994,3,Regular,38,45,41,216.7560976,8.039268293,1,Front-Wheel Drive,Manual 5-spd
+10808,Pontiac,Sunbird,1994,4,Regular,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 3-spd
+10809,Pontiac,Sunbird,1994,4,Regular,22,32,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+10810,Pontiac,Sunbird,1994,6,Regular,18,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 3-spd
+10811,Pontiac,Sunbird,1994,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Manual 5-spd
+10957,Pontiac,Grand Am,1994,4,Regular,19,29,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 3-spd
+10958,Pontiac,Grand Am,1994,4,Regular,19,29,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 4-spd
+10959,Pontiac,Grand Am,1994,4,Regular,18,27,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+10960,Pontiac,Grand Am,1994,4,Premium,18,27,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+10961,Pontiac,Grand Am,1994,4,Regular,21,32,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+10962,Pontiac,Grand Am,1994,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+11042,Pontiac,Grand Prix,1994,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+11043,Pontiac,Grand Prix,1994,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Automatic 4-spd
+11089,Pontiac,Bonneville,1994,6,Regular,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+11090,Pontiac,Bonneville,1994,6,Premium,15,23,18,493.7222222,18.31166667,3.8,Front-Wheel Drive,Automatic 4-spd
+11480,Pontiac,Trans Sport 2WD,1994,6,Regular,17,21,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 3-spd
+11481,Pontiac,Trans Sport 2WD,1994,6,Regular,15,23,18,493.7222222,18.31166667,3.8,Front-Wheel Drive,Automatic 4-spd
+11745,Pontiac,Firebird/Formula,1995,6,Regular,17,26,20,444.35,16.4805,3.4,Rear-Wheel Drive,Automatic 4-spd
+11746,Pontiac,Firebird/Formula,1995,6,Regular,17,26,20,444.35,16.4805,3.4,Rear-Wheel Drive,Manual 5-spd
+11747,Pontiac,Firebird/Formula,1995,6,Regular,17,26,20,444.35,16.4805,3.8,Rear-Wheel Drive,Automatic 4-spd
+11748,Pontiac,Firebird/Formula,1995,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+11749,Pontiac,Firebird/Formula,1995,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+11750,Pontiac,Firebird/Formula,1995,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+11751,Pontiac,Firebird/Formula,1995,8,Premium,15,24,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Manual 6-spd
+11906,Pontiac,Grand Am,1995,4,Regular,19,29,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Manual 5-spd
+11907,Pontiac,Grand Am,1995,4,Regular,19,28,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 3-spd
+11908,Pontiac,Grand Am,1995,4,Regular,19,29,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 4-spd
+11909,Pontiac,Grand Am,1995,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+11910,Pontiac,Grand Am,1995,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+11911,Pontiac,Sunfire,1995,4,Regular,21,33,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+11912,Pontiac,Sunfire,1995,4,Regular,19,29,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Manual 5-spd
+11913,Pontiac,Sunfire,1995,4,Regular,19,29,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 4-spd
+11989,Pontiac,Grand Prix,1995,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+11990,Pontiac,Grand Prix,1995,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+11991,Pontiac,Grand Prix,1995,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Automatic 4-spd
+12064,Pontiac,Bonneville,1995,6,Regular,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+12065,Pontiac,Bonneville,1995,6,Premium,15,23,18,493.7222222,18.31166667,3.8,Front-Wheel Drive,Automatic 4-spd
+12433,Pontiac,Trans Sport 2WD,1995,6,Regular,17,21,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 3-spd
+12434,Pontiac,Trans Sport 2WD,1995,6,Regular,15,23,18,493.7222222,18.31166667,3.8,Front-Wheel Drive,Automatic 4-spd
+1255,Pontiac,Firebird,1985,6,Regular,16,24,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Automatic 4-spd
+1256,Pontiac,Firebird,1985,6,Regular,15,24,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Manual 5-spd
+1257,Pontiac,Firebird,1985,8,Regular,15,20,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+1258,Pontiac,Sunbird Convertible,1985,4,Premium,17,23,19,467.7368421,17.34789474,1.8,Front-Wheel Drive,Automatic 3-spd
+1259,Pontiac,Sunbird Convertible,1985,4,Premium,19,27,22,403.9545455,14.98227273,1.8,Front-Wheel Drive,Manual 4-spd
+1260,Pontiac,1000,1985,4,Regular,23,28,25,355.48,13.1844,1.6,Rear-Wheel Drive,Automatic 3-spd
+1261,Pontiac,1000,1985,4,Regular,23,29,26,341.8076923,12.67730769,1.6,Rear-Wheel Drive,Manual 4-spd
+1262,Pontiac,1000,1985,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Rear-Wheel Drive,Manual 5-spd
+12644,Pontiac,Firebird/Formula,1996,6,Regular,17,26,20,444.35,16.4805,3.8,Rear-Wheel Drive,Automatic 4-spd
+12645,Pontiac,Firebird/Formula,1996,6,Regular,17,28,20,444.35,16.4805,3.8,Rear-Wheel Drive,Manual 5-spd
+12646,Pontiac,Firebird/Formula,1996,8,Regular,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+12647,Pontiac,Firebird/Formula,1996,8,Regular,15,24,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Manual 6-spd
+12769,Pontiac,Grand Am,1996,4,Regular,19,29,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+12770,Pontiac,Grand Am,1996,4,Regular,20,30,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+12771,Pontiac,Grand Am,1996,6,Regular,18,27,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+12772,Pontiac,Sunfire,1996,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Automatic 3-spd
+12773,Pontiac,Sunfire,1996,4,Regular,22,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+12774,Pontiac,Sunfire,1996,4,Regular,22,33,26,341.8076923,12.67730769,2.2,Front-Wheel Drive,Manual 5-spd
+12775,Pontiac,Sunfire,1996,4,Regular,19,29,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+12776,Pontiac,Sunfire,1996,4,Regular,20,30,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+12852,Pontiac,Grand Prix,1996,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+12853,Pontiac,Grand Prix,1996,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Automatic 4-spd
+12896,Pontiac,Bonneville,1996,6,Premium,15,24,18,493.7222222,18.31166667,3.8,Front-Wheel Drive,Automatic 4-spd
+13175,Pontiac,Trans Sport 2WD,1996,6,Regular,17,23,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 4-spd
+1320,Pontiac,Grand Am,1985,6,Regular,17,24,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic 3-spd
+1321,Pontiac,Sunbird,1985,4,Premium,17,23,19,467.7368421,17.34789474,1.8,Front-Wheel Drive,Automatic 3-spd
+1322,Pontiac,Sunbird,1985,4,Premium,19,27,22,403.9545455,14.98227273,1.8,Front-Wheel Drive,Manual 4-spd
+1323,Pontiac,Sunbird,1985,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 4-spd
+13385,Pontiac,Firebird/Formula,1997,6,Regular,17,26,20,444.35,16.4805,3.8,Rear-Wheel Drive,Automatic 4-spd
+13386,Pontiac,Firebird/Formula,1997,6,Regular,17,28,20,444.35,16.4805,3.8,Rear-Wheel Drive,Manual 5-spd
+13387,Pontiac,Firebird/Formula,1997,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+13388,Pontiac,Firebird/Formula,1997,8,Premium,15,24,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Manual 6-spd
+13508,Pontiac,Grand Am,1997,4,Regular,19,29,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+13509,Pontiac,Grand Am,1997,4,Regular,20,30,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+13510,Pontiac,Grand Am,1997,6,Regular,18,27,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+13511,Pontiac,Sunfire,1997,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Automatic 3-spd
+13512,Pontiac,Sunfire,1997,4,Regular,22,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+13513,Pontiac,Sunfire,1997,4,Regular,22,33,26,341.8076923,12.67730769,2.2,Front-Wheel Drive,Manual 5-spd
+13514,Pontiac,Sunfire,1997,4,Regular,20,31,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+13515,Pontiac,Sunfire,1997,4,Regular,19,29,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+13516,Pontiac,Sunfire,1997,4,Regular,20,30,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+13592,Pontiac,Grand Prix,1997,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+13593,Pontiac,Grand Prix,1997,6,Premium,16,26,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+13594,Pontiac,Grand Prix,1997,6,Regular,17,27,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+13643,Pontiac,Bonneville,1997,6,Premium,16,26,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+13644,Pontiac,Bonneville,1997,6,Regular,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+1388,Pontiac,Bonneville,1985,6,Regular,16,22,18,493.7222222,18.31166667,3.8,Rear-Wheel Drive,Automatic 3-spd
+1389,Pontiac,Bonneville,1985,8,Regular,15,20,16,555.4375,20.600625,5,Rear-Wheel Drive,Automatic 3-spd
+1390,Pontiac,Grand Prix,1985,6,Regular,16,22,18,493.7222222,18.31166667,3.8,Rear-Wheel Drive,Automatic 3-spd
+13902,Pontiac,Trans Sport 2WD,1997,6,Regular,16,23,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 4-spd
+1391,Pontiac,Grand Prix,1985,8,Regular,15,20,16,555.4375,20.600625,5,Rear-Wheel Drive,Automatic 3-spd
+1392,Pontiac,Grand Prix,1985,8,Regular,15,22,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+1393,Pontiac,6000,1985,6,Regular,17,23,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 3-spd
+1394,Pontiac,6000,1985,6,Diesel,23,31,26,391.5384615,14.69942308,4.3,Front-Wheel Drive,Automatic 3-spd
+1408,Pontiac,Parisienne,1985,6,Regular,15,22,18,493.7222222,18.31166667,4.3,Rear-Wheel Drive,Automatic 3-spd
+1409,Pontiac,Parisienne,1985,6,Regular,15,23,18,493.7222222,18.31166667,4.3,Rear-Wheel Drive,Automatic 4-spd
+1410,Pontiac,Parisienne,1985,8,Regular,15,22,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+14124,Pontiac,Firebird/Formula,1998,6,Regular,17,26,20,444.35,16.4805,3.8,Rear-Wheel Drive,Automatic 4-spd
+14125,Pontiac,Firebird/Formula,1998,6,Regular,17,28,21,423.1904762,15.69571429,3.8,Rear-Wheel Drive,Manual 5-spd
+14126,Pontiac,Firebird/Formula,1998,8,Premium,16,22,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+14127,Pontiac,Firebird/Formula,1998,8,Premium,16,24,19,467.7368421,17.34789474,5.7,Rear-Wheel Drive,Manual 6-spd
+14128,Pontiac,Sunfire,1998,4,Regular,20,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 3-spd
+14129,Pontiac,Sunfire,1998,4,Regular,20,28,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+14130,Pontiac,Sunfire,1998,4,Regular,21,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+14131,Pontiac,Sunfire,1998,4,Regular,19,30,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+14132,Pontiac,Sunfire,1998,4,Regular,20,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+14251,Pontiac,Grand Am,1998,4,Regular,19,30,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+14252,Pontiac,Grand Am,1998,4,Regular,20,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+14253,Pontiac,Grand Am,1998,6,Regular,18,27,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+14349,Pontiac,Grand Prix,1998,6,Regular,17,27,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+14350,Pontiac,Grand Prix,1998,6,Regular,17,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+14351,Pontiac,Grand Prix,1998,6,Regular,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+1438,Pontiac,Sunbird Wagon,1985,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 4-spd
+14401,Pontiac,Bonneville,1998,6,Regular,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+14402,Pontiac,Bonneville,1998,6,Regular,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+1469,Pontiac,6000 Wagon,1985,6,Regular,16,23,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 3-spd
+14690,Pontiac,Trans Sport 2WD,1998,6,Regular,16,23,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 4-spd
+1470,Pontiac,6000 Wagon,1985,6,Diesel,23,31,26,391.5384615,14.69942308,4.3,Front-Wheel Drive,Automatic 3-spd
+1475,Pontiac,Parisienne Wagon,1985,8,Regular,14,19,16,555.4375,20.600625,5,Rear-Wheel Drive,Automatic 4-spd
+14905,Pontiac,Firebird/Trans Am,1999,6,Regular,17,26,20,444.35,16.4805,3.8,Rear-Wheel Drive,Automatic 4-spd
+14906,Pontiac,Firebird/Trans Am,1999,6,Regular,17,28,21,423.1904762,15.69571429,3.8,Rear-Wheel Drive,Manual 5-spd
+14907,Pontiac,Firebird/Trans Am,1999,8,Premium,16,22,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+14908,Pontiac,Firebird/Trans Am,1999,8,Premium,17,26,20,444.35,16.4805,5.7,Rear-Wheel Drive,Manual 6-spd
+14909,Pontiac,Sunfire,1999,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 3-spd
+14910,Pontiac,Sunfire,1999,4,Regular,20,28,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+14911,Pontiac,Sunfire,1999,4,Regular,21,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+14912,Pontiac,Sunfire,1999,4,Regular,19,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+14913,Pontiac,Sunfire,1999,4,Regular,20,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+15026,Pontiac,Grand Am,1999,4,Regular,19,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+15027,Pontiac,Grand Am,1999,6,Regular,18,26,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+15144,Pontiac,Grand Prix,1999,6,Regular,17,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+15145,Pontiac,Grand Prix,1999,6,Regular,17,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+15146,Pontiac,Grand Prix,1999,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+15200,Pontiac,Bonneville,1999,6,Regular,17,25,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+15201,Pontiac,Bonneville,1999,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+15436,Pontiac,Trans Sport/Montana 2WD,1999,6,Regular,16,23,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Automatic 4-spd
+15698,Pontiac,Firebird/Trans Am,2000,6,Regular,17,26,20,444.35,16.4805,3.8,Rear-Wheel Drive,Automatic 4-spd
+15699,Pontiac,Firebird/Trans Am,2000,6,Regular,17,28,21,423.1904762,15.69571429,3.8,Rear-Wheel Drive,Manual 5-spd
+15700,Pontiac,Firebird/Trans Am,2000,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+15701,Pontiac,Firebird/Trans Am,2000,8,Premium,16,25,19,467.7368421,17.34789474,5.7,Rear-Wheel Drive,Manual 6-spd
+15702,Pontiac,Sunfire,2000,4,Regular,20,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 3-spd
+15703,Pontiac,Sunfire,2000,4,Regular,20,29,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 4-spd
+15704,Pontiac,Sunfire,2000,4,Regular,21,31,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+15705,Pontiac,Sunfire,2000,4,Regular,19,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+15706,Pontiac,Sunfire,2000,4,Regular,20,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+15830,Pontiac,Grand Am,2000,4,Regular,19,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 4-spd
+15831,Pontiac,Grand Am,2000,4,Regular,19,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+15832,Pontiac,Grand Am,2000,6,Regular,17,29,21,423.1904762,15.69571429,3.4,Front-Wheel Drive,Automatic 4-spd
+15948,Pontiac,Grand Prix,2000,6,Regular,18,27,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+15949,Pontiac,Grand Prix,2000,6,Regular,17,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+15950,Pontiac,Grand Prix,2000,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+16007,Pontiac,Bonneville,2000,6,Regular,17,27,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+16008,Pontiac,Bonneville,2000,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+16236,Pontiac,Montana FWD,2000,6,Regular,17,24,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 4-spd
+16530,Pontiac,Firebird/Trans Am,2001,6,Regular,17,28,21,423.1904762,15.69571429,3.8,Rear-Wheel Drive,Automatic 4-spd
+16531,Pontiac,Firebird/Trans Am,2001,6,Regular,17,28,21,423.1904762,15.69571429,3.8,Rear-Wheel Drive,Manual 5-spd
+16532,Pontiac,Firebird/Trans Am,2001,8,Premium,16,23,19,467.7368421,17.34789474,5.7,Rear-Wheel Drive,Automatic 4-spd
+16533,Pontiac,Firebird/Trans Am,2001,8,Premium,17,25,20,444.35,16.4805,5.7,Rear-Wheel Drive,Manual 6-spd
+16682,Pontiac,Grand Am,2001,4,Regular,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 4-spd
+16683,Pontiac,Grand Am,2001,4,Regular,19,29,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+16684,Pontiac,Grand Am,2001,6,Regular,19,29,22,403.9545455,14.98227273,3.4,Front-Wheel Drive,Automatic 4-spd
+16685,Pontiac,Sunfire,2001,4,Regular,20,27,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Automatic 3-spd
+16686,Pontiac,Sunfire,2001,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Automatic 4-spd
+16687,Pontiac,Sunfire,2001,4,Regular,20,30,23,386.3913043,14.33086957,2.2,Front-Wheel Drive,Manual 5-spd
+16688,Pontiac,Sunfire,2001,4,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+16689,Pontiac,Sunfire,2001,4,Regular,19,29,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+16811,Pontiac,Grand Prix,2001,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+16812,Pontiac,Grand Prix,2001,6,Regular,17,28,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+16813,Pontiac,Grand Prix,2001,6,Premium,16,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+16866,Pontiac,Bonneville,2001,6,Regular,17,27,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+16867,Pontiac,Bonneville,2001,6,Premium,16,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+17101,Pontiac,Montana FWD,2001,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+1716,Pontiac,Fiero,1986,4,Regular,22,29,25,355.48,13.1844,2.5,Rear-Wheel Drive,Automatic 3-spd
+1717,Pontiac,Fiero,1986,4,Regular,21,32,25,355.48,13.1844,2.5,Rear-Wheel Drive,Manual 5-spd
+17174,Pontiac,Aztek FWD,2001,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+1718,Pontiac,Fiero,1986,6,Regular,16,23,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Automatic 3-spd
+1719,Pontiac,Fiero,1986,6,Regular,17,24,20,444.35,16.4805,2.8,Rear-Wheel Drive,Manual 4-spd
+1720,Pontiac,Fiero,1986,6,Regular,16,25,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Manual 5-spd
+17277,Pontiac,Aztek AWD,2001,6,Regular,16,23,19,467.7368421,17.34789474,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+1734,Pontiac,Firefly FE,1986,3,Regular,34,38,35,253.9142857,9.417428571,1,Front-Wheel Drive,Automatic 3-spd
+1735,Pontiac,Firefly FE,1986,3,Regular,37,45,40,222.175,8.24025,1,Front-Wheel Drive,Manual 5-spd
+17451,Pontiac,Firebird,2002,6,Regular,17,28,21,423.1904762,15.69571429,3.8,Rear-Wheel Drive,Automatic 4-spd
+17452,Pontiac,Firebird,2002,6,Regular,17,29,21,423.1904762,15.69571429,3.8,Rear-Wheel Drive,Manual 5-spd
+17453,Pontiac,Firebird,2002,8,Premium,16,23,19,467.7368421,17.34789474,5.7,Rear-Wheel Drive,Automatic 4-spd
+17454,Pontiac,Firebird,2002,8,Premium,17,25,20,444.35,16.4805,5.7,Rear-Wheel Drive,Manual 6-spd
+17607,Pontiac,Grand Am,2002,4,Regular,21,30,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Automatic 4-spd
+17608,Pontiac,Grand Am,2002,4,Regular,22,30,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+17609,Pontiac,Grand Am,2002,6,Regular,18,27,21,423.1904762,15.69571429,3.4,Front-Wheel Drive,Automatic 4-spd
+17610,Pontiac,Sunfire,2002,4,Regular,21,30,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Automatic 4-spd
+17611,Pontiac,Sunfire,2002,4,Regular,21,30,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Automatic 4-spd
+17612,Pontiac,Sunfire,2002,4,Regular,22,30,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+17613,Pontiac,Sunfire,2002,4,Regular,21,30,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+17614,Pontiac,Sunfire,2002,4,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+17615,Pontiac,Sunfire,2002,4,Regular,19,29,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+17744,Pontiac,Grand Prix,2002,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+17745,Pontiac,Grand Prix,2002,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+17746,Pontiac,Grand Prix,2002,6,Regular,17,27,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+17796,Pontiac,Bonneville,2002,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+17797,Pontiac,Bonneville,2002,6,Regular,17,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+18034,Pontiac,Montana FWD,2002,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+18042,Pontiac,Montana AWD,2002,6,Regular,16,22,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+18120,Pontiac,Aztek FWD,2002,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+18232,Pontiac,Aztek AWD,2002,6,Regular,16,22,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+18584,Pontiac,Grand Am,2003,4,Regular,21,30,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+18585,Pontiac,Grand Am,2003,4,Regular,22,30,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+18586,Pontiac,Grand Am,2003,6,Regular,18,27,21,423.1904762,15.69571429,3.4,Front-Wheel Drive,Automatic 4-spd
+18587,Pontiac,Sunfire,2003,4,Regular,21,30,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+18588,Pontiac,Sunfire,2003,4,Regular,22,30,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+18701,Pontiac,Grand Prix,2003,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 4-spd
+18702,Pontiac,Grand Prix,2003,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+18703,Pontiac,Grand Prix,2003,6,Regular,17,27,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+18753,Pontiac,Bonneville,2003,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+18754,Pontiac,Bonneville,2003,6,Regular,17,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+18775,Pontiac,Vibe,2003,4,Regular,25,31,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Automatic 4-spd
+18776,Pontiac,Vibe AWD,2003,4,Regular,22,29,25,355.48,13.1844,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd
+18777,Pontiac,Vibe,2003,4,Premium,23,28,25,355.48,13.1844,1.8,Front-Wheel Drive,Automatic 4-spd
+18778,Pontiac,Vibe,2003,4,Regular,25,33,28,317.3928571,11.77178571,1.8,Front-Wheel Drive,Manual 5-spd
+18779,Pontiac,Vibe,2003,4,Premium,22,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 6-spd
+1890,Pontiac,Firebird,1986,4,Regular,21,29,24,370.2916667,13.73375,2.5,Rear-Wheel Drive,Manual 5-spd
+1891,Pontiac,Firebird,1986,6,Regular,17,25,20,444.35,16.4805,2.8,Rear-Wheel Drive,Automatic 4-spd
+1892,Pontiac,Firebird,1986,6,Regular,15,24,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Manual 5-spd
+1893,Pontiac,Firebird,1986,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+1894,Pontiac,Firebird,1986,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+1895,Pontiac,Firebird,1986,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+1896,Pontiac,Firefly,1986,3,Regular,34,39,36,246.8611111,9.155833333,1,Front-Wheel Drive,Automatic 3-spd
+1897,Pontiac,Firefly,1986,3,Regular,37,45,40,222.175,8.24025,1,Front-Wheel Drive,Manual 5-spd
+1898,Pontiac,Sunbird Convertible,1986,4,Premium,18,24,20,444.35,16.4805,1.8,Front-Wheel Drive,Automatic 3-spd
+1899,Pontiac,Sunbird Convertible,1986,4,Regular,21,27,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 3-spd
+1900,Pontiac,Sunbird Convertible,1986,4,Premium,19,26,21,423.1904762,15.69571429,1.8,Front-Wheel Drive,Manual 4-spd
+1901,Pontiac,Sunbird Convertible,1986,4,Regular,23,32,26,341.8076923,12.67730769,1.8,Front-Wheel Drive,Manual 5-spd
+19010,Pontiac,Montana FWD,2003,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+19017,Pontiac,Montana AWD,2003,6,Regular,16,22,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+1902,Pontiac,Sunburst,1986,4,Regular,27,31,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Automatic 3-spd
+1903,Pontiac,Sunburst,1986,4,Regular,32,38,34,261.3823529,9.694411765,1.5,Front-Wheel Drive,Manual 5-spd
+1904,Pontiac,1000,1986,4,Regular,22,28,24,370.2916667,13.73375,1.6,Rear-Wheel Drive,Automatic 3-spd
+1905,Pontiac,1000,1986,4,Regular,24,31,27,329.1481481,12.20777778,1.6,Rear-Wheel Drive,Manual 4-spd
+1906,Pontiac,1000,1986,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Rear-Wheel Drive,Manual 5-spd
+19098,Pontiac,Aztek FWD,2003,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+19225,Pontiac,Aztek AWD,2003,6,Regular,16,22,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+19645,Pontiac,Grand Am,2004,4,Regular,21,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+19646,Pontiac,Grand Am,2004,4,Regular,23,33,27,329.1481481,12.20777778,2.2,Front-Wheel Drive,Manual 5-spd
+19647,Pontiac,Grand Am,2004,6,Regular,18,27,21,423.1904762,15.69571429,3.4,Front-Wheel Drive,Automatic 4-spd
+19648,Pontiac,GTO,2004,8,Premium,15,20,17,522.7647059,19.38882353,5.7,Rear-Wheel Drive,Automatic 4-spd
+19649,Pontiac,GTO,2004,8,Premium,16,26,19,467.7368421,17.34789474,5.7,Rear-Wheel Drive,Manual 6-spd
+19650,Pontiac,Sunfire,2004,4,Regular,21,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+19651,Pontiac,Sunfire,2004,4,Regular,23,33,27,329.1481481,12.20777778,2.2,Front-Wheel Drive,Manual 5-spd
+19798,Pontiac,Grand Prix,2004,6,Regular,18,28,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+19799,Pontiac,Grand Prix,2004,6,Premium,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+19800,Pontiac,Grand Prix,2004,6,Premium,16,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+19864,Pontiac,Bonneville,2004,6,Regular,18,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+19865,Pontiac,Bonneville,2004,6,Premium,16,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+19866,Pontiac,Bonneville,2004,8,Regular,15,22,18,493.7222222,18.31166667,4.6,Front-Wheel Drive,Automatic 4-spd
+19886,Pontiac,Vibe,2004,4,Regular,25,31,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Automatic 4-spd
+19887,Pontiac,Vibe AWD,2004,4,Regular,22,29,25,355.48,13.1844,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd
+19888,Pontiac,Vibe,2004,4,Regular,25,33,28,317.3928571,11.77178571,1.8,Front-Wheel Drive,Manual 5-spd
+19889,Pontiac,Vibe,2004,4,Premium,22,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 6-spd
+20138,Pontiac,Montana FWD,2004,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+20144,Pontiac,Montana AWD,2004,6,Regular,16,22,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+20225,Pontiac,Aztek FWD,2004,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 4-spd
+20349,Pontiac,Aztek AWD,2004,6,Regular,16,22,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+2042,Pontiac,Grand Am,1986,4,Regular,20,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+2043,Pontiac,Grand Am,1986,4,Regular,20,31,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 5-spd
+2044,Pontiac,Grand Am,1986,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic 3-spd
+2045,Pontiac,Sunbird,1986,4,Regular,21,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 3-spd
+2046,Pontiac,Sunbird,1986,4,Premium,18,24,20,444.35,16.4805,1.8,Front-Wheel Drive,Automatic 3-spd
+2047,Pontiac,Sunbird,1986,4,Premium,19,26,21,423.1904762,15.69571429,1.8,Front-Wheel Drive,Manual 4-spd
+2048,Pontiac,Sunbird,1986,4,Regular,23,34,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+2049,Pontiac,Sunbird,1986,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 4-spd
+205,Pontiac,Firebird,1985,4,Regular,19,29,23,386.3913043,14.33086957,2.5,Rear-Wheel Drive,Automatic 4-spd
+206,Pontiac,Firebird,1985,4,Regular,19,26,22,403.9545455,14.98227273,2.5,Rear-Wheel Drive,Manual 4-spd
+207,Pontiac,Firebird,1985,4,Regular,21,31,24,370.2916667,13.73375,2.5,Rear-Wheel Drive,Manual 5-spd
+20759,Pontiac,G6,2005,6,Regular,20,29,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic 4-spd
+20760,Pontiac,G6,2005,6,Regular,19,26,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic (S4)
+20761,Pontiac,Grand Am,2005,4,Regular,22,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+20762,Pontiac,Grand Am,2005,6,Regular,18,27,21,423.1904762,15.69571429,3.4,Front-Wheel Drive,Automatic 4-spd
+20763,Pontiac,GTO,2005,8,Premium,15,23,18,493.7222222,18.31166667,6,Rear-Wheel Drive,Manual 6-spd
+20764,Pontiac,Sunfire,2005,4,Regular,21,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Automatic 4-spd
+20765,Pontiac,Sunfire,2005,4,Regular,23,32,26,341.8076923,12.67730769,2.2,Front-Wheel Drive,Manual 5-spd
+20766,Pontiac,Wave,2005,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+20767,Pontiac,Wave,2005,4,Regular,23,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+20768,Pontiac,Wave 5,2005,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+20769,Pontiac,Wave 5,2005,4,Regular,23,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+208,Pontiac,Firebird,1985,6,Regular,16,24,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Automatic 4-spd
+209,Pontiac,Firebird,1985,6,Regular,16,24,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Manual 5-spd
+20922,Pontiac,Grand Prix,2005,6,Premium,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+20923,Pontiac,Grand Prix,2005,6,Regular,18,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+20924,Pontiac,Grand Prix,2005,6,Premium,16,24,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic (S4)
+20994,Pontiac,Bonneville,2005,6,Regular,18,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+20995,Pontiac,Bonneville,2005,8,Regular,15,22,18,493.7222222,18.31166667,4.6,Front-Wheel Drive,Automatic 4-spd
+210,Pontiac,Firebird,1985,8,Regular,14,20,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+21012,Pontiac,Vibe,2005,4,Regular,25,31,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Automatic 4-spd
+21013,Pontiac,Vibe AWD,2005,4,Regular,22,29,25,355.48,13.1844,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd
+21014,Pontiac,Vibe,2005,4,Regular,26,33,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+21015,Pontiac,Vibe,2005,4,Premium,22,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 6-spd
+211,Pontiac,Firebird,1985,8,Regular,14,22,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Manual 5-spd
+212,Pontiac,Firebird,1985,8,Regular,15,20,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+21242,Pontiac,Monterey Wagon FWD,2005,6,Regular,17,24,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 4-spd
+21243,Pontiac,Montana SVX FWD,2005,6,Regular,16,23,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic 4-spd
+21248,Pontiac,Montana SVX AWD,2005,6,Regular,15,21,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 4-spd
+213,Pontiac,Sunbird Convertible,1985,4,Premium,18,23,20,444.35,16.4805,1.8,Front-Wheel Drive,Automatic 3-spd
+21335,Pontiac,Aztek FWD,2005,6,Regular,17,24,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 4-spd
+214,Pontiac,Sunbird Convertible,1985,4,Regular,21,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 3-spd
+21454,Pontiac,Aztek AWD,2005,6,Regular,16,22,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+215,Pontiac,Sunbird Convertible,1985,4,Premium,19,24,21,423.1904762,15.69571429,1.8,Front-Wheel Drive,Manual 4-spd
+21556,Pontiac,GTO,2005,8,Premium,14,19,16,555.4375,20.600625,6,Rear-Wheel Drive,Automatic 4-spd
+216,Pontiac,Sunbird Convertible,1985,4,Regular,23,32,26,341.8076923,12.67730769,1.8,Front-Wheel Drive,Manual 5-spd
+21600,Pontiac,Grand Prix,2005,8,Regular,16,25,19,467.7368421,17.34789474,5.3,Front-Wheel Drive,Automatic (S4)
+21657,Pontiac,Solstice,2006,4,Premium,17,26,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Manual 5-spd
+217,Pontiac,1000,1985,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Rear-Wheel Drive,Automatic 3-spd
+21762,Pontiac,Wave 5,2006,4,Regular,21,31,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+21763,Pontiac,Wave 5,2006,4,Regular,22,32,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Manual 5-spd
+218,Pontiac,1000,1985,4,Regular,24,31,27,329.1481481,12.20777778,1.6,Rear-Wheel Drive,Manual 4-spd
+2181,Pontiac,Bonneville,1986,6,Regular,16,22,18,493.7222222,18.31166667,3.8,Rear-Wheel Drive,Automatic 3-spd
+2182,Pontiac,Bonneville,1986,6,Regular,16,22,18,493.7222222,18.31166667,4.3,Rear-Wheel Drive,Automatic 3-spd
+2183,Pontiac,Bonneville,1986,6,Regular,16,24,19,467.7368421,17.34789474,4.3,Rear-Wheel Drive,Automatic 4-spd
+2184,Pontiac,Bonneville,1986,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+21848,Pontiac,G6,2006,4,Regular,21,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 4-spd
+21849,Pontiac,G6,2006,6,Regular,20,29,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic 4-spd
+2185,Pontiac,Grand Prix,1986,6,Regular,16,22,18,493.7222222,18.31166667,3.8,Rear-Wheel Drive,Automatic 3-spd
+21850,Pontiac,G6,2006,6,Regular,19,26,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic (S4)
+21851,Pontiac,G6,2006,6,Regular,16,26,19,467.7368421,17.34789474,3.9,Front-Wheel Drive,Manual 6-spd
+21852,Pontiac,G6,2006,6,Regular,16,24,19,467.7368421,17.34789474,3.9,Front-Wheel Drive,Automatic (S4)
+21853,Pontiac,G6 GT/GTP Convertible,2006,6,Regular,17,25,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic (S4)
+21854,Pontiac,G6 GT/GTP Convertible,2006,6,Regular,16,24,19,467.7368421,17.34789474,3.9,Front-Wheel Drive,Automatic (S4)
+21855,Pontiac,GTO,2006,8,Premium,14,19,16,555.4375,20.600625,6,Rear-Wheel Drive,Automatic 4-spd
+21856,Pontiac,GTO,2006,8,Premium,15,23,18,493.7222222,18.31166667,6,Rear-Wheel Drive,Manual 6-spd
+2186,Pontiac,Grand Prix,1986,6,Regular,16,22,18,493.7222222,18.31166667,4.3,Rear-Wheel Drive,Automatic 3-spd
+2187,Pontiac,Grand Prix,1986,6,Regular,16,24,19,467.7368421,17.34789474,4.3,Rear-Wheel Drive,Automatic 4-spd
+2188,Pontiac,Grand Prix,1986,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+2189,Pontiac,6000,1986,4,Regular,19,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+219,Pontiac,1000,1985,4,Regular,24,33,27,329.1481481,12.20777778,1.6,Rear-Wheel Drive,Manual 5-spd
+2190,Pontiac,6000,1986,6,Regular,17,24,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 3-spd
+2191,Pontiac,6000,1986,6,Regular,18,26,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 4-spd
+2192,Pontiac,6000,1986,6,Regular,16,22,18,493.7222222,18.31166667,2.8,Front-Wheel Drive,Automatic 3-spd
+2193,Pontiac,6000,1986,6,Regular,16,24,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 4-spd
+220,Pontiac,1000,1985,4,Diesel,33,41,36,282.7777778,10.61625,1.8,Rear-Wheel Drive,Manual 5-spd
+22006,Pontiac,Grand Prix,2006,6,Premium,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+22007,Pontiac,Grand Prix,2006,6,Regular,18,28,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+22008,Pontiac,Grand Prix,2006,6,Premium,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic (S4)
+22009,Pontiac,Grand Prix,2006,8,Premium,16,25,19,467.7368421,17.34789474,5.3,Front-Wheel Drive,Automatic (S4)
+22102,Pontiac,Vibe,2006,4,Regular,25,31,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Automatic 4-spd
+22103,Pontiac,Vibe AWD,2006,4,Regular,22,29,25,355.48,13.1844,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd
+22104,Pontiac,Vibe,2006,4,Regular,26,33,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+22105,Pontiac,Vibe,2006,4,Premium,22,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 6-spd
+2224,Pontiac,Parisienne,1986,6,Regular,16,22,18,493.7222222,18.31166667,4.3,Rear-Wheel Drive,Automatic 3-spd
+2225,Pontiac,Parisienne,1986,6,Regular,16,23,19,467.7368421,17.34789474,4.3,Rear-Wheel Drive,Automatic 4-spd
+2226,Pontiac,Parisienne,1986,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+2227,Pontiac,Parisienne,1986,8,Regular,16,23,19,467.7368421,17.34789474,5,Rear-Wheel Drive,Automatic 4-spd
+22337,Pontiac,Montana SV6 FWD,2006,6,Regular,16,23,19,467.7368421,17.34789474,3.5,Front-Wheel Drive,Automatic 4-spd
+22338,Pontiac,Montana SV6 FWD,2006,6,Regular,16,23,19,467.7368421,17.34789474,3.9,Front-Wheel Drive,Automatic 4-spd
+22339,Pontiac,Torrent FWD,2006,6,Regular,17,22,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 5-spd
+22345,Pontiac,Montana SV6 AWD,2006,6,Regular,15,21,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic 4-spd
+22346,Pontiac,Torrent AWD,2006,6,Regular,16,21,18,493.7222222,18.31166667,3.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+2267,Pontiac,Sunbird Wagon,1986,4,Regular,21,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 3-spd
+2268,Pontiac,Sunbird Wagon,1986,4,Regular,23,34,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+2269,Pontiac,Sunbird Wagon,1986,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 4-spd
+22741,Pontiac,G5/Pursuit,2007,4,Premium,21,29,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 4-spd
+22742,Pontiac,G5/Pursuit,2007,4,Premium,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Manual 5-spd
+22763,Pontiac,G6,2007,4,Regular,20,30,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic 4-spd
+23078,Pontiac,Solstice,2007,4,Premium,19,26,21,423.1904762,15.69571429,2,Rear-Wheel Drive,Automatic 5-spd
+23079,Pontiac,Solstice,2007,4,Premium,19,28,22,403.9545455,14.98227273,2,Rear-Wheel Drive,Manual 5-spd
+23080,Pontiac,Solstice,2007,4,Premium,19,24,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Automatic 5-spd
+23081,Pontiac,Solstice,2007,4,Premium,17,26,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Manual 5-spd
+23145,Pontiac,G5/Pursuit,2007,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Automatic 4-spd
+23146,Pontiac,G5/Pursuit,2007,4,Regular,22,31,25,355.48,13.1844,2.2,Front-Wheel Drive,Manual 5-spd
+23192,Pontiac,G6,2007,6,Regular,18,28,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic 4-spd
+23193,Pontiac,G6,2007,6,Regular,18,26,21,423.1904762,15.69571429,3.5,Front-Wheel Drive,Automatic (S4)
+23194,Pontiac,G6,2007,6,Regular,17,26,21,423.1904762,15.69571429,3.6,Front-Wheel Drive,Automatic (S6)
+23195,Pontiac,G6,2007,6,Regular,16,25,19,467.7368421,17.34789474,3.9,Front-Wheel Drive,Manual 6-spd
+23197,Pontiac,G6 GT/GTP Convertible,2007,6,Regular,15,22,18,493.7222222,18.31166667,3.9,Front-Wheel Drive,Automatic (S4)
+2324,Pontiac,6000 Wagon,1986,4,Regular,19,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic 3-spd
+2325,Pontiac,6000 Wagon,1986,6,Regular,17,23,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 3-spd
+2326,Pontiac,6000 Wagon,1986,6,Regular,17,23,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 4-spd
+2327,Pontiac,6000 Wagon,1986,6,Regular,16,22,18,493.7222222,18.31166667,2.8,Front-Wheel Drive,Automatic 3-spd
+23276,Pontiac,Grand Prix,2007,6,Premium,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+23277,Pontiac,Grand Prix,2007,6,Regular,18,28,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+23278,Pontiac,Grand Prix,2007,6,Premium,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic (S4)
+23279,Pontiac,Grand Prix,2007,8,Premium,16,25,19,467.7368421,17.34789474,5.3,Front-Wheel Drive,Automatic (S4)
+2328,Pontiac,6000 Wagon,1986,6,Regular,16,24,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 4-spd
+23393,Pontiac,Torrent FWD,2007,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 5-spd
+23419,Pontiac,Torrent AWD,2007,6,Regular,17,23,19,467.7368421,17.34789474,3.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+2343,Pontiac,Parisienne Wagon,1986,8,Regular,14,20,16,555.4375,20.600625,5,Rear-Wheel Drive,Automatic 4-spd
+2344,Pontiac,Parisienne Wagon,1986,8,Regular,15,22,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+23449,Pontiac,Solstice,2006,4,Premium,19,24,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Automatic 5-spd
+23621,Pontiac,Vibe,2007,4,Regular,25,31,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Automatic 4-spd
+23622,Pontiac,Vibe,2007,4,Regular,26,33,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+24051,Pontiac,Grand Prix,2008,6,Regular,18,28,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+24052,Pontiac,Grand Prix,2008,8,Premium,16,25,19,467.7368421,17.34789474,5.3,Front-Wheel Drive,Automatic (S4)
+24101,Pontiac,Torrent FWD,2008,6,Regular,16,24,19,467.7368421,17.34789474,3.6,Front-Wheel Drive,Automatic (S6)
+24199,Pontiac,Solstice,2008,4,Premium,19,26,21,423.1904762,15.69571429,2,Rear-Wheel Drive,Automatic 5-spd
+24200,Pontiac,Solstice,2008,4,Premium,19,28,22,403.9545455,14.98227273,2,Rear-Wheel Drive,Manual 5-spd
+24201,Pontiac,Solstice,2008,4,Premium,19,24,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Automatic 5-spd
+24202,Pontiac,Solstice,2008,4,Premium,19,25,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Manual 5-spd
+24264,Pontiac,G5/Pursuit,2008,4,Premium,22,32,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Manual 5-spd
+24302,Pontiac,G6,2008,4,Regular,22,30,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 4-spd
+24303,Pontiac,G6,2008,6,Regular,18,29,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 4-spd
+24304,Pontiac,G6,2008,6,Regular,17,26,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic (S4)
+24305,Pontiac,G6,2008,6,Regular,17,26,20,444.35,16.4805,3.6,Front-Wheel Drive,Automatic (S6)
+24306,Pontiac,G6,2008,6,Regular,15,22,18,493.7222222,18.31166667,3.9,Front-Wheel Drive,Automatic (S4)
+24435,Pontiac,Vibe,2008,4,Regular,25,31,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Automatic 4-spd
+24436,Pontiac,Vibe,2008,4,Regular,26,33,29,306.4482759,11.36586207,1.8,Front-Wheel Drive,Manual 5-spd
+24625,Pontiac,Torrent FWD,2008,6,Regular,17,24,19,467.7368421,17.34789474,3.4,Front-Wheel Drive,Automatic 5-spd
+24683,Pontiac,Torrent AWD,2008,6,Regular,17,24,19,467.7368421,17.34789474,3.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+24684,Pontiac,Torrent AWD,2008,6,Regular,16,24,19,467.7368421,17.34789474,3.6,4-Wheel or All-Wheel Drive,Automatic (S6)
+24801,Pontiac,G5/Pursuit,2008,4,Regular,22,31,26,341.8076923,12.67730769,2.2,Front-Wheel Drive,Automatic 4-spd
+24802,Pontiac,G5/Pursuit,2008,4,Regular,24,33,27,329.1481481,12.20777778,2.2,Front-Wheel Drive,Manual 5-spd
+24803,Pontiac,G5/Pursuit,2008,4,Premium,22,31,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 4-spd
+25112,Pontiac,G8,2008,8,Premium,15,24,18,493.7222222,18.31166667,6,Rear-Wheel Drive,Automatic (S6)
+25170,Pontiac,G8,2008,6,Regular,17,25,20,444.35,16.4805,3.6,Rear-Wheel Drive,Automatic (S5)
+25186,Pontiac,G5 XFE,2008,4,Regular,25,35,29,306.4482759,11.36586207,2.2,Front-Wheel Drive,Manual 5-spd
+25230,Pontiac,G3 Wave 5,2009,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+25245,Pontiac,G3 Wave,2009,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+25300,Pontiac,Vibe AWD,2009,4,Regular,20,26,22,403.9545455,14.98227273,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+25301,Pontiac,Vibe,2009,4,Regular,21,28,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+25302,Pontiac,Vibe,2009,4,Regular,21,29,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic (S5)
+25303,Pontiac,Vibe,2009,4,Regular,26,31,28,317.3928571,11.77178571,1.8,Front-Wheel Drive,Automatic 4-spd
+25304,Pontiac,Vibe,2009,4,Regular,26,32,28,317.3928571,11.77178571,1.8,Front-Wheel Drive,Manual 5-spd
+25341,Pontiac,Torrent FWD,2009,6,Regular,17,24,20,444.35,16.4805,3.4,Front-Wheel Drive,Automatic 5-spd
+25361,Pontiac,Torrent AWD,2009,6,Regular,17,24,20,444.35,16.4805,3.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+25393,Pontiac,Solstice,2009,4,Regular,19,27,21,423.1904762,15.69571429,2,Rear-Wheel Drive,Automatic 5-spd
+25394,Pontiac,Solstice,2009,4,Regular,19,24,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Automatic 5-spd
+25395,Pontiac,Solstice,2009,4,Regular,19,25,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Manual 5-spd
+25396,Pontiac,Solstice,2009,4,Premium,19,28,22,403.9545455,14.98227273,2,Rear-Wheel Drive,Manual 5-spd
+25419,Pontiac,G3 Wave 5,2009,4,Regular,27,34,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+25420,Pontiac,G5,2009,4,Regular,25,35,29,306.4482759,11.36586207,2.2,Front-Wheel Drive,Manual 5-spd
+25421,Pontiac,G5,2009,4,Regular,24,33,27,329.1481481,12.20777778,2.2,Front-Wheel Drive,Automatic 4-spd
+25422,Pontiac,G5 GT,2009,4,Regular,25,35,29,306.4482759,11.36586207,2.2,Front-Wheel Drive,Manual 5-spd
+25423,Pontiac,G5 GT,2009,4,Regular,23,32,26,341.8076923,12.67730769,2.2,Front-Wheel Drive,Automatic 4-spd
+25424,Pontiac,G5 XFE,2009,4,Regular,25,37,30,296.2333333,10.987,2.2,Front-Wheel Drive,Manual 5-spd
+25442,Pontiac,G3 Wave,2009,4,Regular,27,34,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+25443,Pontiac,G6,2009,4,Regular,22,33,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic (S6)
+25444,Pontiac,G6,2009,4,Regular,22,30,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 4-spd
+25445,Pontiac,G6,2009,6,Regular,17,26,20,444.35,16.4805,3.5,Front-Wheel Drive,Automatic (S4)
+25446,Pontiac,G6,2009,6,Regular,18,29,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 4-spd
+25447,Pontiac,G6,2009,6,Regular,17,26,20,444.35,16.4805,3.6,Front-Wheel Drive,Automatic (S6)
+25448,Pontiac,G6,2009,6,Regular,15,22,18,493.7222222,18.31166667,3.9,Front-Wheel Drive,Automatic (S4)
+25530,Pontiac,G8,2009,6,Regular,17,25,20,444.35,16.4805,3.6,Rear-Wheel Drive,Automatic (S5)
+25531,Pontiac,G8,2009,8,Regular,15,24,18,493.7222222,18.31166667,6,Rear-Wheel Drive,Automatic (S6)
+25649,Pontiac,Torrent FWD,2009,6,Regular,17,24,19,467.7368421,17.34789474,3.6,Front-Wheel Drive,Automatic (S6)
+25707,Pontiac,Torrent AWD,2009,6,Regular,16,24,19,467.7368421,17.34789474,3.6,4-Wheel or All-Wheel Drive,Automatic (S6)
+26330,Pontiac,Solstice,2010,4,Regular,19,27,22,403.9545455,14.98227273,2,Rear-Wheel Drive,Automatic 5-spd
+26331,Pontiac,Solstice,2010,4,Regular,19,29,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Manual 5-spd
+26332,Pontiac,Solstice,2010,4,Regular,19,24,21,423.1904762,15.69571429,2.4,Rear-Wheel Drive,Automatic 5-spd
+26333,Pontiac,Solstice,2010,4,Regular,19,26,22,403.9545455,14.98227273,2.4,Rear-Wheel Drive,Manual 5-spd
+26442,Pontiac,Vibe,2010,4,Regular,26,31,28,317.3928571,11.77178571,1.8,Front-Wheel Drive,Automatic 4-spd
+26443,Pontiac,Vibe,2010,4,Regular,26,32,28,317.3928571,11.77178571,1.8,Front-Wheel Drive,Manual 5-spd
+26444,Pontiac,Vibe,2010,4,Regular,20,26,22,403.9545455,14.98227273,2.4,All-Wheel Drive,Automatic 4-spd
+26445,Pontiac,Vibe,2010,4,Regular,21,28,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+26446,Pontiac,Vibe,2010,4,Regular,21,29,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic (S5)
+26584,Pontiac,Fiero,1984,4,Regular,21,29,24,370.2916667,13.73375,2.5,,Automatic 3-spd
+26585,Pontiac,Fiero,1984,4,Regular,21,33,25,355.48,13.1844,2.5,,Manual 4-spd
+26586,Pontiac,Fiero,1984,4,Regular,21,29,24,370.2916667,13.73375,2.5,,Manual 4-spd
+26739,Pontiac,Firebird,1984,4,Regular,19,27,22,403.9545455,14.98227273,2.5,,Automatic 4-spd
+26740,Pontiac,Firebird,1984,4,Regular,19,25,21,423.1904762,15.69571429,2.5,,Manual 4-spd
+26741,Pontiac,Firebird,1984,4,Regular,20,29,23,386.3913043,14.33086957,2.5,,Manual 5-spd
+26742,Pontiac,Firebird,1984,6,Regular,16,24,19,467.7368421,17.34789474,2.8,,Automatic 4-spd
+26743,Pontiac,Firebird,1984,6,Regular,16,22,18,493.7222222,18.31166667,2.8,,Manual 5-spd
+26744,Pontiac,Firebird,1984,8,Regular,15,21,17,522.7647059,19.38882353,5,,Automatic 4-spd
+26745,Pontiac,Firebird,1984,8,Regular,13,20,15,592.4666667,21.974,5,,Manual 5-spd
+26746,Pontiac,1000,1984,4,Regular,23,30,26,341.8076923,12.67730769,1.6,,Automatic 3-spd
+26747,Pontiac,1000,1984,4,Regular,24,31,27,329.1481481,12.20777778,1.6,,Manual 4-spd
+26748,Pontiac,1000,1984,4,Regular,24,33,27,329.1481481,12.20777778,1.6,,Manual 5-spd
+26749,Pontiac,1000,1984,4,Diesel,28,33,30,339.3333333,12.7395,1.8,,Automatic 3-spd
+26750,Pontiac,1000,1984,4,Diesel,33,42,36,282.7777778,10.61625,1.8,,Manual 5-spd
+26751,Pontiac,2000 Sunbird Convertible,1984,4,Regular,21,29,24,370.2916667,13.73375,1.8,,Automatic 3-spd
+26752,Pontiac,2000 Sunbird Convertible,1984,4,Regular,18,24,20,444.35,16.4805,1.8,,Automatic 3-spd
+26753,Pontiac,2000 Sunbird Convertible,1984,4,Regular,19,26,22,403.9545455,14.98227273,1.8,,Manual 4-spd
+26754,Pontiac,2000 Sunbird Convertible,1984,4,Regular,23,33,26,341.8076923,12.67730769,1.8,,Manual 5-spd
+26894,Pontiac,2000 Sunbird,1984,4,Regular,21,29,24,370.2916667,13.73375,1.8,,Automatic 3-spd
+26895,Pontiac,2000 Sunbird,1984,4,Regular,18,24,20,444.35,16.4805,1.8,,Automatic 3-spd
+26896,Pontiac,2000 Sunbird,1984,4,Regular,19,26,22,403.9545455,14.98227273,1.8,,Manual 4-spd
+26897,Pontiac,2000 Sunbird,1984,4,Regular,23,33,26,341.8076923,12.67730769,1.8,,Manual 5-spd
+26898,Pontiac,2000 Sunbird,1984,4,Regular,25,37,29,306.4482759,11.36586207,1.8,,Manual 5-spd
+26899,Pontiac,2000 Sunbird,1984,4,Regular,22,29,25,355.48,13.1844,2,,Manual 4-spd
+27,Pontiac,Fiero,1985,4,Regular,22,29,25,355.48,13.1844,2.5,Rear-Wheel Drive,Automatic 3-spd
+27027,Pontiac,Bonneville,1984,6,Regular,17,22,19,467.7368421,17.34789474,3.8,,Automatic 3-spd
+27028,Pontiac,Bonneville,1984,8,Regular,14,18,15,592.4666667,21.974,5,,Automatic 3-spd
+27029,Pontiac,Bonneville,1984,8,Regular,15,21,17,522.7647059,19.38882353,5,,Automatic 4-spd
+27030,Pontiac,Bonneville,1984,8,Diesel,18,25,21,484.7619048,18.19928571,5.7,,Automatic 3-spd
+27031,Pontiac,Bonneville,1984,8,Diesel,18,27,21,484.7619048,18.19928571,5.7,,Automatic 4-spd
+27032,Pontiac,Grand Prix,1984,6,Regular,17,22,19,467.7368421,17.34789474,3.8,,Automatic 3-spd
+27033,Pontiac,Grand Prix,1984,8,Regular,14,18,15,592.4666667,21.974,5,,Automatic 3-spd
+27034,Pontiac,Grand Prix,1984,8,Regular,15,21,17,522.7647059,19.38882353,5,,Automatic 4-spd
+27035,Pontiac,Grand Prix,1984,8,Diesel,18,25,21,484.7619048,18.19928571,5.7,,Automatic 3-spd
+27036,Pontiac,Grand Prix,1984,8,Diesel,18,27,21,484.7619048,18.19928571,5.7,,Automatic 4-spd
+27037,Pontiac,Phoenix,1984,4,Regular,20,28,23,386.3913043,14.33086957,2.5,,Automatic 3-spd
+27038,Pontiac,Phoenix,1984,6,Regular,17,24,19,467.7368421,17.34789474,2.8,,Automatic 3-spd
+27039,Pontiac,Phoenix,1984,6,Regular,17,24,19,467.7368421,17.34789474,2.8,,Manual 4-spd
+27040,Pontiac,6000,1984,4,Regular,20,28,23,386.3913043,14.33086957,2.5,,Automatic 3-spd
+27041,Pontiac,6000,1984,6,Regular,17,23,19,467.7368421,17.34789474,2.8,,Automatic 3-spd
+27042,Pontiac,6000,1984,6,Diesel,21,31,25,407.2,15.2874,4.3,,Automatic 3-spd
+27077,Pontiac,Parisienne,1984,6,Regular,15,20,17,522.7647059,19.38882353,3.8,,Automatic 3-spd
+27078,Pontiac,Parisienne,1984,8,Regular,14,20,16,555.4375,20.600625,5,,Automatic 4-spd
+27079,Pontiac,Parisienne,1984,8,Diesel,18,25,21,484.7619048,18.19928571,5.7,,Automatic 3-spd
+27080,Pontiac,Parisienne,1984,8,Diesel,18,27,21,484.7619048,18.19928571,5.7,,Automatic 4-spd
+27123,Pontiac,2000 Sunbird Wagon,1984,4,Regular,21,29,24,370.2916667,13.73375,1.8,,Automatic 3-spd
+27124,Pontiac,2000 Sunbird Wagon,1984,4,Regular,23,33,26,341.8076923,12.67730769,1.8,,Manual 5-spd
+27125,Pontiac,2000 Sunbird Wagon,1984,4,Regular,22,29,25,355.48,13.1844,2,,Manual 4-spd
+27180,Pontiac,6000 Wagon,1984,4,Regular,20,28,23,386.3913043,14.33086957,2.5,,Automatic 3-spd
+27181,Pontiac,6000 Wagon,1984,6,Regular,16,22,18,493.7222222,18.31166667,2.8,,Automatic 3-spd
+27182,Pontiac,6000 Wagon,1984,6,Regular,16,23,19,467.7368421,17.34789474,2.8,,Automatic 4-spd
+27183,Pontiac,6000 Wagon,1984,6,Diesel,21,31,25,407.2,15.2874,4.3,,Automatic 3-spd
+27200,Pontiac,Parisienne Wagon,1984,8,Regular,13,18,15,592.4666667,21.974,5,,Automatic 4-spd
+27201,Pontiac,Parisienne Wagon,1984,8,Diesel,18,26,21,484.7619048,18.19928571,5.7,,Automatic 4-spd
+27703,Pontiac,Fiero,1984,4,Regular,21,29,24,370.2916667,13.73375,2.5,,Automatic 3-spd
+27704,Pontiac,Fiero,1984,4,Regular,21,29,24,370.2916667,13.73375,2.5,,Manual 4-spd
+27837,Pontiac,Firebird,1984,4,Regular,19,27,22,403.9545455,14.98227273,2.5,,Automatic 4-spd
+27838,Pontiac,Firebird,1984,4,Regular,19,25,21,423.1904762,15.69571429,2.5,,Manual 4-spd
+27839,Pontiac,Firebird,1984,4,Regular,20,29,23,386.3913043,14.33086957,2.5,,Manual 5-spd
+27840,Pontiac,Firebird,1984,6,Regular,16,24,19,467.7368421,17.34789474,2.8,,Automatic 4-spd
+27841,Pontiac,Firebird,1984,6,Regular,16,22,18,493.7222222,18.31166667,2.8,,Manual 5-spd
+27842,Pontiac,Firebird,1984,8,Regular,15,21,17,522.7647059,19.38882353,5,,Automatic 4-spd
+27843,Pontiac,Firebird,1984,8,Regular,13,20,15,592.4666667,21.974,5,,Manual 5-spd
+27844,Pontiac,1000,1984,4,Regular,22,27,24,370.2916667,13.73375,1.6,,Automatic 3-spd
+27845,Pontiac,1000,1984,4,Regular,23,30,25,355.48,13.1844,1.6,,Manual 4-spd
+27846,Pontiac,1000,1984,4,Diesel,33,41,36,282.7777778,10.61625,1.8,,Manual 5-spd
+27847,Pontiac,2000 Sunbird Convertible,1984,4,Regular,21,29,24,370.2916667,13.73375,1.8,,Automatic 3-spd
+27848,Pontiac,2000 Sunbird Convertible,1984,4,Regular,18,23,20,444.35,16.4805,1.8,,Automatic 3-spd
+27849,Pontiac,2000 Sunbird Convertible,1984,4,Regular,20,26,22,403.9545455,14.98227273,1.8,,Manual 4-spd
+27850,Pontiac,2000 Sunbird Convertible,1984,4,Regular,23,32,26,341.8076923,12.67730769,1.8,,Manual 5-spd
+27969,Pontiac,2000 Sunbird,1984,4,Regular,21,29,24,370.2916667,13.73375,1.8,,Automatic 3-spd
+27970,Pontiac,2000 Sunbird,1984,4,Regular,18,23,20,444.35,16.4805,1.8,,Automatic 3-spd
+27971,Pontiac,2000 Sunbird,1984,4,Regular,20,26,22,403.9545455,14.98227273,1.8,,Manual 4-spd
+27972,Pontiac,2000 Sunbird,1984,4,Regular,23,32,26,341.8076923,12.67730769,1.8,,Manual 5-spd
+27973,Pontiac,2000 Sunbird,1984,4,Regular,21,30,24,370.2916667,13.73375,2,,Manual 4-spd
+28,Pontiac,Fiero,1985,4,Regular,21,33,25,355.48,13.1844,2.5,Rear-Wheel Drive,Manual 5-spd
+28080,Pontiac,Bonneville,1984,6,Regular,16,22,18,493.7222222,18.31166667,3.8,,Automatic 3-spd
+28081,Pontiac,Bonneville,1984,8,Regular,15,19,16,555.4375,20.600625,5,,Automatic 3-spd
+28082,Pontiac,Bonneville,1984,8,Regular,15,21,17,522.7647059,19.38882353,5,,Automatic 4-spd
+28083,Pontiac,Grand Prix,1984,6,Regular,16,22,18,493.7222222,18.31166667,3.8,,Automatic 3-spd
+28084,Pontiac,Grand Prix,1984,8,Regular,15,19,16,555.4375,20.600625,5,,Automatic 3-spd
+28085,Pontiac,Grand Prix,1984,8,Regular,15,21,17,522.7647059,19.38882353,5,,Automatic 4-spd
+28086,Pontiac,Phoenix,1984,4,Regular,20,28,23,386.3913043,14.33086957,2.5,,Automatic 3-spd
+28087,Pontiac,Phoenix,1984,6,Regular,17,23,19,467.7368421,17.34789474,2.8,,Automatic 3-spd
+28088,Pontiac,Phoenix,1984,6,Regular,17,24,20,444.35,16.4805,2.8,,Manual 4-spd
+28089,Pontiac,6000,1984,4,Regular,20,28,23,386.3913043,14.33086957,2.5,,Automatic 3-spd
+28090,Pontiac,6000,1984,6,Regular,17,22,19,467.7368421,17.34789474,2.8,,Automatic 3-spd
+28091,Pontiac,6000,1984,6,Diesel,21,29,24,424.1666667,15.924375,4.3,,Automatic 3-spd
+28092,Pontiac,6000,1984,6,Diesel,21,31,24,424.1666667,15.924375,4.3,,Automatic 4-spd
+28118,Pontiac,Parisienne,1984,6,Regular,15,20,17,522.7647059,19.38882353,3.8,,Automatic 3-spd
+28119,Pontiac,Parisienne,1984,8,Regular,15,21,17,522.7647059,19.38882353,5,,Automatic 4-spd
+28155,Pontiac,2000 Sunbird Wagon,1984,4,Regular,21,29,24,370.2916667,13.73375,1.8,,Automatic 3-spd
+28156,Pontiac,2000 Sunbird Wagon,1984,4,Regular,23,32,26,341.8076923,12.67730769,1.8,,Manual 5-spd
+28157,Pontiac,2000 Sunbird Wagon,1984,4,Regular,21,30,24,370.2916667,13.73375,2,,Manual 4-spd
+28208,Pontiac,6000 Wagon,1984,4,Regular,20,28,23,386.3913043,14.33086957,2.5,,Automatic 3-spd
+28209,Pontiac,6000 Wagon,1984,6,Regular,16,21,18,493.7222222,18.31166667,2.8,,Automatic 3-spd
+28210,Pontiac,6000 Wagon,1984,6,Regular,16,22,18,493.7222222,18.31166667,2.8,,Automatic 4-spd
+28211,Pontiac,6000 Wagon,1984,6,Diesel,21,29,24,424.1666667,15.924375,4.3,,Automatic 3-spd
+28212,Pontiac,6000 Wagon,1984,6,Diesel,21,31,24,424.1666667,15.924375,4.3,,Automatic 4-spd
+28224,Pontiac,Parisienne Wagon,1984,8,Regular,14,19,16,555.4375,20.600625,5,,Automatic 4-spd
+28563,Pontiac,G5,2010,4,Regular,24,33,27,329.1481481,12.20777778,2.2,Front-Wheel Drive,Automatic 4-spd
+28564,Pontiac,G5,2010,4,Regular,25,35,29,306.4482759,11.36586207,2.2,Front-Wheel Drive,Manual 5-spd
+28565,Pontiac,G5 GT,2010,4,Regular,23,32,26,341.8076923,12.67730769,2.2,Front-Wheel Drive,Automatic 4-spd
+28566,Pontiac,G5 GT,2010,4,Regular,25,35,29,306.4482759,11.36586207,2.2,Front-Wheel Drive,Manual 5-spd
+28567,Pontiac,G5 XFE,2010,4,Regular,25,37,30,296.2333333,10.987,2.2,Front-Wheel Drive,Manual 5-spd
+28828,Pontiac,G3 (5-Door),2010,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+28829,Pontiac,G3 (5-Door),2010,4,Regular,27,35,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+28841,Pontiac,Firebird/Trans Am/Formula,1987,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+28981,Pontiac,Firefly,1993,3,Regular,30,36,33,269.3030303,9.988181818,1,Front-Wheel Drive,Automatic 3-spd
+28982,Pontiac,Firefly,1993,3,Regular,38,44,41,216.7560976,8.039268293,1,Front-Wheel Drive,Manual 5-spd
+29,Pontiac,Fiero,1985,6,Regular,16,22,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Automatic 3-spd
+29129,Pontiac,Bonneville,1996,6,Regular,17,27,21,423.1904762,15.69571429,3.8,Front-Wheel Drive,Automatic 4-spd
+2923,Pontiac,Fiero,1987,4,Regular,21,29,24,370.2916667,13.73375,2.5,Rear-Wheel Drive,Automatic 3-spd
+2924,Pontiac,Fiero,1987,4,Regular,22,32,25,355.48,13.1844,2.5,Rear-Wheel Drive,Manual 5-spd
+2925,Pontiac,Fiero,1987,6,Regular,16,22,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Automatic 3-spd
+2926,Pontiac,Fiero,1987,6,Regular,16,26,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Manual 5-spd
+29281,Pontiac,G3 (3-Door),2010,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Automatic 4-spd
+29282,Pontiac,G3 (3-Door),2010,4,Regular,27,35,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+29298,Pontiac,G6,2010,4,Regular,22,30,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 4-spd
+29299,Pontiac,G6 FFV,2010,4,Gasoline or E85,22,30,25,355.48,13.1844,2.4,Front-Wheel Drive,Automatic 4-spd
+29300,Pontiac,G6,2010,4,Regular,22,33,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic (S6)
+29301,Pontiac,G6 FFV,2010,4,Gasoline or E85,22,33,26,341.8076923,12.67730769,2.4,Front-Wheel Drive,Automatic (S6)
+29302,Pontiac,G6 FFV,2010,6,Gasoline or E85,19,29,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic 4-spd
+29303,Pontiac,G6,2010,6,Regular,18,29,22,403.9545455,14.98227273,3.5,Front-Wheel Drive,Automatic 4-spd
+29304,Pontiac,G6,2010,6,Regular,17,26,20,444.35,16.4805,3.6,Front-Wheel Drive,Automatic (S6)
+29305,Pontiac,G6,2010,6,Regular,15,22,18,493.7222222,18.31166667,3.6,Front-Wheel Drive,Automatic (S4)
+2940,Pontiac,Turbo Firefly,1987,3,Regular,31,39,34,261.3823529,9.694411765,1,Front-Wheel Drive,Manual 5-spd
+29662,Pontiac,G6,2009,6,Gasoline or E85,19,29,23,386.3913043,14.33086957,3.5,Front-Wheel Drive,Automatic 4-spd
+30,Pontiac,Fiero,1985,6,Regular,17,24,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Manual 4-spd
+3089,Pontiac,Firebird/Trans Am/Formula,1987,6,Regular,17,25,20,444.35,16.4805,2.8,Rear-Wheel Drive,Automatic 4-spd
+3090,Pontiac,Firebird/Trans Am/Formula,1987,6,Regular,15,24,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Manual 5-spd
+3091,Pontiac,Firebird/Trans Am/Formula,1987,8,Regular,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+3092,Pontiac,Firebird/Trans Am/Formula,1987,8,Regular,15,23,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Manual 5-spd
+3093,Pontiac,Firebird/Trans Am/Formula,1987,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+3094,Pontiac,Firebird/Trans Am/Formula,1987,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+3095,Pontiac,Firebird/Trans Am/Formula,1987,8,Regular,15,23,17,522.7647059,19.38882353,5.7,Rear-Wheel Drive,Automatic 4-spd
+3096,Pontiac,Firefly,1987,3,Regular,32,36,34,261.3823529,9.694411765,1,Front-Wheel Drive,Automatic 3-spd
+3097,Pontiac,Firefly,1987,3,Regular,36,43,39,227.8717949,8.451538462,1,Front-Wheel Drive,Manual 5-spd
+3098,Pontiac,Sunbird Convertible,1987,4,Premium,18,24,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 3-spd
+3099,Pontiac,Sunbird Convertible,1987,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+3100,Pontiac,Sunbird Convertible,1987,4,Regular,21,27,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 3-spd
+3101,Pontiac,Sunbird Convertible,1987,4,Regular,23,33,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+3102,Pontiac,Sunburst,1987,4,Regular,26,30,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 3-spd
+3103,Pontiac,Sunburst,1987,4,Regular,31,37,33,269.3030303,9.988181818,1.5,Front-Wheel Drive,Manual 5-spd
+3104,Pontiac,1000,1987,4,Regular,22,28,24,370.2916667,13.73375,1.6,Rear-Wheel Drive,Automatic 3-spd
+3105,Pontiac,1000,1987,4,Regular,24,31,27,329.1481481,12.20777778,1.6,Rear-Wheel Drive,Manual 4-spd
+3106,Pontiac,1000,1987,4,Regular,23,32,27,329.1481481,12.20777778,1.6,Rear-Wheel Drive,Manual 5-spd
+3291,Pontiac,Grand Am,1987,4,Premium,18,24,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 3-spd
+3292,Pontiac,Grand Am,1987,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+3293,Pontiac,Grand Am,1987,4,Regular,19,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+3294,Pontiac,Grand Am,1987,4,Regular,19,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 5-spd
+3295,Pontiac,Grand Am,1987,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic 3-spd
+3296,Pontiac,Sunbird,1987,4,Premium,18,25,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 3-spd
+3297,Pontiac,Sunbird,1987,4,Regular,22,30,25,355.48,13.1844,2,Front-Wheel Drive,Manual 4-spd
+3298,Pontiac,Sunbird,1987,4,Premium,18,29,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+3299,Pontiac,Sunbird,1987,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Automatic 3-spd
+3300,Pontiac,Sunbird,1987,4,Regular,23,33,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+3434,Pontiac,Grand Prix,1987,6,Regular,17,22,19,467.7368421,17.34789474,3.8,Rear-Wheel Drive,Automatic 3-spd
+3435,Pontiac,Grand Prix,1987,6,Regular,17,22,19,467.7368421,17.34789474,4.3,Rear-Wheel Drive,Automatic 3-spd
+3436,Pontiac,Grand Prix,1987,6,Regular,17,24,19,467.7368421,17.34789474,4.3,Rear-Wheel Drive,Automatic 4-spd
+3437,Pontiac,Grand Prix,1987,8,Regular,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+3438,Pontiac,6000,1987,4,Regular,19,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+3439,Pontiac,6000,1987,6,Regular,18,24,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 3-spd
+3440,Pontiac,6000,1987,6,Regular,17,24,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 4-spd
+3441,Pontiac,6000,1987,6,Regular,17,25,20,444.35,16.4805,2.8,Front-Wheel Drive,Manual 5-spd
+34582,Pontiac,G8,2009,8,Regular,13,20,15,592.4666667,21.974,6.2,Rear-Wheel Drive,Automatic (S6)
+34583,Pontiac,G8,2009,8,Regular,13,20,15,592.4666667,21.974,6.2,Rear-Wheel Drive,Manual 6-spd
+3474,Pontiac,Bonneville,1987,6,Regular,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+3521,Pontiac,Sunbird Wagon,1987,4,Regular,22,30,25,355.48,13.1844,2,Front-Wheel Drive,Manual 4-spd
+3522,Pontiac,Sunbird Wagon,1987,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Automatic 3-spd
+3523,Pontiac,Sunbird Wagon,1987,4,Regular,23,33,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+3579,Pontiac,6000 Wagon,1987,4,Regular,18,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic 3-spd
+3580,Pontiac,6000 Wagon,1987,6,Regular,17,22,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 3-spd
+3581,Pontiac,6000 Wagon,1987,6,Regular,17,24,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 4-spd
+3582,Pontiac,6000 Wagon,1987,6,Regular,17,26,20,444.35,16.4805,2.8,Front-Wheel Drive,Manual 5-spd
+3594,Pontiac,Safari Wagon,1987,8,Regular,15,22,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+364,Pontiac,Grand Am,1985,4,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic 3-spd
+365,Pontiac,Grand Am,1985,4,Regular,21,31,25,355.48,13.1844,2.5,Front-Wheel Drive,Manual 5-spd
+366,Pontiac,Grand Am,1985,6,Regular,18,24,20,444.35,16.4805,3,Front-Wheel Drive,Automatic 3-spd
+367,Pontiac,Sunbird,1985,4,Premium,18,23,20,444.35,16.4805,1.8,Front-Wheel Drive,Automatic 3-spd
+368,Pontiac,Sunbird,1985,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 3-spd
+369,Pontiac,Sunbird,1985,4,Premium,19,24,21,423.1904762,15.69571429,1.8,Front-Wheel Drive,Manual 4-spd
+370,Pontiac,Sunbird,1985,4,Regular,23,32,26,341.8076923,12.67730769,1.8,Front-Wheel Drive,Manual 5-spd
+371,Pontiac,Sunbird,1985,4,Regular,24,36,28,317.3928571,11.77178571,1.8,Front-Wheel Drive,Manual 5-spd
+372,Pontiac,Sunbird,1985,4,Regular,23,32,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 4-spd
+41,Pontiac,Firefly,1985,3,Regular,34,39,36,246.8611111,9.155833333,1,Front-Wheel Drive,Automatic 3-spd
+4150,Pontiac,Fiero,1988,4,Regular,21,28,24,370.2916667,13.73375,2.5,Rear-Wheel Drive,Automatic 3-spd
+4151,Pontiac,Fiero,1988,4,Regular,21,32,25,355.48,13.1844,2.5,Rear-Wheel Drive,Manual 5-spd
+4152,Pontiac,Fiero,1988,6,Regular,16,22,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Automatic 3-spd
+4153,Pontiac,Fiero,1988,6,Regular,15,25,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Manual 5-spd
+4166,Pontiac,Turbo Firefly,1988,3,Regular,31,39,34,261.3823529,9.694411765,1,Front-Wheel Drive,Manual 5-spd
+42,Pontiac,Firefly,1985,3,Regular,39,47,42,211.5952381,7.847857143,1,Front-Wheel Drive,Manual 5-spd
+4304,Pontiac,Firebird/Trans Am,1988,6,Regular,17,25,20,444.35,16.4805,2.8,Rear-Wheel Drive,Automatic 4-spd
+4305,Pontiac,Firebird/Trans Am,1988,6,Regular,15,24,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Manual 5-spd
+4306,Pontiac,Firebird/Trans Am,1988,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+4307,Pontiac,Firebird/Trans Am,1988,8,Premium,15,22,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+4308,Pontiac,Firebird/Trans Am,1988,8,Regular,15,23,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Manual 5-spd
+4309,Pontiac,Firebird/Trans Am,1988,8,Premium,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+4310,Pontiac,Firebird/Trans Am,1988,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+4311,Pontiac,Firefly,1988,3,Regular,32,36,34,261.3823529,9.694411765,1,Front-Wheel Drive,Automatic 3-spd
+4312,Pontiac,Firefly,1988,3,Regular,36,44,39,227.8717949,8.451538462,1,Front-Wheel Drive,Manual 5-spd
+4313,Pontiac,Sunbird Convertible,1988,4,Premium,18,25,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 3-spd
+4314,Pontiac,Sunbird Convertible,1988,4,Premium,18,27,21,423.1904762,15.69571429,2,Front-Wheel Drive,Manual 5-spd
+4315,Pontiac,Sunbird Convertible,1988,4,Regular,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 3-spd
+4316,Pontiac,Sunbird Convertible,1988,4,Regular,22,31,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+4317,Pontiac,Sunburst,1988,4,Regular,26,30,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 3-spd
+4318,Pontiac,Sunburst,1988,4,Regular,31,37,33,269.3030303,9.988181818,1.5,Front-Wheel Drive,Manual 5-spd
+4484,Pontiac,Grand Am,1988,4,Premium,18,25,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 3-spd
+4485,Pontiac,Grand Am,1988,4,Premium,18,27,21,423.1904762,15.69571429,2,Front-Wheel Drive,Manual 5-spd
+4486,Pontiac,Grand Am,1988,4,Regular,21,31,25,355.48,13.1844,2.3,Front-Wheel Drive,Automatic 3-spd
+4487,Pontiac,Grand Am,1988,4,Regular,22,33,26,341.8076923,12.67730769,2.3,Front-Wheel Drive,Manual 5-spd
+4488,Pontiac,Grand Am,1988,4,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic 3-spd
+4489,Pontiac,Grand Am,1988,4,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 5-spd
+4490,Pontiac,Lemans,1988,4,Regular,23,29,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 3-spd
+4491,Pontiac,Lemans,1988,4,Regular,26,35,29,306.4482759,11.36586207,1.6,Front-Wheel Drive,Manual 4-spd
+4492,Pontiac,Lemans,1988,4,Regular,27,36,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+4493,Pontiac,Lemans,1988,4,Regular,21,27,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+4494,Pontiac,Sunbird,1988,4,Premium,18,25,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 3-spd
+4495,Pontiac,Sunbird,1988,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+4496,Pontiac,Sunbird,1988,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Automatic 3-spd
+4497,Pontiac,Sunbird,1988,4,Regular,23,34,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+4613,Pontiac,Grand Prix,1988,6,Regular,18,26,21,423.1904762,15.69571429,2.8,Front-Wheel Drive,Automatic 4-spd
+4614,Pontiac,Grand Prix,1988,6,Regular,17,26,20,444.35,16.4805,2.8,Front-Wheel Drive,Manual 5-spd
+4615,Pontiac,6000,1988,4,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic 3-spd
+4616,Pontiac,6000,1988,6,Regular,18,25,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 3-spd
+4617,Pontiac,6000,1988,6,Regular,18,27,21,423.1904762,15.69571429,2.8,Front-Wheel Drive,Automatic 4-spd
+4618,Pontiac,6000,1988,6,Regular,18,26,21,423.1904762,15.69571429,2.8,Front-Wheel Drive,Manual 5-spd
+4619,Pontiac,6000,1988,6,Regular,15,21,18,493.7222222,18.31166667,3.1,4-Wheel or All-Wheel Drive,Automatic 3-spd
+4648,Pontiac,Bonneville,1988,6,Regular,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+4696,Pontiac,Sunbird Wagon,1988,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Automatic 3-spd
+4697,Pontiac,Sunbird Wagon,1988,4,Regular,23,34,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+4752,Pontiac,6000 Wagon,1988,4,Regular,19,26,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 3-spd
+4753,Pontiac,6000 Wagon,1988,6,Regular,18,27,21,423.1904762,15.69571429,2.8,Front-Wheel Drive,Automatic 4-spd
+4754,Pontiac,6000 Wagon,1988,6,Regular,17,26,20,444.35,16.4805,2.8,Front-Wheel Drive,Manual 5-spd
+4768,Pontiac,Safari Wagon,1988,8,Regular,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+515,Pontiac,Bonneville,1985,6,Regular,17,22,19,467.7368421,17.34789474,3.8,Rear-Wheel Drive,Automatic 3-spd
+516,Pontiac,Bonneville,1985,8,Regular,15,20,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 3-spd
+517,Pontiac,Bonneville,1985,8,Regular,14,20,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 4-spd
+518,Pontiac,Grand Prix,1985,6,Regular,17,22,19,467.7368421,17.34789474,3.8,Rear-Wheel Drive,Automatic 3-spd
+519,Pontiac,Grand Prix,1985,8,Regular,15,20,17,522.7647059,19.38882353,5,Rear-Wheel Drive,Automatic 3-spd
+520,Pontiac,Grand Prix,1985,8,Regular,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+521,Pontiac,6000,1985,4,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic 3-spd
+522,Pontiac,6000,1985,6,Regular,18,24,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 3-spd
+523,Pontiac,6000,1985,6,Regular,17,24,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 4-spd
+524,Pontiac,6000,1985,6,Regular,17,24,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 3-spd
+525,Pontiac,6000,1985,6,Regular,17,26,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 4-spd
+526,Pontiac,6000,1985,6,Diesel,23,32,26,391.5384615,14.69942308,4.3,Front-Wheel Drive,Automatic 3-spd
+5425,Pontiac,20th Anniversary Trans Am,1989,6,Regular,15,22,17,522.7647059,19.38882353,3.8,Rear-Wheel Drive,Automatic 4-spd
+5435,Pontiac,Firebird/Trans Am,1989,6,Regular,17,25,20,444.35,16.4805,2.8,Rear-Wheel Drive,Automatic 4-spd
+5436,Pontiac,Firebird/Trans Am,1989,6,Regular,16,24,19,467.7368421,17.34789474,2.8,Rear-Wheel Drive,Manual 5-spd
+5437,Pontiac,Firebird/Trans Am,1989,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+5438,Pontiac,Firebird/Trans Am,1989,8,Premium,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+5439,Pontiac,Firebird/Trans Am,1989,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+5440,Pontiac,Firebird/Trans Am,1989,8,Premium,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+5441,Pontiac,Firebird/Trans Am,1989,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+5442,Pontiac,Firefly,1989,3,Regular,32,36,34,261.3823529,9.694411765,1,Front-Wheel Drive,Automatic 3-spd
+5443,Pontiac,Firefly,1989,3,Regular,32,36,34,261.3823529,9.694411765,1,Front-Wheel Drive,Automatic 3-spd
+5444,Pontiac,Firefly,1989,3,Regular,38,45,41,216.7560976,8.039268293,1,Front-Wheel Drive,Manual 5-spd
+5445,Pontiac,Firefly,1989,3,Regular,38,45,41,216.7560976,8.039268293,1,Front-Wheel Drive,Manual 5-spd
+5446,Pontiac,Sunbird Convertible,1989,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 3-spd
+5447,Pontiac,Sunbird Convertible,1989,4,Premium,18,26,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 3-spd
+5448,Pontiac,Sunbird Convertible,1989,4,Regular,21,30,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+5449,Pontiac,Sunbird Convertible,1989,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+5450,Pontiac,Sunburst,1989,4,Regular,26,30,28,317.3928571,11.77178571,1.5,Front-Wheel Drive,Automatic 3-spd
+5451,Pontiac,Sunburst,1989,4,Regular,31,37,33,269.3030303,9.988181818,1.5,Front-Wheel Drive,Manual 5-spd
+5452,Pontiac,Turbo Firefly,1989,3,Regular,31,38,34,261.3823529,9.694411765,1,Front-Wheel Drive,Manual 5-spd
+5607,Pontiac,Grand Am,1989,4,Premium,18,26,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 3-spd
+5608,Pontiac,Grand Am,1989,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+5609,Pontiac,Grand Am,1989,4,Regular,21,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Automatic 3-spd
+5610,Pontiac,Grand Am,1989,4,Regular,21,32,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+5611,Pontiac,Grand Am,1989,4,Regular,21,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+5612,Pontiac,Grand Am,1989,4,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 5-spd
+5613,Pontiac,Lemans,1989,4,Regular,23,29,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 3-spd
+5614,Pontiac,Lemans,1989,4,Regular,26,35,29,306.4482759,11.36586207,1.6,Front-Wheel Drive,Manual 4-spd
+5615,Pontiac,Lemans,1989,4,Regular,27,36,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+5616,Pontiac,Lemans,1989,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 3-spd
+5617,Pontiac,Lemans,1989,4,Regular,21,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+5618,Pontiac,Sunbird,1989,4,Regular,21,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 3-spd
+5619,Pontiac,Sunbird,1989,4,Premium,18,25,20,444.35,16.4805,2,Front-Wheel Drive,Automatic 3-spd
+5620,Pontiac,Sunbird,1989,4,Regular,23,33,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+5621,Pontiac,Sunbird,1989,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+564,Pontiac,Parisienne,1985,6,Regular,16,22,18,493.7222222,18.31166667,4.3,Rear-Wheel Drive,Automatic 3-spd
+565,Pontiac,Parisienne,1985,6,Regular,16,24,19,467.7368421,17.34789474,4.3,Rear-Wheel Drive,Automatic 4-spd
+5655,Pontiac,Grand Prix Turbo,1989,6,Premium,15,23,17,522.7647059,19.38882353,3.1,Front-Wheel Drive,Automatic 4-spd
+566,Pontiac,Parisienne,1985,8,Regular,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+567,Pontiac,Parisienne,1985,8,Diesel,18,26,21,484.7619048,18.19928571,5.7,Rear-Wheel Drive,Automatic 3-spd
+568,Pontiac,Parisienne,1985,8,Diesel,18,27,21,484.7619048,18.19928571,5.7,Rear-Wheel Drive,Automatic 4-spd
+5775,Pontiac,Grand Prix,1989,6,Regular,18,27,21,423.1904762,15.69571429,2.8,Front-Wheel Drive,Automatic 4-spd
+5776,Pontiac,Grand Prix,1989,6,Regular,16,27,20,444.35,16.4805,2.8,Front-Wheel Drive,Manual 5-spd
+5777,Pontiac,Grand Prix,1989,6,Regular,17,28,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+5778,Pontiac,6000,1989,4,Regular,21,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+5779,Pontiac,6000,1989,6,Regular,18,25,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 3-spd
+5780,Pontiac,6000,1989,6,Regular,18,26,21,423.1904762,15.69571429,2.8,Front-Wheel Drive,Automatic 4-spd
+5781,Pontiac,6000,1989,6,Regular,16,22,18,493.7222222,18.31166667,3.1,4-Wheel or All-Wheel Drive,Automatic 3-spd
+5813,Pontiac,Bonneville,1989,6,Regular,16,26,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+5889,Pontiac,6000 Wagon,1989,4,Regular,21,28,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic 3-spd
+5890,Pontiac,6000 Wagon,1989,6,Regular,18,27,21,423.1904762,15.69571429,2.8,Front-Wheel Drive,Automatic 4-spd
+5910,Pontiac,Safari Wagon,1989,8,Regular,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+615,Pontiac,Sunbird Wagon,1985,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 3-spd
+616,Pontiac,Sunbird Wagon,1985,4,Regular,23,32,26,341.8076923,12.67730769,1.8,Front-Wheel Drive,Manual 5-spd
+617,Pontiac,Sunbird Wagon,1985,4,Regular,23,32,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 4-spd
+6575,Pontiac,Firebird/Trans Am,1990,6,Regular,15,24,18,493.7222222,18.31166667,3.1,Rear-Wheel Drive,Manual 5-spd
+6576,Pontiac,Firebird/Trans Am,1990,6,Regular,16,25,19,467.7368421,17.34789474,3.1,Rear-Wheel Drive,Automatic 4-spd
+6577,Pontiac,Firebird/Trans Am,1990,8,Premium,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+6578,Pontiac,Firebird/Trans Am,1990,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+6579,Pontiac,Firebird/Trans Am,1990,8,Premium,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+6580,Pontiac,Firebird/Trans Am,1990,8,Regular,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+6581,Pontiac,Firebird/Trans Am,1990,8,Premium,15,22,17,522.7647059,19.38882353,5.7,Rear-Wheel Drive,Automatic 4-spd
+6582,Pontiac,Firefly,1990,3,Regular,32,35,33,269.3030303,9.988181818,1,Front-Wheel Drive,Automatic 3-spd
+6583,Pontiac,Firefly,1990,3,Regular,38,45,41,216.7560976,8.039268293,1,Front-Wheel Drive,Manual 5-spd
+6584,Pontiac,Sunbird Convertible,1990,4,Premium,18,26,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 3-spd
+6585,Pontiac,Sunbird Convertible,1990,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 3-spd
+6586,Pontiac,Sunbird Convertible,1990,4,Regular,21,30,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+6587,Pontiac,Sunbird Convertible,1990,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+6588,Pontiac,Turbo Firefly,1990,3,Regular,31,38,34,261.3823529,9.694411765,1,Front-Wheel Drive,Manual 5-spd
+670,Pontiac,6000 Wagon,1985,4,Regular,19,26,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 3-spd
+671,Pontiac,6000 Wagon,1985,6,Regular,16,22,18,493.7222222,18.31166667,2.8,Front-Wheel Drive,Automatic 3-spd
+672,Pontiac,6000 Wagon,1985,6,Regular,16,23,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 4-spd
+673,Pontiac,6000 Wagon,1985,6,Regular,17,23,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 3-spd
+6734,Pontiac,Grand Am,1990,4,Regular,20,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 3-spd
+6735,Pontiac,Grand Am,1990,4,Regular,19,29,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Manual 5-spd
+6736,Pontiac,Grand Am,1990,4,Regular,20,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+6737,Pontiac,Grand Am,1990,4,Regular,19,30,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 5-spd
+6738,Pontiac,Lemans,1990,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 3-spd
+6739,Pontiac,Lemans,1990,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 4-spd
+674,Pontiac,6000 Wagon,1985,6,Regular,17,24,20,444.35,16.4805,2.8,Front-Wheel Drive,Automatic 4-spd
+6740,Pontiac,Lemans,1990,4,Regular,27,36,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+6741,Pontiac,Lemans,1990,4,Regular,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 3-spd
+6742,Pontiac,Lemans,1990,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+6743,Pontiac,Sunbird,1990,4,Regular,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 3-spd
+6744,Pontiac,Sunbird,1990,4,Premium,18,26,21,423.1904762,15.69571429,2,Front-Wheel Drive,Automatic 3-spd
+6745,Pontiac,Sunbird,1990,4,Regular,23,33,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+6746,Pontiac,Sunbird,1990,4,Premium,18,28,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+675,Pontiac,6000 Wagon,1985,6,Diesel,23,32,26,391.5384615,14.69942308,4.3,Front-Wheel Drive,Automatic 3-spd
+6780,Pontiac,Grand Prix Ste Turbo,1990,6,Premium,15,23,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 4-spd
+6781,Pontiac,Grand Prix Turbo,1990,6,Premium,15,23,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 4-spd
+6862,Pontiac,Grand Prix,1990,4,Regular,19,27,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 3-spd
+6863,Pontiac,Grand Prix,1990,6,Regular,17,27,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+6864,Pontiac,Grand Prix,1990,6,Regular,15,26,19,467.7368421,17.34789474,3.1,Front-Wheel Drive,Manual 5-spd
+6865,Pontiac,6000,1990,4,Regular,20,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 3-spd
+6866,Pontiac,6000,1990,6,Regular,18,25,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 3-spd
+6867,Pontiac,6000,1990,6,Regular,15,22,18,493.7222222,18.31166667,3.1,4-Wheel or All-Wheel Drive,Automatic 3-spd
+6868,Pontiac,6000,1990,6,Regular,17,27,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+689,Pontiac,Parisienne Wagon,1985,8,Regular,14,20,16,555.4375,20.600625,5,Rear-Wheel Drive,Automatic 4-spd
+6899,Pontiac,Bonneville,1990,6,Regular,16,25,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+690,Pontiac,Parisienne Wagon,1985,8,Diesel,18,26,21,484.7619048,18.19928571,5.7,Rear-Wheel Drive,Automatic 4-spd
+6965,Pontiac,6000 Wagon,1990,4,Regular,18,25,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic 3-spd
+6966,Pontiac,6000 Wagon,1990,6,Regular,17,27,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+7341,Pontiac,Trans Sport 2WD,1990,6,Regular,16,21,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 3-spd
+7678,Pontiac,Firebird/Trans Am,1991,6,Regular,16,25,19,467.7368421,17.34789474,3.1,Rear-Wheel Drive,Automatic 4-spd
+7679,Pontiac,Firebird/Trans Am,1991,6,Regular,15,24,18,493.7222222,18.31166667,3.1,Rear-Wheel Drive,Manual 5-spd
+7680,Pontiac,Firebird/Trans Am,1991,8,Premium,15,22,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+7681,Pontiac,Firebird/Trans Am,1991,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+7682,Pontiac,Firebird/Trans Am,1991,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+7683,Pontiac,Firebird/Trans Am,1991,8,Premium,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+7684,Pontiac,Firebird/Trans Am,1991,8,Premium,15,22,17,522.7647059,19.38882353,5.7,Rear-Wheel Drive,Automatic 4-spd
+7685,Pontiac,Firefly,1991,3,Regular,31,35,33,269.3030303,9.988181818,1,Front-Wheel Drive,Automatic 3-spd
+7686,Pontiac,Firefly,1991,3,Regular,37,45,40,222.175,8.24025,1,Front-Wheel Drive,Manual 5-spd
+7687,Pontiac,Sunbird,1991,4,Regular,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 3-spd
+7688,Pontiac,Sunbird,1991,4,Regular,23,33,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+7689,Pontiac,Sunbird,1991,6,Regular,18,25,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 3-spd
+7690,Pontiac,Sunbird,1991,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Manual 5-spd
+7691,Pontiac,Sunbird Convertible,1991,4,Regular,19,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 3-spd
+7692,Pontiac,Sunbird Convertible,1991,4,Regular,21,30,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+7693,Pontiac,Sunbird Convertible,1991,6,Regular,18,25,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 3-spd
+7694,Pontiac,Sunbird Convertible,1991,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Manual 5-spd
+7859,Pontiac,Grand Am,1991,4,Regular,21,30,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Automatic 3-spd
+7860,Pontiac,Grand Am,1991,4,Premium,21,30,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+7861,Pontiac,Grand Am,1991,4,Regular,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 3-spd
+7862,Pontiac,Grand Am,1991,4,Regular,19,30,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 5-spd
+7863,Pontiac,Lemans,1991,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 3-spd
+7864,Pontiac,Lemans,1991,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 4-spd
+7865,Pontiac,Lemans,1991,4,Regular,27,36,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+7866,Pontiac,Lemans,1991,4,Regular,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 3-spd
+7867,Pontiac,Lemans,1991,4,Regular,22,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+7995,Pontiac,Grand Prix,1991,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 3-spd
+7996,Pontiac,Grand Prix,1991,6,Regular,17,28,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+7997,Pontiac,Grand Prix,1991,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Automatic 4-spd
+7998,Pontiac,Grand Prix,1991,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Manual 5-spd
+7999,Pontiac,6000,1991,4,Regular,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 3-spd
+8000,Pontiac,6000,1991,6,Regular,18,25,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 3-spd
+8001,Pontiac,6000,1991,6,Regular,17,28,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+8036,Pontiac,Bonneville,1991,6,Regular,17,26,20,444.35,16.4805,3.8,Front-Wheel Drive,Automatic 4-spd
+8090,Pontiac,6000 Wagon,1991,4,Regular,18,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic 3-spd
+8091,Pontiac,6000 Wagon,1991,6,Regular,17,28,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+8458,Pontiac,Trans Sport 2WD,1991,6,Regular,16,21,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 3-spd
+8776,Pontiac,Firebird/Trans Am,1992,6,Regular,16,25,19,467.7368421,17.34789474,3.1,Rear-Wheel Drive,Automatic 4-spd
+8777,Pontiac,Firebird/Trans Am,1992,6,Regular,15,24,18,493.7222222,18.31166667,3.1,Rear-Wheel Drive,Manual 5-spd
+8778,Pontiac,Firebird/Trans Am,1992,8,Premium,15,23,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+8779,Pontiac,Firebird/Trans Am,1992,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Automatic 4-spd
+8780,Pontiac,Firebird/Trans Am,1992,8,Premium,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+8781,Pontiac,Firebird/Trans Am,1992,8,Regular,15,24,18,493.7222222,18.31166667,5,Rear-Wheel Drive,Manual 5-spd
+8782,Pontiac,Firebird/Trans Am,1992,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+8783,Pontiac,Firefly,1992,3,Regular,31,35,33,269.3030303,9.988181818,1,Front-Wheel Drive,Automatic 3-spd
+8784,Pontiac,Firefly,1992,3,Regular,38,44,40,222.175,8.24025,1,Front-Wheel Drive,Manual 5-spd
+8785,Pontiac,Sunbird,1992,4,Regular,21,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 3-spd
+8786,Pontiac,Sunbird,1992,4,Regular,22,32,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+8787,Pontiac,Sunbird,1992,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 3-spd
+8788,Pontiac,Sunbird,1992,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Manual 5-spd
+8950,Pontiac,Grand Am,1992,4,Regular,19,27,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 3-spd
+8951,Pontiac,Grand Am,1992,4,Regular,20,29,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 3-spd
+8952,Pontiac,Grand Am,1992,4,Regular,22,32,26,341.8076923,12.67730769,2.3,Front-Wheel Drive,Manual 5-spd
+8953,Pontiac,Grand Am,1992,4,Premium,19,29,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Manual 5-spd
+8954,Pontiac,Grand Am,1992,6,Regular,17,26,20,444.35,16.4805,3.3,Front-Wheel Drive,Automatic 3-spd
+8955,Pontiac,Lemans,1992,4,Regular,23,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 3-spd
+8956,Pontiac,Lemans,1992,4,Regular,24,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 4-spd
+8957,Pontiac,Lemans,1992,4,Regular,26,37,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd
+9065,Pontiac,Grand Prix,1992,6,Regular,17,24,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 3-spd
+9066,Pontiac,Grand Prix,1992,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Automatic 4-spd
+9067,Pontiac,Grand Prix,1992,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Automatic 4-spd
+9068,Pontiac,Grand Prix,1992,6,Regular,15,24,18,493.7222222,18.31166667,3.4,Front-Wheel Drive,Manual 5-spd
+9113,Pontiac,Bonneville,1992,6,Premium,15,23,17,522.7647059,19.38882353,3.8,Front-Wheel Drive,Automatic 4-spd
+9114,Pontiac,Bonneville,1992,6,Regular,16,26,19,467.7368421,17.34789474,3.8,Front-Wheel Drive,Automatic 4-spd
+9529,Pontiac,Trans Sport 2WD,1992,6,Regular,16,21,18,493.7222222,18.31166667,3.1,Front-Wheel Drive,Automatic 3-spd
+9530,Pontiac,Trans Sport 2WD,1992,6,Regular,15,22,17,522.7647059,19.38882353,3.8,Front-Wheel Drive,Automatic 4-spd
+9837,Pontiac,Firebird/Formula,1993,6,Regular,17,26,20,444.35,16.4805,3.4,Rear-Wheel Drive,Automatic 4-spd
+9838,Pontiac,Firebird/Formula,1993,6,Regular,17,26,20,444.35,16.4805,3.4,Rear-Wheel Drive,Manual 5-spd
+9839,Pontiac,Firebird/Formula,1993,8,Premium,15,22,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Automatic 4-spd
+9840,Pontiac,Firebird/Formula,1993,8,Premium,15,23,18,493.7222222,18.31166667,5.7,Rear-Wheel Drive,Manual 6-spd
+9841,Pontiac,Sunbird,1993,4,Regular,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 3-spd
+9842,Pontiac,Sunbird,1993,4,Regular,22,32,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+9843,Pontiac,Sunbird,1993,6,Regular,18,26,21,423.1904762,15.69571429,3.1,Front-Wheel Drive,Automatic 3-spd
+9844,Pontiac,Sunbird,1993,6,Regular,17,26,20,444.35,16.4805,3.1,Front-Wheel Drive,Manual 5-spd
+9977,Pontiac,Grand Am,1993,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 3-spd
+9978,Pontiac,Grand Am,1993,4,Regular,19,29,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic 3-spd
+9979,Pontiac,Grand Am,1993,4,Regular,21,32,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+9980,Pontiac,Grand Am,1993,4,Premium,18,27,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+9981,Pontiac,Grand Am,1993,6,Regular,18,26,21,423.1904762,15.69571429,3.3,Front-Wheel Drive,Automatic 3-spd
+9982,Pontiac,Lemans,1993,4,Regular,23,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 3-spd
+9983,Pontiac,Lemans,1993,4,Regular,24,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 4-spd
+9984,Pontiac,Lemans,1993,4,Regular,26,37,30,296.2333333,10.987,1.6,Front-Wheel Drive,Manual 5-spd

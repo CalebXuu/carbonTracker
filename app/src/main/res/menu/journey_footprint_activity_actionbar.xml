@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bar_btn_set_date"
+        android:icon="@drawable/date_span"
+        android:title="Set Date"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bar_btn_confirm_save"
+        android:icon="@drawable/save_icon"
+        android:title="Save"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bar_btn_cancel_add"
+        android:icon="?attr/actionModeCloseDrawable"
+        android:title="BACK"
+        app:showAsAction="always" />
+
+</menu>

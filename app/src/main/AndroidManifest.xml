@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="richardshen.carbon_tracker">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoadingScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RouteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.ActionBar"/>
+        <activity
+            android:name=".menu"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/></activity>
+
+        <activity
+            android:name=".AddJourney"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.ActionBar"/>
+        <activity
+            android:name=".AddCarScreen"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FoundCars"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddRouteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.ActionBar"/>
+        <activity
+            android:name=".PersonalizeCar"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.ActionBar"/>
+        <activity
+            android:name=".JourneyFootPrintActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AboutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".AddDateActivity" />
+        <activity android:name=".UtilitiesBillActivity"
+            android:parentActivityName=".menu"
+            android:theme="@style/AppTheme.ActionBar"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menu"/>
+        </activity>
+        <activity android:name=".AddUtilitiesActivity"
+            android:parentActivityName=".UtilitiesBillActivity"
+            android:theme="@style/AppTheme.ActionBar"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".UtilitiesBillActivity" />
+        </activity>
+        <activity android:name=".ChooseTransportActivity"
+            android:parentActivityName=".ViewJourneys">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".ViewJourneys"/></activity>
+        <activity android:name=".ViewJourneys"
+            android:parentActivityName=".menu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menu"/></activity>
+        <activity android:name=".EditJourneys" />
+        <activity android:name=".TipsHistoryActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/></activity>
+        <activity android:name=".SettingActivity"></activity>
+        <activity android:name=".CarbonFootprintActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".menu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menu"/></activity>
+        <receiver android:name=".AlarmReceiver" />
+    </application>
+
+</manifest>

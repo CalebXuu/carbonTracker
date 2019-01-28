@@ -1,0 +1,959 @@
+10065,Mazda,626,1993,4,Regular,21,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+10066,Mazda,626,1993,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+10067,Mazda,626,1993,6,Premium,17,23,19,467.7368421,17.34789474,2.5,Front-Wheel Drive,Automatic 4-spd
+10068,Mazda,626,1993,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+10069,Mazda,929,1993,6,Premium,17,22,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Automatic 4-spd
+10313,Mazda,B2200/B2600i,1993,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+10314,Mazda,B2200/B2600i,1993,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 5-spd
+10315,Mazda,B2200/B2600i,1993,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+10316,Mazda,B2200/B2600i,1993,4,Regular,21,24,22,403.9545455,14.98227273,2.2,Rear-Wheel Drive,Manual 5-spd
+10317,Mazda,B2200/B2600i,1993,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+10318,Mazda,B2200/B2600i,1993,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Manual 5-spd
+10405,Mazda,B2600i 4x4,1993,4,Regular,15,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Automatic 4-spd
+10406,Mazda,B2600i 4x4,1993,4,Regular,16,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+10519,Mazda,MPV,1993,4,Regular,16,22,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Automatic 4-spd
+10520,Mazda,MPV,1993,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+10581,Mazda,MPV 4x4,1993,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+10582,Mazda,Navajo,1993,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 4-spd
+10583,Mazda,Navajo,1993,6,Regular,16,21,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Manual 5-spd
+10584,Mazda,Navajo 4x4,1993,6,Regular,14,18,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+10585,Mazda,Navajo 4x4,1993,6,Regular,16,21,18,493.7222222,18.31166667,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+10638,Mazda,MX-5 Miata,1994,4,Regular,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+10639,Mazda,MX-5 Miata,1994,4,Regular,19,25,21,423.1904762,15.69571429,1.8,Rear-Wheel Drive,Manual 5-spd
+10640,Mazda,RX-7,1994,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Automatic 4-spd
+10641,Mazda,RX-7,1994,2,Premium,15,23,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+10766,Mazda,MX-3,1994,4,Regular,22,31,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+10767,Mazda,MX-3,1994,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+10768,Mazda,MX-3,1994,6,Regular,18,25,20,444.35,16.4805,1.9,Front-Wheel Drive,Automatic 4-spd
+10769,Mazda,MX-3,1994,6,Regular,20,26,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Manual 5-spd
+10770,Mazda,MX-6,1994,4,Regular,20,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+10771,Mazda,MX-6,1994,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+10772,Mazda,MX-6,1994,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+10773,Mazda,MX-6,1994,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+10924,Mazda,Protege,1994,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+10925,Mazda,Protege,1994,4,Regular,20,26,22,403.9545455,14.98227273,1.8,Front-Wheel Drive,Automatic 4-spd
+10926,Mazda,Protege,1994,4,Regular,24,33,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+10927,Mazda,Protege,1994,4,Regular,21,27,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+10928,Mazda,323,1994,4,Regular,23,30,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+10929,Mazda,323,1994,4,Regular,22,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+10930,Mazda,323,1994,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+10931,Mazda,323,1994,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+11028,Mazda,626,1994,4,Regular,20,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+11029,Mazda,626,1994,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+11030,Mazda,626,1994,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+11031,Mazda,626,1994,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+11032,Mazda,929,1994,6,Premium,17,22,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Automatic 4-spd
+11267,Mazda,B2300/B3000/B4000 Pickup 2WD,1994,4,Regular,18,22,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+11268,Mazda,B2300/B3000/B4000 Pickup 2WD,1994,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+11269,Mazda,B2300/B3000/B4000 Pickup 2WD,1994,6,Regular,17,22,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Automatic 4-spd
+11270,Mazda,B2300/B3000/B4000 Pickup 2WD,1994,6,Regular,17,22,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Manual 5-spd
+11271,Mazda,B2300/B3000/B4000 Pickup 2WD,1994,6,Regular,15,21,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 4-spd
+11272,Mazda,B2300/B3000/B4000 Pickup 2WD,1994,6,Regular,16,22,19,467.7368421,17.34789474,4,Rear-Wheel Drive,Manual 5-spd
+11357,Mazda,B2300/B3000/B4000 Pickup 4WD,1994,4,Regular,18,22,19,467.7368421,17.34789474,2.3,4-Wheel or All-Wheel Drive,Manual 5-spd
+11358,Mazda,B2300/B3000/B4000 Pickup 4WD,1994,6,Regular,15,20,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+11359,Mazda,B2300/B3000/B4000 Pickup 4WD,1994,6,Regular,16,20,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+11360,Mazda,B2300/B3000/B4000 Pickup 4WD,1994,6,Regular,15,20,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+11361,Mazda,B2300/B3000/B4000 Pickup 4WD,1994,6,Regular,16,20,18,493.7222222,18.31166667,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+11475,Mazda,MPV,1994,4,Regular,16,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+11476,Mazda,MPV,1994,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+11477,Mazda,MPV,1994,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+11478,Mazda,Navajo,1994,6,Regular,16,22,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Automatic 4-spd
+11479,Mazda,Navajo,1994,6,Regular,14,19,16,555.4375,20.600625,4,Rear-Wheel Drive,Manual 5-spd
+11553,Mazda,MPV 4x4,1994,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+11554,Mazda,MPV 4x4,1994,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+11555,Mazda,Navajo 4x4,1994,6,Regular,15,20,17,522.7647059,19.38882353,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+11556,Mazda,Navajo 4x4,1994,6,Regular,14,18,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+11602,Mazda,MX-5 Miata,1995,4,Regular,19,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+11603,Mazda,MX-5 Miata,1995,4,Regular,21,27,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 5-spd
+11604,Mazda,RX-7,1995,2,Premium,15,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Automatic 4-spd
+11605,Mazda,RX-7,1995,2,Premium,15,23,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+11719,Mazda,MX-3,1995,4,Regular,22,31,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+11720,Mazda,MX-3,1995,4,Regular,25,34,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+11721,Mazda,MX-3,1995,6,Regular,18,25,20,444.35,16.4805,1.9,Front-Wheel Drive,Automatic 4-spd
+11722,Mazda,MX-3,1995,6,Regular,20,26,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Manual 5-spd
+11723,Mazda,MX-6,1995,4,Regular,20,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+11724,Mazda,MX-6,1995,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+11725,Mazda,MX-6,1995,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+11726,Mazda,MX-6,1995,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+1175,Mazda,RX-7,1985,2,Regular,15,21,17,522.7647059,19.38882353,1.1,Rear-Wheel Drive,Automatic 4-spd
+1176,Mazda,RX-7,1985,2,Regular,15,20,17,522.7647059,19.38882353,1.1,Rear-Wheel Drive,Manual 5-spd
+11877,Mazda,Millenia,1995,6,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+11878,Mazda,Millenia,1995,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+11879,Mazda,Protege,1995,4,Regular,23,32,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 4-spd
+11880,Mazda,Protege,1995,4,Regular,26,35,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 5-spd
+11881,Mazda,Protege,1995,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+11882,Mazda,Protege,1995,4,Regular,20,26,22,403.9545455,14.98227273,1.8,Front-Wheel Drive,Automatic 4-spd
+11883,Mazda,Protege,1995,4,Regular,24,33,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+11884,Mazda,Protege,1995,4,Regular,23,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+11885,Mazda,323,1995,4,Regular,23,30,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+11886,Mazda,323,1995,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+11976,Mazda,626,1995,4,Regular,20,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+11977,Mazda,626,1995,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+11978,Mazda,626,1995,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+11979,Mazda,626,1995,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+11980,Mazda,929,1995,6,Premium,17,22,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Automatic 4-spd
+12227,Mazda,B2300/B3000/B4000 Pickup 2WD,1995,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+12228,Mazda,B2300/B3000/B4000 Pickup 2WD,1995,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+12229,Mazda,B2300/B3000/B4000 Pickup 2WD,1995,6,Regular,16,22,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 4-spd
+12230,Mazda,B2300/B3000/B4000 Pickup 2WD,1995,6,Regular,17,23,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Manual 5-spd
+12231,Mazda,B2300/B3000/B4000 Pickup 2WD,1995,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 4-spd
+12232,Mazda,B2300/B3000/B4000 Pickup 2WD,1995,6,Regular,17,22,19,467.7368421,17.34789474,4,Rear-Wheel Drive,Manual 5-spd
+12319,Mazda,B2300/B3000/B4000 Pickup 4WD,1995,4,Regular,19,24,21,423.1904762,15.69571429,2.3,4-Wheel or All-Wheel Drive,Manual 5-spd
+12320,Mazda,B2300/B3000/B4000 Pickup 4WD,1995,6,Regular,15,21,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+12321,Mazda,B2300/B3000/B4000 Pickup 4WD,1995,6,Regular,16,22,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+12322,Mazda,B2300/B3000/B4000 Pickup 4WD,1995,6,Regular,15,20,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+12323,Mazda,B2300/B3000/B4000 Pickup 4WD,1995,6,Regular,15,20,17,522.7647059,19.38882353,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+1243,Mazda,GLC,1985,4,Regular,26,29,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Manual 4-spd
+12431,Mazda,MPV,1995,4,Regular,16,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+12432,Mazda,MPV,1995,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+12496,Mazda,MPV 4x4,1995,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+12525,Mazda,MX-5 Miata,1996,4,Regular,19,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+12526,Mazda,MX-5 Miata,1996,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 5-spd
+12621,Mazda,MX-3,1996,4,Regular,23,31,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+12622,Mazda,MX-3,1996,4,Regular,26,34,29,306.4482759,11.36586207,1.6,Front-Wheel Drive,Manual 5-spd
+12623,Mazda,MX-3,1996,6,Regular,18,25,20,444.35,16.4805,1.8,Front-Wheel Drive,Automatic 4-spd
+12624,Mazda,MX-3,1996,6,Regular,20,26,22,403.9545455,14.98227273,1.8,Front-Wheel Drive,Manual 5-spd
+12625,Mazda,MX-6,1996,4,Regular,20,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+12626,Mazda,MX-6,1996,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+12627,Mazda,MX-6,1996,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+12628,Mazda,MX-6,1996,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+12747,Mazda,Millenia,1996,6,Premium,18,26,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+12748,Mazda,Millenia,1996,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+12749,Mazda,Protege,1996,4,Regular,23,32,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Automatic 4-spd
+12750,Mazda,Protege,1996,4,Regular,27,35,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 5-spd
+12751,Mazda,Protege,1996,4,Regular,20,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+12752,Mazda,Protege,1996,4,Regular,23,30,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+12840,Mazda,626,1996,4,Regular,20,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+12841,Mazda,626,1996,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+12842,Mazda,626,1996,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+12843,Mazda,626,1996,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+13021,Mazda,B2300/B3000/B4000 Pickup 2WD,1996,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+13022,Mazda,B2300/B3000/B4000 Pickup 2WD,1996,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+13023,Mazda,B2300/B3000/B4000 Pickup 2WD,1996,6,Regular,16,22,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 4-spd
+13024,Mazda,B2300/B3000/B4000 Pickup 2WD,1996,6,Regular,17,23,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Manual 5-spd
+13025,Mazda,B2300/B3000/B4000 Pickup 2WD,1996,6,Regular,15,21,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 4-spd
+13026,Mazda,B2300/B3000/B4000 Pickup 2WD,1996,6,Regular,16,21,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Manual 5-spd
+13072,Mazda,B2300/B3000/B4000 Pickup 4WD,1996,4,Regular,18,23,20,444.35,16.4805,2.3,4-Wheel or All-Wheel Drive,Manual 5-spd
+13073,Mazda,B2300/B3000/B4000 Pickup 4WD,1996,6,Regular,15,21,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+13074,Mazda,B2300/B3000/B4000 Pickup 4WD,1996,6,Regular,16,22,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+13075,Mazda,B2300/B3000/B4000 Pickup 4WD,1996,6,Regular,15,20,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+13076,Mazda,B2300/B3000/B4000 Pickup 4WD,1996,6,Regular,15,20,17,522.7647059,19.38882353,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+13174,Mazda,MPV,1996,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+13240,Mazda,MPV 4x4,1996,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+13267,Mazda,MX-5 Miata,1997,4,Regular,19,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+13268,Mazda,MX-5 Miata,1997,4,Regular,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Manual 5-spd
+13368,Mazda,MX-6,1997,4,Regular,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 4-spd
+13369,Mazda,MX-6,1997,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+13370,Mazda,MX-6,1997,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+13371,Mazda,MX-6,1997,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+13485,Mazda,Millenia,1997,6,Premium,18,26,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+13486,Mazda,Millenia,1997,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+13487,Mazda,Protege,1997,4,Regular,22,30,25,355.48,13.1844,1.5,Front-Wheel Drive,Automatic 4-spd
+13488,Mazda,Protege,1997,4,Regular,26,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+13489,Mazda,Protege,1997,4,Regular,20,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+13490,Mazda,Protege,1997,4,Regular,23,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+13578,Mazda,626,1997,4,Regular,21,29,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 4-spd
+13579,Mazda,626,1997,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+13580,Mazda,626,1997,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+13581,Mazda,626,1997,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+13751,Mazda,B2300/B3000/B4000 Pickup 2WD,1997,6,Regular,16,22,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+13752,Mazda,B2300/B3000/B4000 Pickup 2WD,1997,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+13753,Mazda,B2300/B3000/B4000 Pickup 2WD,1997,4,Regular,21,24,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+13754,Mazda,B2300/B3000/B4000 Pickup 2WD,1997,6,Regular,15,21,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+13755,Mazda,B2300/B3000/B4000 Pickup 2WD,1997,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+13756,Mazda,B2300/B3000/B4000 Pickup 2WD,1997,6,Regular,16,22,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Manual 5-spd
+13799,Mazda,B2300/B3000/B4000 Pickup 4WD,1997,6,Regular,14,19,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+13800,Mazda,B2300/B3000/B4000 Pickup 4WD,1997,6,Regular,15,20,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+13801,Mazda,B2300/B3000/B4000 Pickup 4WD,1997,6,Regular,14,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+13802,Mazda,B2300/B3000/B4000 Pickup 4WD,1997,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+13901,Mazda,MPV,1997,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+13969,Mazda,MPV 4x4,1997,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+14231,Mazda,Millenia,1998,6,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+14232,Mazda,Millenia,1998,6,Premium,17,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+14233,Mazda,Protege,1998,4,Regular,22,30,25,355.48,13.1844,1.5,Front-Wheel Drive,Automatic 4-spd
+14234,Mazda,Protege,1998,4,Regular,26,33,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Manual 5-spd
+14235,Mazda,Protege,1998,4,Regular,20,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+14236,Mazda,Protege,1998,4,Regular,23,29,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+14332,Mazda,626,1998,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+14333,Mazda,626,1998,4,Regular,23,30,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+14334,Mazda,626,1998,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+14335,Mazda,626,1998,6,Premium,19,25,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 5-spd
+14522,Mazda,B2500/B3000/B4000 2WD,1998,4,Regular,18,23,20,444.35,16.4805,2.5,Rear-Wheel Drive,Automatic 4-spd
+14523,Mazda,B2500/B3000/B4000 2WD,1998,4,Regular,19,24,21,423.1904762,15.69571429,2.5,Rear-Wheel Drive,Manual 5-spd
+14524,Mazda,B2500/B3000/B4000 2WD,1998,6,Regular,15,21,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+14525,Mazda,B2500/B3000/B4000 2WD,1998,6,Regular,15,21,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Manual 5-spd
+14526,Mazda,B2500/B3000/B4000 2WD,1998,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+14527,Mazda,B2500/B3000/B4000 2WD,1998,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Manual 5-spd
+14573,Mazda,B2500/B3000/B4000 4WD,1998,6,Regular,14,19,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+14574,Mazda,B2500/B3000/B4000 4WD,1998,6,Regular,15,20,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+14575,Mazda,B2500/B3000/B4000 4WD,1998,6,Regular,14,18,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+14576,Mazda,B2500/B3000/B4000 4WD,1998,6,Regular,14,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+14672,Mazda,MPV,1998,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+14759,Mazda,MPV 4x4,1998,6,Regular,13,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+14805,Mazda,MX-5 Miata,1999,4,Regular,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+14806,Mazda,MX-5 Miata,1999,4,Regular,22,27,24,370.2916667,13.73375,1.8,Rear-Wheel Drive,Manual 5-spd
+15009,Mazda,Millenia,1999,6,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+15010,Mazda,Millenia,1999,6,Premium,17,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+15011,Mazda,Protege,1999,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+15012,Mazda,Protege,1999,4,Regular,25,31,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+15013,Mazda,Protege,1999,4,Regular,21,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+15014,Mazda,Protege,1999,4,Regular,22,28,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+15122,Mazda,626,1999,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+15123,Mazda,626,1999,4,Regular,23,30,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+15124,Mazda,626,1999,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+15125,Mazda,626,1999,6,Premium,19,25,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 5-spd
+15309,Mazda,B2500,1999,4,Regular,18,23,20,444.35,16.4805,2.5,Rear-Wheel Drive,Automatic 4-spd
+15310,Mazda,B2500,1999,4,Regular,19,24,21,423.1904762,15.69571429,2.5,Rear-Wheel Drive,Manual 5-spd
+15311,Mazda,B3000 FFV 2WD,1999,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+15312,Mazda,B3000 FFV 2WD,1999,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+15313,Mazda,B4000,1999,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+15314,Mazda,B4000,1999,6,Regular,16,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Manual 5-spd
+15361,Mazda,B3000 FFV 4WD,1999,6,Regular,14,18,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+15362,Mazda,B3000 FFV 4WD,1999,6,Regular,16,20,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+15363,Mazda,B4000,1999,6,Regular,14,18,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+15364,Mazda,B4000,1999,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+15609,Mazda,MX-5 Miata,2000,4,Regular,20,25,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+15610,Mazda,MX-5 Miata,2000,4,Regular,22,27,24,370.2916667,13.73375,1.8,Rear-Wheel Drive,Manual 5-spd
+15611,Mazda,MX-5 Miata,2000,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 6-spd
+15809,Mazda,Millenia,2000,6,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+15810,Mazda,Millenia,2000,6,Premium,17,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+15811,Mazda,Protege,2000,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+15812,Mazda,Protege,2000,4,Regular,25,31,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+15813,Mazda,Protege,2000,4,Regular,21,27,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+15814,Mazda,Protege,2000,4,Regular,22,28,25,355.48,13.1844,1.8,Front-Wheel Drive,Manual 5-spd
+159,Mazda,GLC,1985,4,Regular,24,28,26,341.8076923,12.67730769,1.5,Front-Wheel Drive,Automatic 3-spd
+15930,Mazda,626,2000,4,Regular,19,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+15931,Mazda,626,2000,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+15932,Mazda,626,2000,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+15933,Mazda,626,2000,6,Premium,19,25,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 5-spd
+160,Mazda,GLC,1985,4,Regular,26,29,27,329.1481481,12.20777778,1.5,Front-Wheel Drive,Manual 4-spd
+161,Mazda,GLC,1985,4,Regular,27,35,30,296.2333333,10.987,1.5,Front-Wheel Drive,Manual 5-spd
+16117,Mazda,2500 2WD,2000,4,Regular,18,23,20,444.35,16.4805,2.5,Rear-Wheel Drive,Automatic 4-spd
+16118,Mazda,2500 2WD,2000,4,Regular,20,24,22,403.9545455,14.98227273,2.5,Rear-Wheel Drive,Manual 5-spd
+16119,Mazda,B4000 2WD,2000,6,Regular,14,19,16,555.4375,20.600625,4,Rear-Wheel Drive,Automatic 5-spd
+16120,Mazda,B4000 2WD,2000,6,Regular,16,21,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Manual 5-spd
+16164,Mazda,B4000 4WD,2000,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+16165,Mazda,B4000 4WD,2000,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+16228,Mazda,MPV,2000,6,Regular,16,21,18,493.7222222,18.31166667,2.5,Front-Wheel Drive,Automatic 4-spd
+16413,Mazda,B3000 FFV 2WD,2000,6,Gasoline or E85,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+16414,Mazda,B3000 FFV 2WD,2000,6,Gasoline or E85,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+16415,Mazda,B3000 FFV 4WD,2000,6,Gasoline or E85,14,18,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+16416,Mazda,B3000 FFV 4WD,2000,6,Gasoline or E85,15,20,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+16451,Mazda,MX-5 Miata,2001,4,Premium,20,25,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+16452,Mazda,MX-5 Miata,2001,4,Premium,20,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 5-spd
+16453,Mazda,MX-5 Miata,2001,4,Premium,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Manual 6-spd
+16655,Mazda,Millenia,2001,6,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+16656,Mazda,Millenia,2001,6,Premium,17,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+16657,Mazda,Protege/Protege MPS,2001,4,Regular,23,30,26,341.8076923,12.67730769,1.6,Front-Wheel Drive,Automatic 4-spd
+16658,Mazda,Protege/Protege MPS,2001,4,Regular,25,31,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+16659,Mazda,Protege/Protege MPS,2001,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 4-spd
+16660,Mazda,Protege/Protege MPS,2001,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+16794,Mazda,626,2001,4,Regular,19,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+16795,Mazda,626,2001,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+16796,Mazda,626,2001,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+16797,Mazda,626,2001,6,Premium,19,25,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 5-spd
+16975,Mazda,B2300 2WD,2001,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 5-spd
+16976,Mazda,B2300 2WD,2001,4,Regular,21,26,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+16977,Mazda,B2500 2WD,2001,4,Regular,18,22,19,467.7368421,17.34789474,2.5,Rear-Wheel Drive,Automatic 4-spd
+16978,Mazda,B2500 2WD,2001,4,Regular,19,24,21,423.1904762,15.69571429,2.5,Rear-Wheel Drive,Manual 5-spd
+16979,Mazda,B3000,2001,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+16980,Mazda,B3000,2001,6,Regular,15,21,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Manual 5-spd
+16981,Mazda,B4000 2WD,2001,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+16982,Mazda,B4000 2WD,2001,6,Regular,16,20,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Manual 5-spd
+17032,Mazda,B3000 4WD,2001,6,Regular,14,18,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 5-spd
+17033,Mazda,B3000 4WD,2001,6,Regular,15,19,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+17034,Mazda,B4000 4WD,2001,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+17035,Mazda,B4000 4WD,2001,6,Regular,14,18,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+17097,Mazda,MPV,2001,6,Regular,16,21,18,493.7222222,18.31166667,2.5,Front-Wheel Drive,Automatic 4-spd
+17159,Mazda,Tribute 2WD,2001,4,Regular,21,26,23,386.3913043,14.33086957,2,Front-Wheel Drive,Manual 5-spd
+17160,Mazda,Tribute 2WD,2001,6,Regular,16,22,18,493.7222222,18.31166667,3,Front-Wheel Drive,Automatic 4-spd
+17260,Mazda,Tribute 4WD,2001,4,Regular,20,24,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+17261,Mazda,Tribute 4WD,2001,6,Regular,16,22,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+17324,Mazda,B3000 (FFV) Ethanol 2WD,2001,6,Gasoline or E85,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+1733,Mazda,RX-7,1986,2,Regular,15,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Automatic 4-spd
+17361,Mazda,MX-5 Miata,2002,4,Premium,20,25,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+17362,Mazda,MX-5 Miata,2002,4,Premium,20,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 5-spd
+17363,Mazda,MX-5 Miata,2002,4,Premium,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Manual 6-spd
+17581,Mazda,Millenia,2002,6,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+17582,Mazda,Millenia,2002,6,Premium,17,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+17583,Mazda,Protege/Protege 5,2002,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 4-spd
+17584,Mazda,Protege/Protege 5,2002,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+17585,Mazda,Protege/Protege 5,2002,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic (S4)
+17722,Mazda,626,2002,4,Regular,19,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+17723,Mazda,626,2002,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+17724,Mazda,626,2002,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Automatic 4-spd
+17725,Mazda,626,2002,6,Premium,19,25,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 5-spd
+17912,Mazda,B2300 2WD,2002,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 5-spd
+17913,Mazda,B2300 2WD,2002,4,Regular,21,25,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+17914,Mazda,B3000 2WD,2002,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+17915,Mazda,B3000 2WD,2002,6,Regular,17,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+17916,Mazda,B4000 2WD,2002,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+17917,Mazda,B4000 2WD,2002,6,Regular,16,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Manual 5-spd
+17968,Mazda,B3000 4WD,2002,6,Regular,14,17,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Automatic 5-spd
+17969,Mazda,B3000 4WD,2002,6,Regular,16,20,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+17970,Mazda,B4000 4WD,2002,6,Regular,13,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+17971,Mazda,B4000 4WD,2002,6,Regular,14,18,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+18030,Mazda,MPV,2002,6,Regular,16,23,18,493.7222222,18.31166667,3,Front-Wheel Drive,Automatic 5-spd
+18102,Mazda,Tribute 2WD,2002,4,Regular,20,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+18103,Mazda,Tribute 2WD,2002,6,Regular,17,23,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic 4-spd
+18212,Mazda,Tribute 4WD,2002,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+18213,Mazda,Tribute 4WD,2002,6,Regular,16,22,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+18288,Mazda,B3000 FFV 2WD,2002,6,Gasoline or E85,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+18320,Mazda,MX-5 Miata,2003,4,Premium,20,25,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+18321,Mazda,MX-5 Miata,2003,4,Premium,20,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 5-spd
+18322,Mazda,MX-5 Miata,2003,4,Premium,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Manual 6-spd
+18551,Mazda,Protege/Protege 5,2003,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic 4-spd
+18552,Mazda,Protege/Protege 5,2003,4,Premium,21,27,23,386.3913043,14.33086957,2,Front-Wheel Drive,Manual 5-spd
+18553,Mazda,Protege/Protege 5,2003,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Manual 5-spd
+18554,Mazda,Protege/Protege 5,2003,4,Regular,22,28,24,370.2916667,13.73375,2,Front-Wheel Drive,Automatic (S4)
+18684,Mazda,6,2003,4,Regular,22,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+18685,Mazda,6,2003,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic (S4)
+18686,Mazda,6,2003,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+18687,Mazda,6,2003,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S5)
+18882,Mazda,B2300 2WD,2003,4,Regular,20,24,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Automatic 5-spd
+18883,Mazda,B2300 2WD,2003,4,Regular,21,26,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+18884,Mazda,B3000 2WD,2003,6,Regular,16,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+18885,Mazda,B3000 2WD,2003,6,Regular,17,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+18886,Mazda,B4000 2WD,2003,6,Regular,14,19,16,555.4375,20.600625,4,Rear-Wheel Drive,Automatic 5-spd
+18887,Mazda,B4000 2WD,2003,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Manual 5-spd
+18938,Mazda,B3000 4WD,2003,6,Regular,15,18,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Automatic 5-spd
+18939,Mazda,B3000 4WD,2003,6,Regular,16,19,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+18940,Mazda,B4000 4WD,2003,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+18941,Mazda,B4000 4WD,2003,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+19008,Mazda,MPV,2003,6,Regular,16,23,18,493.7222222,18.31166667,3,Front-Wheel Drive,Automatic 5-spd
+19082,Mazda,Tribute 2WD,2003,4,Regular,20,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+19083,Mazda,Tribute 2WD,2003,6,Regular,17,23,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic 4-spd
+19203,Mazda,Tribute 4WD,2003,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+19204,Mazda,Tribute 4WD,2003,6,Regular,16,21,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+19265,Mazda,B3000 2WD FFV,2003,6,Gasoline or E85,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+19366,Mazda,MX-5 Miata,2004,4,Premium,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+19367,Mazda,MX-5 Miata,2004,4,Premium,20,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 5-spd
+19368,Mazda,MX-5 Miata,2004,4,Premium,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Manual 6-spd
+19369,Mazda,MX-5 Miata,2004,4,Premium,18,24,20,444.35,16.4805,1.8,Rear-Wheel Drive,Manual 6-spd
+19485,Mazda,RX-8,2004,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+19486,Mazda,RX-8,2004,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Automatic (S4)
+19614,Mazda,3,2004,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+19615,Mazda,3,2004,4,Regular,22,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Automatic (S4)
+19616,Mazda,3,2004,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Automatic (S4)
+19617,Mazda,3,2004,4,Regular,22,29,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+19618,Mazda,3,2004,4,Regular,21,26,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic (S4)
+19778,Mazda,6,2004,4,Regular,21,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+19779,Mazda,6,2004,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic (S4)
+19780,Mazda,6,2004,6,Regular,17,24,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+19781,Mazda,6,2004,6,Regular,17,24,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic (S5)
+19920,Mazda,6 Sport Wagon,2004,6,Regular,17,24,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+19921,Mazda,6 Sport Wagon,2004,6,Regular,17,24,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic (S5)
+20006,Mazda,B2300 2WD,2004,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 5-spd
+20007,Mazda,B2300 2WD,2004,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+20008,Mazda,B3000,2004,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 5-spd
+20009,Mazda,B3000,2004,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+20010,Mazda,B4000 2WD,2004,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+20011,Mazda,B4000 2WD,2004,6,Regular,15,21,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Manual 5-spd
+20072,Mazda,B4000 4WD,2004,6,Regular,14,18,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+20073,Mazda,B4000 4WD,2004,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+2011,Mazda,323,1986,4,Regular,22,28,24,370.2916667,13.73375,1.6,Front-Wheel Drive,Automatic 3-spd
+2012,Mazda,323,1986,4,Regular,23,27,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 4-spd
+2013,Mazda,323,1986,4,Regular,24,31,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+20133,Mazda,MPV,2004,6,Regular,16,23,18,493.7222222,18.31166667,3,Front-Wheel Drive,Automatic 5-spd
+2014,Mazda,626,1986,4,Regular,21,26,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 3-spd
+2015,Mazda,626,1986,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+2016,Mazda,626,1986,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+20210,Mazda,Tribute 2WD,2004,4,Regular,20,25,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+20211,Mazda,Tribute 2WD,2004,6,Regular,17,23,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic 4-spd
+20331,Mazda,Tribute 4WD,2004,4,Regular,19,23,21,423.1904762,15.69571429,2,4-Wheel or All-Wheel Drive,Manual 5-spd
+20332,Mazda,Tribute 4WD,2004,6,Regular,16,22,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+20488,Mazda,MX-5 Miata,2005,4,Premium,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Automatic 4-spd
+20489,Mazda,MX-5 Miata,2005,4,Premium,20,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 5-spd
+20490,Mazda,MX-5 Miata,2005,4,Premium,20,26,22,403.9545455,14.98227273,1.8,Rear-Wheel Drive,Manual 6-spd
+20491,Mazda,MX-5 Miata,2005,4,Premium,18,24,20,444.35,16.4805,1.8,Rear-Wheel Drive,Manual 6-spd
+20621,Mazda,RX-8,2005,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+20622,Mazda,RX-8,2005,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Automatic (S4)
+20732,Mazda,3,2005,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+20733,Mazda,3,2005,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Automatic (S4)
+20734,Mazda,3,2005,4,Regular,22,29,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+20735,Mazda,3,2005,4,Regular,21,26,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic (S4)
+20902,Mazda,6,2005,4,Regular,21,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Manual 5-spd
+20903,Mazda,6,2005,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic (S4)
+20904,Mazda,6,2005,6,Regular,17,24,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+20905,Mazda,6,2005,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S6)
+21,Mazda,RX-7,1985,2,Regular,15,20,17,522.7647059,19.38882353,1.1,Rear-Wheel Drive,Automatic 4-spd
+21053,Mazda,6 Sport Wagon,2005,6,Regular,17,24,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+21054,Mazda,6 Sport Wagon,2005,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S6)
+21131,Mazda,B2300 2WD,2005,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 5-spd
+21132,Mazda,B2300 2WD,2005,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+21133,Mazda,B3000,2005,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 5-spd
+21134,Mazda,B3000,2005,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+21181,Mazda,B4000 4WD,2005,6,Regular,14,18,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+21182,Mazda,B4000 4WD,2005,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+21238,Mazda,MPV,2005,6,Regular,16,23,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic 5-spd
+21322,Mazda,Tribute 2WD,2005,4,Regular,19,23,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+21323,Mazda,Tribute 2WD,2005,4,Regular,21,27,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+21324,Mazda,Tribute 2WD,2005,6,Regular,17,23,19,467.7368421,17.34789474,3,Front-Wheel Drive,Automatic 4-spd
+21436,Mazda,Tribute 4WD,2005,4,Regular,17,20,18,493.7222222,18.31166667,2.3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+21437,Mazda,Tribute 4WD,2005,4,Regular,19,24,21,423.1904762,15.69571429,2.3,4-Wheel or All-Wheel Drive,Manual 5-spd
+21438,Mazda,Tribute 4WD,2005,6,Regular,16,20,17,522.7647059,19.38882353,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+21568,Mazda,B4000 2WD,2005,6,Regular,15,21,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+21569,Mazda,B4000 2WD,2005,6,Regular,16,21,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Manual 5-spd
+21640,Mazda,MX-5,2006,4,Premium,22,27,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+21641,Mazda,MX-5,2006,4,Premium,21,28,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+21642,Mazda,MX-5,2006,4,Premium,20,28,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+21751,Mazda,RX-8,2006,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+21752,Mazda,RX-8,2006,2,Premium,16,23,19,467.7368421,17.34789474,1.3,Rear-Wheel Drive,Automatic (S6)
+21820,Mazda,3,2006,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+21821,Mazda,3,2006,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Automatic (S4)
+21822,Mazda,3,2006,4,Regular,22,29,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+21823,Mazda,3,2006,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Automatic (S5)
+21986,Mazda,6,2006,4,Regular,21,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+21987,Mazda,6,2006,4,Premium,17,23,19,467.7368421,17.34789474,2.3,4-Wheel or All-Wheel Drive,Manual 6-spd
+21988,Mazda,6,2006,4,Regular,21,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic (S5)
+21989,Mazda,6,2006,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+21990,Mazda,6,2006,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S6)
+22,Mazda,RX-7,1985,2,Regular,15,21,17,522.7647059,19.38882353,1.1,Rear-Wheel Drive,Manual 5-spd
+22140,Mazda,5,2006,4,Regular,19,25,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Manual 5-spd
+22141,Mazda,5,2006,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic (S4)
+22142,Mazda,6 Sport Wagon,2006,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+22143,Mazda,6 Sport Wagon,2006,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S6)
+22217,Mazda,B2300 2WD,2006,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 5-spd
+22218,Mazda,B2300 2WD,2006,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+22219,Mazda,B3000,2006,6,Regular,15,21,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+22220,Mazda,B3000,2006,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+22221,Mazda,B4000 2WD,2006,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+22222,Mazda,B4000 2WD,2006,6,Regular,16,21,18,493.7222222,18.31166667,4,Rear-Wheel Drive,Manual 5-spd
+22284,Mazda,B4000 4WD,2006,6,Regular,14,18,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+22285,Mazda,B4000 4WD,2006,6,Regular,14,18,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+22333,Mazda,MPV,2006,6,Regular,16,23,18,493.7222222,18.31166667,3,Front-Wheel Drive,Automatic 5-spd
+22433,Mazda,Tribute 2WD,2006,4,Regular,20,23,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 4-spd
+22434,Mazda,Tribute 2WD,2006,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Manual 5-spd
+22435,Mazda,Tribute 2WD,2006,6,Regular,18,23,20,444.35,16.4805,3,Front-Wheel Drive,Automatic 4-spd
+2255,Mazda,GLC Wagon,1986,4,Regular,19,21,20,444.35,16.4805,1.5,Rear-Wheel Drive,Automatic 3-spd
+22550,Mazda,Tribute 4WD,2006,4,Regular,18,22,20,444.35,16.4805,2.3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+22551,Mazda,Tribute 4WD,2006,4,Regular,19,24,21,423.1904762,15.69571429,2.3,4-Wheel or All-Wheel Drive,Manual 5-spd
+22552,Mazda,Tribute 4WD,2006,6,Regular,17,21,19,467.7368421,17.34789474,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+22553,Mazda,Tribute Hybrid 4WD,2006,4,Regular,28,26,27,329.1481481,12.20777778,2.3,4-Wheel or All-Wheel Drive,Automatic (variable gear ratios)
+2256,Mazda,GLC Wagon,1986,4,Regular,22,26,24,370.2916667,13.73375,1.5,Rear-Wheel Drive,Manual 4-spd
+2257,Mazda,GLC Wagon,1986,4,Regular,22,27,24,370.2916667,13.73375,1.5,Rear-Wheel Drive,Manual 5-spd
+22898,Mazda,B2300 2WD,2007,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 5-spd
+22899,Mazda,B2300 2WD,2007,4,Regular,21,26,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+22900,Mazda,B3000,2007,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+22901,Mazda,B3000,2007,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+22902,Mazda,B4000 2WD,2007,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+22923,Mazda,B4000 4WD,2007,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+22924,Mazda,B4000 4WD,2007,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+22977,Mazda,CX-7 2WD,2007,4,Premium,17,22,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic (S6)
+23,Mazda,RX-7,1985,2,Regular,15,22,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Manual 5-spd
+23015,Mazda,CX-7 4WD,2007,4,Premium,16,22,18,493.7222222,18.31166667,2.3,4-Wheel or All-Wheel Drive,Automatic (S6)
+23070,Mazda,MX-5,2007,4,Premium,22,27,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+23071,Mazda,MX-5,2007,4,Premium,21,28,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+23072,Mazda,MX-5,2007,4,Premium,20,28,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+23138,Mazda,RX-8,2007,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+23139,Mazda,RX-8,2007,2,Premium,16,23,19,467.7368421,17.34789474,1.3,Rear-Wheel Drive,Automatic (S6)
+23180,Mazda,3,2007,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+23181,Mazda,3,2007,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Automatic (S4)
+23182,Mazda,3,2007,4,Regular,22,30,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+23183,Mazda,3,2007,4,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 6-spd
+23184,Mazda,3,2007,4,Regular,22,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Automatic (S5)
+23260,Mazda,6,2007,4,Regular,21,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+23261,Mazda,6,2007,4,Premium,17,23,19,467.7368421,17.34789474,2.3,4-Wheel or All-Wheel Drive,Manual 6-spd
+23262,Mazda,6,2007,4,Regular,21,28,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic (S5)
+23263,Mazda,6,2007,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+23264,Mazda,6,2007,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S6)
+23329,Mazda,5,2007,4,Regular,19,25,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Manual 5-spd
+23330,Mazda,5,2007,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic (S4)
+23331,Mazda,6 Sport Wagon,2007,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+23332,Mazda,6 Sport Wagon,2007,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S6)
+2390,Mazda,B2000,1986,4,Regular,19,24,21,423.1904762,15.69571429,2,Rear-Wheel Drive,Manual 4-spd
+23901,Mazda,CX-9 2WD,2007,6,Regular,16,22,18,493.7222222,18.31166667,3.5,Front-Wheel Drive,Automatic (S6)
+2391,Mazda,B2000,1986,4,Regular,19,24,21,423.1904762,15.69571429,2,Rear-Wheel Drive,Manual 5-spd
+23913,Mazda,CX-9 4WD,2007,6,Regular,15,21,17,522.7647059,19.38882353,3.5,4-Wheel or All-Wheel Drive,Automatic (S6)
+24091,Mazda,Tribute FWD,2008,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Front-Wheel Drive,Automatic 4-spd
+24092,Mazda,Tribute FWD,2008,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+24093,Mazda,Tribute FWD,2008,6,Regular,18,24,20,444.35,16.4805,3,Front-Wheel Drive,Automatic 4-spd
+24094,Mazda,Tribute Hybrid 2WD,2008,4,Regular,34,30,32,277.71875,10.3003125,2.3,Front-Wheel Drive,Automatic (variable gear ratios)
+24125,Mazda,Tribute 4WD,2008,4,Regular,19,24,21,423.1904762,15.69571429,2.3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+24126,Mazda,Tribute 4WD,2008,6,Regular,17,22,19,467.7368421,17.34789474,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+24127,Mazda,Tribute Hybrid 4WD,2008,4,Regular,29,27,28,317.3928571,11.77178571,2.3,4-Wheel or All-Wheel Drive,Automatic (variable gear ratios)
+24187,Mazda,MX-5,2008,4,Premium,22,27,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+24188,Mazda,MX-5,2008,4,Premium,21,28,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+24189,Mazda,MX-5,2008,4,Premium,20,27,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+24258,Mazda,RX-8,2008,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+24259,Mazda,RX-8,2008,2,Premium,16,23,19,467.7368421,17.34789474,1.3,Rear-Wheel Drive,Automatic (S6)
+24293,Mazda,3,2008,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+24294,Mazda,3,2008,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Automatic (S4)
+24295,Mazda,3,2008,4,Regular,22,29,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+24296,Mazda,3,2008,4,Regular,22,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Automatic (S5)
+24383,Mazda,6,2008,4,Regular,21,29,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+24384,Mazda,6,2008,4,Regular,21,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Automatic (S5)
+24385,Mazda,6,2008,6,Regular,17,25,20,444.35,16.4805,3,Front-Wheel Drive,Manual 5-spd
+24386,Mazda,6,2008,6,Regular,18,25,20,444.35,16.4805,3,Front-Wheel Drive,Automatic (S6)
+24387,Mazda,Speed 3,2008,4,Premium,18,26,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 6-spd
+24482,Mazda,B2300 2WD,2008,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 5-spd
+24483,Mazda,B2300 2WD,2008,4,Regular,21,26,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+24484,Mazda,B3000 2WD,2008,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 5-spd
+24485,Mazda,B3000 2WD,2008,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+24486,Mazda,B4000 2WD,2008,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Automatic 5-spd
+24505,Mazda,B4000 4WD,2008,6,Regular,14,17,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+24506,Mazda,B4000 4WD,2008,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+24620,Mazda,CX-7 2WD,2008,4,Premium,17,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic (S6)
+24621,Mazda,CX-9 2WD,2008,6,Regular,16,22,18,493.7222222,18.31166667,3.7,Front-Wheel Drive,Automatic (S6)
+24671,Mazda,CX-7 4WD,2008,4,Premium,16,22,18,493.7222222,18.31166667,2.3,4-Wheel or All-Wheel Drive,Automatic (S6)
+24672,Mazda,CX-9 4WD,2008,6,Regular,15,21,17,522.7647059,19.38882353,3.7,4-Wheel or All-Wheel Drive,Automatic (S6)
+25118,Mazda,5,2008,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+25119,Mazda,5,2008,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic (S5)
+25224,Mazda,RX-8,2009,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+25225,Mazda,RX-8,2009,2,Premium,16,23,19,467.7368421,17.34789474,1.3,Rear-Wheel Drive,Automatic (S6)
+25338,Mazda,CX-7 2WD,2009,4,Premium,17,23,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic (S6)
+25358,Mazda,CX-7 4WD,2009,4,Premium,16,22,18,493.7222222,18.31166667,2.3,4-Wheel or All-Wheel Drive,Automatic (S6)
+25436,Mazda,3,2009,4,Regular,22,29,25,355.48,13.1844,2.3,Front-Wheel Drive,Manual 5-spd
+25437,Mazda,3,2009,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Automatic (S5)
+25438,Mazda,3,2009,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Manual 5-spd
+25439,Mazda,3,2009,4,Regular,22,30,25,355.48,13.1844,2,Front-Wheel Drive,Automatic (S4)
+25500,Mazda,6,2009,4,Regular,20,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+25501,Mazda,6,2009,4,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+25502,Mazda,6,2009,6,Regular,17,25,20,444.35,16.4805,3.7,Front-Wheel Drive,Automatic (S6)
+25503,Mazda,Speed 3,2009,4,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 6-spd
+25594,Mazda,5,2009,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+25595,Mazda,5,2009,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic (S5)
+25639,Mazda,CX-9 2WD,2009,6,Regular,16,22,18,493.7222222,18.31166667,3.7,Front-Wheel Drive,Automatic (S6)
+25640,Mazda,Tribute FWD,2009,4,Regular,22,28,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 5-spd
+25641,Mazda,Tribute FWD,2009,4,Regular,20,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 6-spd
+25642,Mazda,Tribute FWD,2009,6,Regular,18,26,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 6-spd
+25643,Mazda,Tribute Hybrid 2WD,2009,4,Regular,34,31,32,277.71875,10.3003125,2.5,Front-Wheel Drive,Automatic (variable gear ratios)
+25695,Mazda,CX-9 4WD,2009,6,Regular,15,21,17,522.7647059,19.38882353,3.7,4-Wheel or All-Wheel Drive,Automatic (S6)
+25696,Mazda,Tribute 4WD,2009,4,Regular,19,25,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic 6-spd
+25697,Mazda,Tribute 4WD,2009,6,Regular,17,24,20,444.35,16.4805,3,4-Wheel or All-Wheel Drive,Automatic 6-spd
+25698,Mazda,Tribute Hybrid 4WD,2009,4,Regular,29,27,28,317.3928571,11.77178571,2.5,4-Wheel or All-Wheel Drive,Automatic (variable gear ratios)
+26047,Mazda,B2300 2WD,2009,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 5-spd
+26048,Mazda,B2300 2WD,2009,4,Regular,21,26,23,386.3913043,14.33086957,2.3,Rear-Wheel Drive,Manual 5-spd
+26059,Mazda,B4000 4WD,2009,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+26060,Mazda,B4000 4WD,2009,6,Regular,14,18,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+26372,Mazda,3,2010,4,Regular,25,33,28,317.3928571,11.77178571,2,Front-Wheel Drive,Manual 5-spd
+26373,Mazda,3,2010,4,Regular,24,33,27,329.1481481,12.20777778,2,Front-Wheel Drive,Automatic (S5)
+26374,Mazda,3,2010,4,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+26375,Mazda,3,2010,4,Regular,22,29,25,355.48,13.1844,2.5,Front-Wheel Drive,Automatic (S5)
+26420,Mazda,Speed 3,2010,4,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 6-spd
+26474,Mazda,CX-7 2WD,2010,4,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic (S6)
+26497,Mazda,CX-7 4WD,2010,4,Premium,17,23,19,467.7368421,17.34789474,2.3,4-Wheel Drive,Automatic (S6)
+26524,Mazda,MX-5,2009,4,Premium,22,28,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+26525,Mazda,MX-5,2009,4,Premium,21,28,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+26526,Mazda,MX-5,2009,4,Premium,21,28,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+26578,Mazda,RX-7,1984,2,Regular,15,21,17,522.7647059,19.38882353,1.1,,Automatic 4-spd
+26579,Mazda,RX-7,1984,2,Regular,15,21,17,522.7647059,19.38882353,1.1,,Manual 5-spd
+26580,Mazda,RX-7,1984,2,Regular,15,21,17,522.7647059,19.38882353,1.3,,Manual 5-spd
+26704,Mazda,GLC,1984,4,Regular,24,28,26,341.8076923,12.67730769,1.5,,Automatic 3-spd
+26705,Mazda,GLC,1984,4,Regular,26,29,27,329.1481481,12.20777778,1.5,,Manual 4-spd
+26706,Mazda,GLC,1984,4,Regular,27,35,30,296.2333333,10.987,1.5,,Manual 5-spd
+26865,Mazda,626,1984,4,Regular,21,26,23,386.3913043,14.33086957,2,,Automatic 3-spd
+26866,Mazda,626,1984,4,Regular,23,29,25,355.48,13.1844,2,,Manual 5-spd
+26867,Mazda,626,1984,4,Diesel,31,38,33,308.4848485,11.58136364,2,,Manual 5-spd
+27109,Mazda,GLC Wagon,1984,4,Regular,20,21,20,444.35,16.4805,1.5,,Automatic 3-spd
+27110,Mazda,GLC Wagon,1984,4,Regular,22,26,24,370.2916667,13.73375,1.5,,Manual 4-spd
+27111,Mazda,GLC Wagon,1984,4,Regular,22,27,24,370.2916667,13.73375,1.5,,Manual 5-spd
+27269,Mazda,B2000/B2200 Pickup 2WD,1984,4,Regular,18,20,19,467.7368421,17.34789474,2,2-Wheel Drive,Automatic 3-spd
+27270,Mazda,B2000/B2200 Pickup 2WD,1984,4,Regular,21,25,22,403.9545455,14.98227273,2,2-Wheel Drive,Manual 4-spd
+27271,Mazda,B2000/B2200 Pickup 2WD,1984,4,Regular,21,26,23,386.3913043,14.33086957,2,2-Wheel Drive,Manual 5-spd
+27272,Mazda,B2000/B2200 Pickup 2WD,1984,4,Diesel,25,29,26,391.5384615,14.69942308,2.2,2-Wheel Drive,Manual 5-spd
+27697,Mazda,RX-7,1984,2,Regular,15,21,17,522.7647059,19.38882353,1.1,,Automatic 4-spd
+27698,Mazda,RX-7,1984,2,Regular,15,21,17,522.7647059,19.38882353,1.1,,Manual 5-spd
+27699,Mazda,RX-7,1984,2,Regular,15,21,17,522.7647059,19.38882353,1.3,,Manual 5-spd
+27812,Mazda,GLC,1984,4,Regular,24,28,26,341.8076923,12.67730769,1.5,,Automatic 3-spd
+27813,Mazda,GLC,1984,4,Regular,26,29,27,329.1481481,12.20777778,1.5,,Manual 4-spd
+27814,Mazda,GLC,1984,4,Regular,27,34,30,296.2333333,10.987,1.5,,Manual 5-spd
+27944,Mazda,626,1984,4,Regular,21,26,23,386.3913043,14.33086957,2,,Automatic 3-spd
+27945,Mazda,626,1984,4,Regular,23,29,25,355.48,13.1844,2,,Manual 5-spd
+27946,Mazda,626,1984,4,Diesel,31,38,33,308.4848485,11.58136364,2,,Manual 5-spd
+28269,Mazda,B2000/B2200 Pickup 2WD,1984,4,Regular,17,19,18,493.7222222,18.31166667,2,2-Wheel Drive,Automatic 3-spd
+28270,Mazda,B2000/B2200 Pickup 2WD,1984,4,Regular,21,26,23,386.3913043,14.33086957,2,2-Wheel Drive,Manual 5-spd
+28271,Mazda,B2000/B2200 Pickup 2WD,1984,4,Diesel,25,26,26,391.5384615,14.69942308,2.2,2-Wheel Drive,Manual 5-spd
+28538,Mazda,MX-5,2010,4,Premium,22,28,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+28539,Mazda,MX-5,2010,4,Premium,21,28,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+28540,Mazda,MX-5,2010,4,Premium,21,28,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+28557,Mazda,RX-8,2010,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+28558,Mazda,RX-8,2010,2,Premium,16,23,19,467.7368421,17.34789474,1.3,Rear-Wheel Drive,Automatic (S6)
+28638,Mazda,6,2010,4,Regular,20,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+28639,Mazda,6,2010,6,Regular,17,25,20,444.35,16.4805,3.7,Front-Wheel Drive,Automatic (S6)
+28640,Mazda,6,2010,4,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+28770,Mazda,CX-7 2WD,2010,4,Regular,20,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+28771,Mazda,CX-9 2WD,2010,6,Regular,16,22,18,493.7222222,18.31166667,3.7,Front-Wheel Drive,Automatic (S6)
+28807,Mazda,CX-9 4WD,2010,6,Regular,15,21,17,522.7647059,19.38882353,3.7,4-Wheel Drive,Automatic (S6)
+28845,Mazda,B2000/B2200/B2600,1987,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+28846,Mazda,B2000/B2200/B2600,1987,4,Regular,19,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 4-spd
+28847,Mazda,B2000/B2200/B2600,1987,4,Regular,18,24,21,423.1904762,15.69571429,2.2,Rear-Wheel Drive,Manual 5-spd
+28848,Mazda,B2000/B2200/B2600,1987,4,Regular,16,20,17,522.7647059,19.38882353,2.6,Rear-Wheel Drive,Automatic 4-spd
+28849,Mazda,B2000/B2200/B2600,1987,4,Regular,16,22,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Manual 5-spd
+28851,Mazda,B2600 4x4,1987,4,Regular,15,16,15,592.4666667,21.974,2.6,4-Wheel or All-Wheel Drive,Automatic 3-spd
+28852,Mazda,B2600 4x4,1987,4,Regular,14,19,16,555.4375,20.600625,2.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+29166,Mazda,MX-5 Miata,1999,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Rear-Wheel Drive,Manual 6-spd
+2919,Mazda,RX-7,1987,2,Regular,15,21,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Automatic 4-spd
+2920,Mazda,RX-7,1987,2,Regular,15,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+2921,Mazda,RX-7,1987,2,Regular,15,21,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Manual 5-spd
+29444,Mazda,Tribute FWD,2010,4,Regular,21,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 6-spd
+29445,Mazda,Tribute FWD,2010,4,Regular,22,28,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 5-spd
+29446,Mazda,Tribute FWD FFV,2010,6,Gasoline or E85,19,25,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 6-spd
+29447,Mazda,Tribute Hybrid 2WD,2010,4,Regular,34,31,32,277.71875,10.3003125,2.5,Front-Wheel Drive,Automatic (variable gear ratios)
+29457,Mazda,Tribute 4WD,2010,4,Regular,20,26,23,386.3913043,14.33086957,2.5,4-Wheel Drive,Automatic 6-spd
+29458,Mazda,Tribute 4WD FFV,2010,6,Gasoline or E85,18,23,20,444.35,16.4805,3,4-Wheel Drive,Automatic 6-spd
+29459,Mazda,Tribute Hybrid 4WD,2010,4,Regular,30,27,29,306.4482759,11.36586207,2.5,4-Wheel Drive,Automatic (variable gear ratios)
+29557,Mazda,RX-7,1986,NA,Regular,15,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+29741,Mazda,5,2010,4,Regular,22,28,24,370.2916667,13.73375,2.3,Front-Wheel Drive,Manual 5-spd
+29742,Mazda,5,2010,4,Regular,21,27,23,386.3913043,14.33086957,2.3,Front-Wheel Drive,Automatic (S5)
+30251,Mazda,MX-5,2011,4,Premium,22,27,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+30252,Mazda,MX-5,2011,4,Premium,21,27,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+30253,Mazda,MX-5,2011,4,Premium,21,27,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+30336,Mazda,2,2011,4,Regular,29,34,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+30337,Mazda,2,2011,4,Regular,27,32,29,306.4482759,11.36586207,1.5,Front-Wheel Drive,Automatic 4-spd
+30338,Mazda,3,2011,4,Regular,25,32,28,317.3928571,11.77178571,2,Front-Wheel Drive,Manual 5-spd
+30339,Mazda,3,2011,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Automatic (S5)
+30340,Mazda,3,2011,4,Regular,20,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+30341,Mazda,3,2011,4,Regular,22,28,25,355.48,13.1844,2.5,Front-Wheel Drive,Automatic (S5)
+30402,Mazda,Speed 3,2011,4,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 6-spd
+30614,Mazda,RX-8,2011,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 6-spd
+30615,Mazda,RX-8,2011,2,Premium,16,23,19,467.7368421,17.34789474,1.3,Rear-Wheel Drive,Automatic (S6)
+30666,Mazda,6,2011,6,Regular,18,27,21,423.1904762,15.69571429,3.7,Front-Wheel Drive,Automatic (S6)
+30746,Mazda,CX-9 2WD,2011,6,Regular,17,24,19,467.7368421,17.34789474,3.7,Front-Wheel Drive,Automatic (S6)
+30747,Mazda,Tribute FWD FFV,2011,6,Gasoline or E85,19,25,21,423.1904762,15.69571429,3,Front-Wheel Drive,Automatic 6-spd
+30748,Mazda,Tribute FWD,2011,4,Regular,23,28,25,355.48,13.1844,2.5,Front-Wheel Drive,Manual 5-spd
+30749,Mazda,Tribute FWD,2011,4,Regular,21,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic 6-spd
+30750,Mazda,Tribute Hybrid 2WD,2011,4,Regular,34,30,32,277.71875,10.3003125,2.5,Front-Wheel Drive,Automatic (variable gear ratios)
+30794,Mazda,CX-9 4WD,2011,6,Regular,16,22,19,467.7368421,17.34789474,3.7,4-Wheel Drive,Automatic (S6)
+30795,Mazda,Tribute Hybrid 4WD,2011,4,Regular,30,27,29,306.4482759,11.36586207,2.5,4-Wheel Drive,Automatic (variable gear ratios)
+30796,Mazda,Tribute 4WD FFV,2011,6,Gasoline or E85,18,23,20,444.35,16.4805,3,All-Wheel Drive,Automatic 6-spd
+30797,Mazda,Tribute 4WD,2011,4,Regular,20,26,22,403.9545455,14.98227273,2.5,All-Wheel Drive,Automatic 6-spd
+30834,Mazda,6,2011,4,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+30835,Mazda,6,2011,4,Regular,22,30,25,355.48,13.1844,2.5,Front-Wheel Drive,Automatic (S5)
+30894,Mazda,CX-7 2WD,2011,4,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic (S6)
+30895,Mazda,CX-7 2WD,2011,4,Regular,20,27,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+30908,Mazda,CX-7 4WD,2011,4,Premium,17,21,19,467.7368421,17.34789474,2.3,4-Wheel Drive,Automatic (S6)
+31223,Mazda,6,2012,4,Regular,22,30,25,355.48,13.1844,2.5,Front-Wheel Drive,Automatic (S5)
+31224,Mazda,6,2012,4,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+31225,Mazda,6,2012,6,Regular,18,27,21,423.1904762,15.69571429,3.7,Front-Wheel Drive,Automatic (S6)
+31284,Mazda,5,2012,4,Regular,21,28,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+31285,Mazda,5,2012,4,Regular,21,28,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+31562,Mazda,MX-5,2012,4,Premium,22,27,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+31563,Mazda,MX-5,2012,4,Premium,21,27,24,370.2916667,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+31564,Mazda,MX-5,2012,4,Premium,21,27,23,386.3913043,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+31570,Mazda,3,2012,4,Regular,20,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+31571,Mazda,3,2012,4,Regular,22,28,25,355.48,13.1844,2.5,Front-Wheel Drive,Automatic (S5)
+31584,Mazda,Speed 3,2012,4,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 6-spd
+31694,Mazda,3,2012,4,Regular,25,32,28,317.3928571,11.77178571,2,Front-Wheel Drive,Manual 5-spd
+31695,Mazda,3,2012,4,Regular,24,32,27,329.1481481,12.20777778,2,Front-Wheel Drive,Automatic (S5)
+31696,Mazda,2,2012,4,Regular,29,34,31,286.6774194,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+31697,Mazda,2,2012,4,Regular,28,33,30,296.2333333,10.987,1.5,Front-Wheel Drive,Automatic 4-spd
+31931,Mazda,CX-9 2WD,2012,6,Regular,17,24,19,467.7368421,17.34789474,3.7,Front-Wheel Drive,Automatic (S6)
+31975,Mazda,CX-9 4WD,2012,6,Regular,16,22,19,467.7368421,17.34789474,3.7,4-Wheel Drive,Automatic (S6)
+32056,Mazda,3 DI 4-Door,2012,4,Regular,26,37,30,296.2333333,10.987,2,Front-Wheel Drive,Manual 6-spd
+32057,Mazda,3 DI 4-Door,2012,4,Regular,28,39,32,277.71875,10.3003125,2,Front-Wheel Drive,Automatic (S6)
+32085,Mazda,3 DI 5-Door,2012,4,Regular,26,37,30,296.2333333,10.987,2,Front-Wheel Drive,Manual 6-spd
+32086,Mazda,3 DI 5-Door,2012,4,Regular,28,37,31,286.6774194,10.63258065,2,Front-Wheel Drive,Automatic (S6)
+32130,Mazda,CX-7 2WD,2012,4,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic (S6)
+32144,Mazda,CX-7 4WD,2012,4,Premium,17,21,19,467.7368421,17.34789474,2.3,4-Wheel Drive,Automatic (S6)
+32169,Mazda,CX-7 2WD,2012,4,Regular,20,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+32211,Mazda,CX-5 4WD,2013,4,Regular,25,30,27,324,12.20777778,2,4-Wheel Drive,Automatic (S6)
+32224,Mazda,CX-5 2WD,2013,4,Regular,26,32,28,311,11.77178571,2,Front-Wheel Drive,Automatic (S6)
+32225,Mazda,CX-5 2WD,2013,4,Regular,26,34,29,306,11.36586207,2,Front-Wheel Drive,Manual 6-spd
+32231,Mazda,6,2013,6,Regular,18,27,21,463,15.69571429,3.7,Front-Wheel Drive,Automatic (S6)
+32257,Mazda,6,2013,4,Regular,21,30,24,363,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+32258,Mazda,6,2013,4,Regular,21,30,24,367,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+3251,Mazda,323,1987,4,Regular,22,28,24,370.2916667,13.73375,1.6,Front-Wheel Drive,Automatic 3-spd
+3252,Mazda,323,1987,4,Regular,23,27,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 4-spd
+3253,Mazda,323,1987,4,Regular,24,31,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+3254,Mazda,626,1987,4,Regular,20,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Automatic 4-spd
+3255,Mazda,626,1987,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+3256,Mazda,626,1987,4,Regular,19,26,22,403.9545455,14.98227273,2,Front-Wheel Drive,Manual 5-spd
+32661,Mazda,MX-5,2013,4,Premium,22,27,24,359,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+32662,Mazda,MX-5,2013,4,Premium,21,27,24,370,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+32663,Mazda,MX-5,2013,4,Premium,21,27,23,377,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+32777,Mazda,2,2013,4,Regular,29,34,31,286,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+32923,Mazda,2,2013,4,Regular,28,33,30,296,10.987,1.5,Front-Wheel Drive,Automatic 4-spd
+32924,Mazda,3 DI 4-Door,2013,4,Regular,26,37,30,293,10.987,2,Front-Wheel Drive,Manual 6-spd
+32925,Mazda,3 DI 4-Door,2013,4,Regular,28,39,32,277,10.3003125,2,Front-Wheel Drive,Automatic (S6)
+32926,Mazda,3,2013,4,Regular,25,32,28,313,11.77178571,2,Front-Wheel Drive,Manual 5-spd
+32927,Mazda,3,2013,4,Regular,24,32,27,326,12.20777778,2,Front-Wheel Drive,Automatic (S5)
+32928,Mazda,3,2013,4,Regular,20,28,23,377,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+32929,Mazda,3,2013,4,Regular,22,28,25,356,13.1844,2.5,Front-Wheel Drive,Automatic (S5)
+32982,Mazda,3 DI 5-Door,2013,4,Regular,26,37,30,294,10.987,2,Front-Wheel Drive,Manual 6-spd
+32983,Mazda,3 DI 5-Door,2013,4,Regular,28,37,31,283,10.63258065,2,Front-Wheel Drive,Automatic (S6)
+32984,Mazda,Speed 3,2013,4,Premium,18,25,21,429,15.69571429,2.3,Front-Wheel Drive,Manual 6-spd
+33298,Mazda,5,2013,4,Regular,21,28,24,456,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+33299,Mazda,5,2013,4,Regular,22,28,24,454,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+333,Mazda,626,1985,4,Regular,21,26,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 3-spd
+33300,Mazda,CX-9 2WD,2013,6,Regular,17,24,19,456,17.34789474,3.7,Front-Wheel Drive,Automatic (S6)
+33302,Mazda,CX-9 4WD,2013,6,Regular,16,22,19,480,17.34789474,3.7,4-Wheel Drive,Automatic (S6)
+33399,Mazda,6,2014,4,Regular,25,36,29,305,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+334,Mazda,626,1985,4,Regular,23,29,25,355.48,13.1844,2,Front-Wheel Drive,Manual 5-spd
+33400,Mazda,6,2014,4,Regular,26,37,30,295,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+33401,Mazda,CX-5 2WD,2014,4,Regular,25,31,27,328,12.20777778,2.5,Front-Wheel Drive,Automatic (S6)
+33402,Mazda,CX-5 2WD,2014,4,Regular,26,34,29,306,11.36586207,2,Front-Wheel Drive,Manual 6-spd
+33403,Mazda,CX-5 2WD,2014,4,Regular,26,32,28,311,11.77178571,2,Front-Wheel Drive,Automatic (S6)
+33404,Mazda,CX-5 4WD,2014,4,Regular,24,29,26,340,12.67730769,2.5,4-Wheel Drive,Automatic (S6)
+33405,Mazda,CX-5 4WD,2014,4,Regular,25,30,27,324,12.20777778,2,4-Wheel Drive,Automatic (S6)
+335,Mazda,626,1985,4,Diesel,31,38,33,308.4848485,11.58136364,2,Front-Wheel Drive,Manual 5-spd
+33906,Mazda,6,2014,4,Regular,28,39,32,280,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+33908,Mazda,MX-5,2014,4,Premium,22,27,24,359,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+33909,Mazda,MX-5,2014,4,Premium,21,27,24,370,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+33910,Mazda,MX-5,2014,4,Premium,21,27,23,377,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+33941,Mazda,3 5-Door,2014,4,Regular,29,39,32,275,10.3003125,2,Front-Wheel Drive,Manual 6-spd
+33942,Mazda,3 5-Door,2014,4,Regular,29,39,33,270,9.988181818,2,Front-Wheel Drive,Automatic (S6)
+34162,Mazda,2,2014,4,Regular,29,34,31,286,10.63258065,1.5,Front-Wheel Drive,Manual 5-spd
+34163,Mazda,2,2014,4,Regular,28,33,30,296,10.987,1.5,Front-Wheel Drive,Automatic 4-spd
+34228,Mazda,CX-9 2WD,2014,6,Regular,17,24,19,456,17.34789474,3.7,Front-Wheel Drive,Automatic (S6)
+34231,Mazda,CX-9 4WD,2014,6,Regular,16,22,19,480,17.34789474,3.7,4-Wheel Drive,Automatic (S6)
+34245,Mazda,3 4-Door,2014,4,Regular,30,39,33,267,9.988181818,2,Front-Wheel Drive,Automatic (S6)
+34246,Mazda,3 4-Door,2014,4,Regular,29,39,33,270,9.988181818,2,Front-Wheel Drive,Manual 6-spd
+34274,Mazda,3 4-Door,2014,4,Regular,28,38,31,282,10.63258065,2.5,Front-Wheel Drive,Automatic (S6)
+34275,Mazda,3 4-Door,2014,4,Regular,28,38,32,280,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+34287,Mazda,3 5-Door,2014,4,Regular,27,36,30,293,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+34288,Mazda,3 5-Door,2014,4,Regular,28,37,32,281,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+34318,Mazda,5,2014,4,Regular,21,28,24,369,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+34319,Mazda,5,2014,4,Regular,21,28,24,369,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+34646,Mazda,6,2015,4,Regular,26,37,30,298,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+34647,Mazda,6,2015,4,Regular,28,39,32,280,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+34648,Mazda,6,2015,4,Regular,25,35,29,308,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+34652,Mazda,CX-5 2WD,2015,4,Regular,26,32,28,311,11.77178571,2,Front-Wheel Drive,Automatic (S6)
+34653,Mazda,CX-5 2WD,2015,4,Regular,26,34,29,306,11.36586207,2,Front-Wheel Drive,Manual 6-spd
+34654,Mazda,CX-5 2WD,2015,4,Regular,25,31,27,328,12.20777778,2.5,Front-Wheel Drive,Automatic (S6)
+34657,Mazda,CX-5 4WD,2015,4,Regular,25,30,27,324,12.20777778,2,4-Wheel Drive,Automatic (S6)
+34658,Mazda,CX-5 4WD,2015,4,Regular,24,29,26,341,12.67730769,2.5,4-Wheel Drive,Automatic (S6)
+34888,Mazda,MX-5,2015,4,Premium,22,27,24,359,13.73375,2,Rear-Wheel Drive,Manual 5-spd
+34889,Mazda,MX-5,2015,4,Premium,21,27,24,370,13.73375,2,Rear-Wheel Drive,Manual 6-spd
+34890,Mazda,MX-5,2015,4,Premium,21,27,23,377,14.33086957,2,Rear-Wheel Drive,Automatic (S6)
+3509,Mazda,323 Wagon,1987,4,Regular,22,28,24,370.2916667,13.73375,1.6,Front-Wheel Drive,Automatic 3-spd
+3510,Mazda,323 Wagon,1987,4,Regular,24,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+35260,Mazda,3 4-Door,2015,4,Regular,29,39,33,270,9.988181818,2,Front-Wheel Drive,Manual 6-spd
+35261,Mazda,3 4-Door,2015,4,Regular,30,40,33,266,9.988181818,2,Front-Wheel Drive,Automatic (S6)
+35262,Mazda,3 4-Door,2015,4,Regular,28,38,31,282,10.63258065,2.5,Front-Wheel Drive,Automatic (S6)
+35263,Mazda,3 4-Door,2015,4,Regular,29,39,32,276,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+35264,Mazda,3 4-Door,2015,4,Regular,25,36,29,308,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+35265,Mazda,3 5-Door,2015,4,Regular,29,39,32,275,10.3003125,2,Front-Wheel Drive,Manual 6-spd
+35266,Mazda,3 5-Door,2015,4,Regular,29,39,33,270,9.988181818,2,Front-Wheel Drive,Automatic (S6)
+35267,Mazda,3 5-Door,2015,4,Regular,27,36,30,293,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+35268,Mazda,3 5-Door,2015,4,Regular,28,38,32,280,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+35269,Mazda,3 5-Door,2015,4,Regular,25,34,29,310,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+35388,Mazda,5,2015,4,Regular,21,28,24,370,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+35392,Mazda,CX-9 2WD,2015,6,Regular,17,24,19,456,17.34789474,3.7,Front-Wheel Drive,Automatic (S6)
+35403,Mazda,CX-9 4WD,2015,6,Regular,16,22,19,480,17.34789474,3.7,4-Wheel Drive,Automatic (S6)
+35981,Mazda,6,2016,4,Regular,26,37,30,295,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+35982,Mazda,6,2016,4,Regular,28,38,32,280,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+35983,Mazda,6,2016,4,Regular,25,36,29,306,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+35988,Mazda,CX-5 2WD,2016,4,Regular,26,34,29,306,11.36586207,2,Front-Wheel Drive,Manual 6-spd
+35989,Mazda,CX-5 2WD,2016,4,Regular,26,33,29,310,11.36586207,2.5,Front-Wheel Drive,Automatic (S6)
+35993,Mazda,CX-5 4WD,2016,4,Regular,24,29,26,340,12.67730769,2.5,4-Wheel Drive,Automatic (S6)
+36127,Mazda,2,2016,4,Regular,31,40,34,257,9.694411765,1.5,Front-Wheel Drive,Manual 6-spd
+36128,Mazda,2,2016,4,Regular,33,41,36,245,9.155833333,1.5,Front-Wheel Drive,Automatic (S6)
+36168,Mazda,MX-5,2016,4,Premium,27,34,30,303,10.987,2,Rear-Wheel Drive,Manual 6-spd
+36169,Mazda,MX-5,2016,4,Premium,26,36,30,298,10.987,2,Rear-Wheel Drive,Automatic (S6)
+36219,Mazda,CX-3 2WD,2016,4,Regular,29,35,31,290,10.63258065,2,Front-Wheel Drive,Automatic (S6)
+36220,Mazda,CX-3 4WD,2016,4,Regular,27,32,29,308,11.36586207,2,4-Wheel Drive,Automatic (S6)
+3638,Mazda,B2000/B2200/B2600,1987,4,Regular,19,24,21,423.1904762,15.69571429,2,Rear-Wheel Drive,Manual 4-spd
+3639,Mazda,B2000/B2200/B2600,1987,4,Regular,19,24,21,423.1904762,15.69571429,2,Rear-Wheel Drive,Manual 5-spd
+36520,Mazda,3 4-Door,2016,4,Regular,29,39,33,270,9.988181818,2,Front-Wheel Drive,Manual 6-spd
+36521,Mazda,3 4-Door,2016,4,Regular,30,40,33,266,9.988181818,2,Front-Wheel Drive,Automatic (S6)
+36522,Mazda,3 4-Door,2016,4,Regular,25,36,29,308,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+36523,Mazda,3 4-Door,2016,4,Regular,28,38,31,282,10.63258065,2.5,Front-Wheel Drive,Automatic (S6)
+36524,Mazda,3 4-Door,2016,4,Regular,29,38,32,276,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+36534,Mazda,3 5-Door,2016,4,Regular,29,39,32,275,10.3003125,2,Front-Wheel Drive,Manual 6-spd
+36535,Mazda,3 5-Door,2016,4,Regular,29,39,33,270,9.988181818,2,Front-Wheel Drive,Automatic (S6)
+36536,Mazda,3 5-Door,2016,4,Regular,25,34,29,310,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+36537,Mazda,3 5-Door,2016,4,Regular,27,36,30,292,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+36538,Mazda,3 5-Door,2016,4,Regular,28,38,32,281,10.3003125,2.5,Front-Wheel Drive,Automatic (S6)
+37483,Mazda,CX-3 2WD,2017,4,Regular,29,34,31,288,10.63258065,2,Front-Wheel Drive,Automatic (S6)
+37484,Mazda,CX-3 4WD,2017,4,Regular,27,32,29,308,11.36586207,2,4-Wheel Drive,Automatic (S6)
+37523,Mazda,CX-9 2WD,2016,4,Regular,22,28,24,364,13.73375,2.5,Front-Wheel Drive,Automatic (S6)
+37525,Mazda,CX-9 4WD,2016,4,Regular,21,26,23,384,14.33086957,2.5,4-Wheel Drive,Automatic (S6)
+38023,Mazda,2,2017,4,Regular,30,39,34,259,9.694411765,1.5,Front-Wheel Drive,Manual 6-spd
+38024,Mazda,2,2017,4,Regular,32,40,35,252,9.417428571,1.5,Front-Wheel Drive,Automatic (S6)
+38031,Mazda,6,2017,4,Regular,24,34,28,315,11.77178571,2.5,Front-Wheel Drive,Manual 6-spd
+38032,Mazda,6,2017,4,Regular,26,35,29,304,11.36586207,2.5,Front-Wheel Drive,Automatic (S6)
+38033,Mazda,6,2017,4,Regular,27,35,30,299,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+38174,Mazda,MX-5,2017,4,Premium,26,33,29,305,11.36586207,2,Rear-Wheel Drive,Manual 6-spd
+38175,Mazda,MX-5,2017,4,Premium,26,35,29,301,11.36586207,2,Rear-Wheel Drive,Automatic (S6)
+38310,Mazda,3 4-Door,2017,4,Regular,27,37,31,284,10.63258065,2,Front-Wheel Drive,Manual 6-spd
+38311,Mazda,3 4-Door,2017,4,Regular,28,37,32,281,10.3003125,2,Front-Wheel Drive,Automatic (S6)
+38312,Mazda,3 4-Door,2017,4,Regular,25,34,29,312,11.36586207,2.5,Front-Wheel Drive,Manual 6-spd
+38313,Mazda,3 4-Door,2017,4,Regular,27,36,30,293,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+38314,Mazda,3 4-Door,2017,4,Regular,28,37,31,284,10.63258065,2.5,Front-Wheel Drive,Automatic (S6)
+38324,Mazda,3 5-Door,2017,4,Regular,27,37,31,286,10.63258065,2,Front-Wheel Drive,Manual 6-spd
+38325,Mazda,3 5-Door,2017,4,Regular,28,37,31,283,10.63258065,2,Front-Wheel Drive,Automatic (S6)
+38326,Mazda,3 5-Door,2017,4,Regular,25,33,28,319,11.77178571,2.5,Front-Wheel Drive,Manual 6-spd
+38327,Mazda,3 5-Door,2017,4,Regular,26,35,30,294,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+38328,Mazda,3 5-Door,2017,4,Regular,27,36,30,291,10.987,2.5,Front-Wheel Drive,Automatic (S6)
+38488,Mazda,CX-9 2WD,2017,4,Regular,22,28,24,362,13.73375,2.5,Front-Wheel Drive,Automatic (S6)
+38489,Mazda,CX-9 4WD,2017,4,Regular,20,26,23,390,14.33086957,2.5,4-Wheel Drive,Automatic (S6)
+4144,Mazda,RX-7,1988,2,Regular,15,21,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Automatic 4-spd
+4145,Mazda,RX-7,1988,2,Regular,15,21,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Manual 5-spd
+4146,Mazda,RX-7,1988,2,Regular,15,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+4447,Mazda,323,1988,4,Regular,21,27,24,370.2916667,13.73375,1.6,Front-Wheel Drive,Automatic 4-spd
+4448,Mazda,323,1988,4,Regular,23,27,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 4-spd
+4449,Mazda,323,1988,4,Premium,19,22,20,444.35,16.4805,1.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+4450,Mazda,323,1988,4,Premium,19,25,22,403.9545455,14.98227273,1.6,Front-Wheel Drive,Manual 5-spd
+4451,Mazda,323,1988,4,Regular,24,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+4587,Mazda,626/MX-6,1988,4,Premium,17,23,19,467.7368421,17.34789474,2.2,Front-Wheel Drive,Automatic 4-spd
+4588,Mazda,626/MX-6,1988,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+4589,Mazda,626/MX-6,1988,4,Regular,21,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+4590,Mazda,626/MX-6,1988,4,Premium,18,26,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+4591,Mazda,929,1988,6,Regular,17,21,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Automatic 4-spd
+4592,Mazda,929,1988,6,Regular,16,22,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+4682,Mazda,323 Wagon,1988,4,Regular,21,26,23,386.3913043,14.33086957,1.6,Front-Wheel Drive,Automatic 3-spd
+4683,Mazda,323 Wagon,1988,4,Regular,24,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+4804,Mazda,B2200/B2600,1988,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+4805,Mazda,B2200/B2600,1988,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 4-spd
+4806,Mazda,B2200/B2600,1988,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 5-spd
+4807,Mazda,B2200/B2600,1988,4,Regular,16,19,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Automatic 4-spd
+4808,Mazda,B2200/B2600,1988,4,Regular,16,22,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Manual 5-spd
+4820,Mazda,B2600 4x4,1988,4,Regular,15,17,16,555.4375,20.600625,2.6,4-Wheel or All-Wheel Drive,Automatic 3-spd
+4821,Mazda,B2600 4x4,1988,4,Regular,15,20,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+5275,Mazda,RX-7,1989,2,Regular,15,21,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Automatic 4-spd
+5276,Mazda,RX-7,1989,2,Regular,15,23,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+5277,Mazda,RX-7,1989,2,Regular,15,22,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Manual 5-spd
+5568,Mazda,323,1989,4,Regular,21,27,24,370.2916667,13.73375,1.6,Front-Wheel Drive,Automatic 4-spd
+5569,Mazda,323,1989,4,Regular,23,27,25,355.48,13.1844,1.6,Front-Wheel Drive,Manual 4-spd
+5570,Mazda,323,1989,4,Premium,19,25,22,403.9545455,14.98227273,1.6,Front-Wheel Drive,Manual 5-spd
+5571,Mazda,323,1989,4,Premium,19,22,20,444.35,16.4805,1.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+5572,Mazda,323,1989,4,Regular,24,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+5743,Mazda,626/MX-6,1989,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+5744,Mazda,626/MX-6,1989,4,Premium,17,23,19,467.7368421,17.34789474,2.2,Front-Wheel Drive,Automatic 4-spd
+5745,Mazda,626/MX-6,1989,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+5746,Mazda,626/MX-6,1989,4,Premium,18,26,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+5747,Mazda,929,1989,6,Regular,17,21,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Automatic 4-spd
+5748,Mazda,929,1989,6,Regular,16,22,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+5840,Mazda,323 Wagon,1989,4,Regular,21,26,23,386.3913043,14.33086957,1.6,Front-Wheel Drive,Automatic 3-spd
+5841,Mazda,323 Wagon,1989,4,Regular,24,30,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+5941,Mazda,B2200/B2600,1989,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+5942,Mazda,B2200/B2600,1989,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 4-spd
+5943,Mazda,B2200/B2600,1989,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 5-spd
+5954,Mazda,B2600i 4x4,1989,4,Regular,16,20,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+603,Mazda,GLC Wagon,1985,4,Regular,19,21,20,444.35,16.4805,1.5,Rear-Wheel Drive,Automatic 3-spd
+604,Mazda,GLC Wagon,1985,4,Regular,22,26,24,370.2916667,13.73375,1.5,Rear-Wheel Drive,Manual 4-spd
+605,Mazda,GLC Wagon,1985,4,Regular,22,27,24,370.2916667,13.73375,1.5,Rear-Wheel Drive,Manual 5-spd
+6278,Mazda,MPV,1989,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+6279,Mazda,MPV,1989,4,Regular,18,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Manual 5-spd
+6280,Mazda,MPV,1989,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+6281,Mazda,MPV,1989,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+6282,Mazda,MPV,1989,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+6283,Mazda,MPV,1989,6,Regular,16,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+6359,Mazda,MPV 4WD,1989,6,Regular,14,18,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+6420,Mazda,RX-7,1990,2,Regular,15,21,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Automatic 4-spd
+6421,Mazda,RX-7,1990,2,Regular,15,23,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+6422,Mazda,RX-7,1990,2,Regular,15,22,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Manual 5-spd
+6423,Mazda,MX-5 Miata,1990,4,Regular,21,26,23,386.3913043,14.33086957,1.6,Rear-Wheel Drive,Automatic 4-spd
+6424,Mazda,MX-5 Miata,1990,4,Regular,22,28,24,370.2916667,13.73375,1.6,Rear-Wheel Drive,Manual 5-spd
+6700,Mazda,323/323 Protege,1990,4,Regular,23,30,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+6701,Mazda,323/323 Protege,1990,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+6702,Mazda,323/323 Protege,1990,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+6703,Mazda,323/323 Protege,1990,4,Regular,19,24,21,423.1904762,15.69571429,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd
+6704,Mazda,323/323 Protege,1990,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+6705,Mazda,323/323 Protege,1990,4,Regular,24,33,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+6706,Mazda,323/323 Protege,1990,4,Regular,22,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+6707,Mazda,323/323 Protege,1990,4,Regular,21,26,23,386.3913043,14.33086957,1.8,4-Wheel or All-Wheel Drive,Manual 5-spd
+6841,Mazda,626/MX-6,1990,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+6842,Mazda,626/MX-6,1990,4,Premium,17,23,19,467.7368421,17.34789474,2.2,Front-Wheel Drive,Automatic 4-spd
+6843,Mazda,626/MX-6,1990,4,Regular,21,28,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+6844,Mazda,626/MX-6,1990,4,Premium,18,26,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+6845,Mazda,929,1990,6,Regular,17,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 4-spd
+6846,Mazda,929,1990,6,Regular,16,20,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 4-spd
+7105,Mazda,B2200/B2600i,1990,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+7106,Mazda,B2200/B2600i,1990,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 4-spd
+7107,Mazda,B2200/B2600i,1990,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 5-spd
+7108,Mazda,B2200/B2600i,1990,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+7109,Mazda,B2200/B2600i,1990,4,Regular,21,24,22,403.9545455,14.98227273,2.2,Rear-Wheel Drive,Manual 5-spd
+7110,Mazda,B2200/B2600i,1990,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+7111,Mazda,B2200/B2600i,1990,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Manual 5-spd
+7219,Mazda,B2600i 4x4,1990,4,Regular,15,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Automatic 4-spd
+7220,Mazda,B2600i 4x4,1990,4,Regular,16,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+7337,Mazda,MPV,1990,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+7338,Mazda,MPV,1990,4,Regular,18,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Manual 5-spd
+7339,Mazda,MPV,1990,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+7340,Mazda,MPV,1990,6,Regular,16,20,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Manual 5-spd
+7418,Mazda,MPV 4x4,1990,6,Regular,14,18,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+7419,Mazda,MPV 4x4,1990,6,Regular,15,18,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+7486,Mazda,RX-7,1991,2,Regular,15,21,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Automatic 4-spd
+7487,Mazda,RX-7,1991,2,Regular,15,23,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+7488,Mazda,RX-7,1991,2,Regular,15,22,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Manual 5-spd
+7489,Mazda,MX-5 Miata,1991,4,Regular,21,26,23,386.3913043,14.33086957,1.6,Rear-Wheel Drive,Automatic 4-spd
+7490,Mazda,MX-5 Miata,1991,4,Regular,22,28,24,370.2916667,13.73375,1.6,Rear-Wheel Drive,Manual 5-spd
+7822,Mazda,323 Protege 4x4,1991,4,Regular,19,24,21,423.1904762,15.69571429,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd
+7823,Mazda,323 Protege 4x4,1991,4,Regular,21,26,23,386.3913043,14.33086957,1.8,4-Wheel or All-Wheel Drive,Manual 5-spd
+7824,Mazda,323/323 Protege,1991,4,Regular,23,30,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+7825,Mazda,323/323 Protege,1991,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+7826,Mazda,323/323 Protege,1991,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+7827,Mazda,323/323 Protege,1991,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+7828,Mazda,323/323 Protege,1991,4,Regular,24,33,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+7829,Mazda,323/323 Protege,1991,4,Regular,22,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+7974,Mazda,626/MX-6,1991,4,Premium,17,23,19,467.7368421,17.34789474,2.2,Front-Wheel Drive,Automatic 4-spd
+7975,Mazda,626/MX-6,1991,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+7976,Mazda,626/MX-6,1991,4,Premium,18,26,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+7977,Mazda,626/MX-6,1991,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+7978,Mazda,929,1991,6,Regular,17,21,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 4-spd
+7979,Mazda,929,1991,6,Regular,16,20,18,493.7222222,18.31166667,3,Rear-Wheel Drive,Automatic 4-spd
+8236,Mazda,B2200/B2600i,1991,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+8237,Mazda,B2200/B2600i,1991,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 4-spd
+8238,Mazda,B2200/B2600i,1991,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 5-spd
+8239,Mazda,B2200/B2600i,1991,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+8240,Mazda,B2200/B2600i,1991,4,Regular,21,24,22,403.9545455,14.98227273,2.2,Rear-Wheel Drive,Manual 5-spd
+8241,Mazda,B2200/B2600i,1991,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+8242,Mazda,B2200/B2600i,1991,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Manual 5-spd
+8343,Mazda,B2600i 4x4,1991,4,Regular,15,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Automatic 4-spd
+8344,Mazda,B2600i 4x4,1991,4,Regular,16,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+8455,Mazda,MPV,1991,4,Regular,16,22,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Automatic 4-spd
+8456,Mazda,MPV,1991,4,Regular,18,23,20,444.35,16.4805,2.6,Rear-Wheel Drive,Manual 5-spd
+8457,Mazda,MPV,1991,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+8519,Mazda,MPV 4x4,1991,6,Regular,14,18,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+8520,Mazda,MPV 4x4,1991,6,Regular,15,18,16,555.4375,20.600625,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+8521,Mazda,Navajo,1991,6,Regular,14,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+8522,Mazda,Navajo,1991,6,Regular,14,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+8523,Mazda,Navajo,1991,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+8524,Mazda,Navajo,1991,6,Regular,15,19,16,555.4375,20.600625,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+8579,Mazda,MX-5 Miata,1992,4,Regular,21,26,23,386.3913043,14.33086957,1.6,Rear-Wheel Drive,Automatic 4-spd
+8580,Mazda,MX-5 Miata,1992,4,Regular,21,27,24,370.2916667,13.73375,1.6,Rear-Wheel Drive,Manual 5-spd
+8581,Mazda,RX-7,1992,2,Regular,15,22,17,522.7647059,19.38882353,1.3,Rear-Wheel Drive,Automatic 4-spd
+8582,Mazda,RX-7,1992,2,Regular,15,23,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+8740,Mazda,MX-3,1992,4,Regular,22,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+8741,Mazda,MX-3,1992,4,Regular,25,32,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+8742,Mazda,MX-3,1992,6,Regular,18,25,20,444.35,16.4805,1.9,Front-Wheel Drive,Automatic 4-spd
+8743,Mazda,MX-3,1992,6,Regular,20,26,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Manual 5-spd
+8912,Mazda,Protege,1992,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+8913,Mazda,Protege,1992,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+8914,Mazda,Protege,1992,4,Regular,24,33,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+8915,Mazda,Protege,1992,4,Regular,22,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+8916,Mazda,323,1992,4,Regular,23,30,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+8917,Mazda,323,1992,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd
+9048,Mazda,626/MX-6,1992,4,Premium,17,23,19,467.7368421,17.34789474,2.2,Front-Wheel Drive,Automatic 4-spd
+9049,Mazda,626/MX-6,1992,4,Regular,19,26,22,403.9545455,14.98227273,2.2,Front-Wheel Drive,Automatic 4-spd
+9050,Mazda,626/MX-6,1992,4,Premium,18,26,21,423.1904762,15.69571429,2.2,Front-Wheel Drive,Manual 5-spd
+9051,Mazda,626/MX-6,1992,4,Regular,21,29,24,370.2916667,13.73375,2.2,Front-Wheel Drive,Manual 5-spd
+9052,Mazda,929,1992,6,Premium,17,22,19,467.7368421,17.34789474,3,Rear-Wheel Drive,Automatic 4-spd
+9307,Mazda,B2200/B2600i,1992,4,Regular,18,23,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+9308,Mazda,B2200/B2600i,1992,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Manual 5-spd
+9309,Mazda,B2200/B2600i,1992,4,Regular,18,24,20,444.35,16.4805,2.2,Rear-Wheel Drive,Automatic 4-spd
+9310,Mazda,B2200/B2600i,1992,4,Regular,21,24,22,403.9545455,14.98227273,2.2,Rear-Wheel Drive,Manual 5-spd
+9311,Mazda,B2200/B2600i,1992,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Automatic 4-spd
+9312,Mazda,B2200/B2600i,1992,4,Regular,17,22,19,467.7368421,17.34789474,2.6,Rear-Wheel Drive,Manual 5-spd
+9404,Mazda,B2600i 4x4,1992,4,Regular,15,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Automatic 4-spd
+9405,Mazda,B2600i 4x4,1992,4,Regular,16,19,17,522.7647059,19.38882353,2.6,4-Wheel or All-Wheel Drive,Manual 5-spd
+9525,Mazda,MPV,1992,4,Regular,16,22,18,493.7222222,18.31166667,2.6,Rear-Wheel Drive,Automatic 4-spd
+9526,Mazda,MPV,1992,6,Regular,15,20,17,522.7647059,19.38882353,3,Rear-Wheel Drive,Automatic 4-spd
+9527,Mazda,Navajo,1992,6,Regular,15,20,16,555.4375,20.600625,4,Rear-Wheel Drive,Automatic 4-spd
+9528,Mazda,Navajo,1992,6,Regular,15,20,17,522.7647059,19.38882353,4,Rear-Wheel Drive,Manual 5-spd
+9594,Mazda,MPV 4x4,1992,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+9595,Mazda,MPV 4x4,1992,6,Regular,14,17,15,592.4666667,21.974,3,4-Wheel or All-Wheel Drive,Manual 5-spd
+9596,Mazda,Navajo 4x4,1992,6,Regular,14,18,15,592.4666667,21.974,4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+9597,Mazda,Navajo 4x4,1992,6,Regular,15,20,17,522.7647059,19.38882353,4,4-Wheel or All-Wheel Drive,Manual 5-spd
+9656,Mazda,MX-5 Miata,1993,4,Regular,21,26,23,386.3913043,14.33086957,1.6,Rear-Wheel Drive,Automatic 4-spd
+9657,Mazda,MX-5 Miata,1993,4,Regular,21,27,24,370.2916667,13.73375,1.6,Rear-Wheel Drive,Manual 5-spd
+9658,Mazda,RX-7,1993,2,Premium,16,22,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Automatic 4-spd
+9659,Mazda,RX-7,1993,2,Premium,15,23,18,493.7222222,18.31166667,1.3,Rear-Wheel Drive,Manual 5-spd
+9798,Mazda,MX-3,1993,4,Regular,22,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+9799,Mazda,MX-3,1993,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+9800,Mazda,MX-3,1993,6,Regular,18,25,20,444.35,16.4805,1.9,Front-Wheel Drive,Automatic 4-spd
+9801,Mazda,MX-3,1993,6,Regular,20,26,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Manual 5-spd
+9802,Mazda,MX-6,1993,4,Regular,21,28,23,386.3913043,14.33086957,2,Front-Wheel Drive,Automatic 4-spd
+9803,Mazda,MX-6,1993,4,Regular,23,31,26,341.8076923,12.67730769,2,Front-Wheel Drive,Manual 5-spd
+9804,Mazda,MX-6,1993,6,Premium,17,23,19,467.7368421,17.34789474,2.5,Front-Wheel Drive,Automatic 4-spd
+9805,Mazda,MX-6,1993,6,Premium,18,24,20,444.35,16.4805,2.5,Front-Wheel Drive,Manual 5-spd
+9952,Mazda,Protege,1993,4,Regular,21,29,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Automatic 4-spd
+9953,Mazda,Protege,1993,4,Regular,21,26,23,386.3913043,14.33086957,1.8,Front-Wheel Drive,Automatic 4-spd
+9954,Mazda,Protege,1993,4,Regular,22,28,24,370.2916667,13.73375,1.8,Front-Wheel Drive,Manual 5-spd
+9955,Mazda,Protege,1993,4,Regular,24,33,27,329.1481481,12.20777778,1.8,Front-Wheel Drive,Manual 5-spd
+9956,Mazda,323,1993,4,Regular,23,30,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+9957,Mazda,323,1993,4,Regular,22,29,25,355.48,13.1844,1.6,Front-Wheel Drive,Automatic 4-spd
+9958,Mazda,323,1993,4,Regular,24,32,27,329.1481481,12.20777778,1.6,Front-Wheel Drive,Manual 5-spd
+9959,Mazda,323,1993,4,Regular,25,33,28,317.3928571,11.77178571,1.6,Front-Wheel Drive,Manual 5-spd

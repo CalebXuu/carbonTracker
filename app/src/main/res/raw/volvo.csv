@@ -1,0 +1,759 @@
+10011,Volvo,240,1993,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+10012,Volvo,240,1993,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+10098,Volvo,850,1993,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+10099,Volvo,850,1993,5,Regular,18,27,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+10100,Volvo,940,1993,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+10101,Volvo,940,1993,4,Regular,17,25,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+10102,Volvo,960,1993,6,Regular,15,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+10207,Volvo,240 Wagon,1993,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+10208,Volvo,240 Wagon,1993,4,Regular,18,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+10209,Volvo,940 Wagon,1993,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+10210,Volvo,940 Wagon,1993,4,Regular,17,25,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+10211,Volvo,960 Wagon,1993,6,Regular,15,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+11054,Volvo,850,1994,5,Regular,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+11055,Volvo,850,1994,5,Regular,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+11056,Volvo,850,1994,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+11057,Volvo,940,1994,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+11058,Volvo,940,1994,4,Regular,17,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+11059,Volvo,960,1994,6,Regular,15,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+11160,Volvo,850 Wagon,1994,5,Regular,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+11161,Volvo,850 Wagon,1994,5,Regular,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+11162,Volvo,850 Wagon,1994,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+11163,Volvo,940 Wagon,1994,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+11164,Volvo,940 Wagon,1994,4,Regular,17,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+11165,Volvo,960 Wagon,1994,6,Regular,15,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+11934,Volvo,960,1995,6,Regular,15,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+12008,Volvo,850,1995,5,Regular,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+12009,Volvo,850,1995,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+12010,Volvo,850,1995,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+12011,Volvo,940,1995,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+12098,Volvo,960 Wagon,1995,6,Regular,15,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+12129,Volvo,850 Wagon,1995,5,Regular,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+12130,Volvo,850 Wagon,1995,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+12131,Volvo,850 Wagon,1995,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+12132,Volvo,940 Wagon,1995,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+12800,Volvo,960,1996,6,Premium,16,24,19,467.7368421,17.34789474,2.9,Rear-Wheel Drive,Automatic 4-spd
+12865,Volvo,850,1996,5,Premium,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+12866,Volvo,850,1996,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+12867,Volvo,850,1996,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+12919,Volvo,960 Wagon,1996,6,Premium,16,22,18,493.7222222,18.31166667,2.5,Rear-Wheel Drive,Automatic 4-spd
+12920,Volvo,960 Wagon,1996,6,Premium,16,24,19,467.7368421,17.34789474,2.9,Rear-Wheel Drive,Automatic 4-spd
+12945,Volvo,850 Wagon,1996,5,Premium,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+12946,Volvo,850 Wagon,1996,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+12947,Volvo,850 Wagon,1996,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+1326,Volvo,240 DL/GL/turbo,1985,4,Regular,15,21,17,522.7647059,19.38882353,2.1,Rear-Wheel Drive,Manual 4-spd
+13536,Volvo,960/S90,1997,6,Premium,16,24,19,467.7368421,17.34789474,2.9,Rear-Wheel Drive,Automatic 4-spd
+13612,Volvo,850,1997,5,Premium,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+13613,Volvo,850,1997,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+13614,Volvo,850,1997,5,Premium,18,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+13615,Volvo,850,1997,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+13671,Volvo,960 Wagon/V90,1997,6,Premium,16,24,19,467.7368421,17.34789474,2.9,Rear-Wheel Drive,Automatic 4-spd
+13686,Volvo,850 Wagon,1997,5,Premium,17,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+13687,Volvo,850 Wagon,1997,5,Premium,18,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+13688,Volvo,850 Wagon,1997,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+13689,Volvo,850 Wagon,1997,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+14160,Volvo,C70 Convertible,1998,5,Premium,16,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+14161,Volvo,C70 Convertible,1998,5,Premium,16,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Manual 5-spd
+14162,Volvo,C70 Convertible,1998,5,Premium,17,23,19,467.7368421,17.34789474,2.4,Front-Wheel Drive,Automatic 4-spd
+14274,Volvo,C70,1998,5,Premium,16,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+14275,Volvo,C70,1998,5,Premium,17,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Manual 5-spd
+14276,Volvo,C70,1998,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+14277,Volvo,S90,1998,6,Premium,16,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+14370,Volvo,S70,1998,5,Premium,16,24,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+14371,Volvo,S70,1998,5,Premium,17,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Manual 5-spd
+14372,Volvo,S70,1998,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+14373,Volvo,S70,1998,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+14374,Volvo,S70,1998,5,Premium,17,27,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+14429,Volvo,V90,1998,6,Premium,16,23,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+14448,Volvo,V70 FWD,1998,5,Premium,16,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+14449,Volvo,V70 FWD,1998,5,Premium,17,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Manual 5-spd
+14450,Volvo,V70 FWD,1998,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+14451,Volvo,V70 FWD,1998,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+14452,Volvo,V70 FWD,1998,5,Premium,17,27,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+14453,Volvo,V70 AWD,1998,5,Premium,16,23,19,467.7368421,17.34789474,2.3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+14454,Volvo,V70 AWD,1998,5,Premium,16,22,19,467.7368421,17.34789474,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+1471,Volvo,240 DL/GL/turbo Wagon,1985,4,Regular,15,21,17,522.7647059,19.38882353,2.1,Rear-Wheel Drive,Manual 4-spd
+14941,Volvo,C70 Convertible,1999,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+14942,Volvo,C70 Convertible,1999,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+14943,Volvo,C70 Convertible,1999,5,Premium,17,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+15066,Volvo,C70,1999,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+15067,Volvo,C70,1999,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+15068,Volvo,C70,1999,5,Premium,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+15164,Volvo,S70,1999,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+15165,Volvo,S70,1999,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+15166,Volvo,S70,1999,5,Premium,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+15167,Volvo,S70,1999,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+15168,Volvo,S70,1999,5,Premium,19,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+15169,Volvo,S70 AWD,1999,5,Premium,16,23,19,467.7368421,17.34789474,2.3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+15170,Volvo,S70 AWD,1999,5,Premium,16,23,19,467.7368421,17.34789474,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+15171,Volvo,S80,1999,6,Premium,16,25,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic 4-spd
+15172,Volvo,S80,1999,6,Premium,17,25,20,444.35,16.4805,2.9,Front-Wheel Drive,Automatic 4-spd
+15246,Volvo,V70 FWD,1999,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+15247,Volvo,V70 FWD,1999,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+15248,Volvo,V70 FWD,1999,5,Premium,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+15249,Volvo,V70 FWD,1999,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+15250,Volvo,V70 FWD,1999,5,Premium,19,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+15251,Volvo,V70 AWD,1999,5,Premium,16,23,19,467.7368421,17.34789474,2.3,4-Wheel or All-Wheel Drive,Automatic 4-spd
+15252,Volvo,V70 AWD,1999,5,Premium,16,23,19,467.7368421,17.34789474,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+15739,Volvo,C70 Convertible,2000,5,Premium,17,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 4-spd
+15740,Volvo,C70 Convertible,2000,5,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+15741,Volvo,C70 Convertible,2000,5,Premium,17,24,19,467.7368421,17.34789474,2.4,Front-Wheel Drive,Automatic 4-spd
+15867,Volvo,C70 Coupe,2000,5,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+15868,Volvo,C70 Coupe,2000,5,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+15869,Volvo,C70 Coupe,2000,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+15870,Volvo,S40 FWD,2000,4,Premium,19,26,21,423.1904762,15.69571429,1.9,Front-Wheel Drive,Automatic 4-spd
+15973,Volvo,S70,2000,5,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+15974,Volvo,S70,2000,5,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+15975,Volvo,S70,2000,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+15976,Volvo,S70,2000,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+15977,Volvo,S70,2000,5,Premium,19,26,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+15978,Volvo,S70 AWD,2000,5,Premium,16,23,19,467.7368421,17.34789474,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+15979,Volvo,S80,2000,6,Premium,16,23,18,493.7222222,18.31166667,2.8,Front-Wheel Drive,Automatic 4-spd
+15980,Volvo,S80,2000,6,Premium,16,24,19,467.7368421,17.34789474,2.9,Front-Wheel Drive,Automatic 4-spd
+16032,Volvo,V40,2000,4,Premium,19,26,21,423.1904762,15.69571429,1.9,Front-Wheel Drive,Automatic 4-spd
+16058,Volvo,V70 FWD,2000,5,Premium,17,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 4-spd
+16059,Volvo,V70 FWD,2000,5,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+16060,Volvo,V70 FWD,2000,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 4-spd
+16061,Volvo,V70 FWD,2000,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+16062,Volvo,V70 FWD,2000,5,Premium,19,26,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+16063,Volvo,V70 AWD,2000,5,Premium,16,23,19,467.7368421,17.34789474,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd
+16064,Volvo,V70 AWD,2000,5,Premium,16,22,18,493.7222222,18.31166667,2.4,4-Wheel or All-Wheel Drive,Automatic 5-spd
+16570,Volvo,C70 Convertible,2001,5,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 5-spd
+16571,Volvo,C70 Convertible,2001,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+16572,Volvo,C70 Convertible,2001,5,Premium,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 5-spd
+16724,Volvo,C70 Coupe,2001,5,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 5-spd
+16725,Volvo,C70 Coupe,2001,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+16726,Volvo,C70 Coupe,2001,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+16727,Volvo,S40 FWD,2001,4,Premium,20,29,23,386.3913043,14.33086957,1.9,Front-Wheel Drive,Automatic 5-spd
+16728,Volvo,S60,2001,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+16729,Volvo,S60,2001,5,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic (S5)
+16730,Volvo,S60,2001,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+16731,Volvo,S60,2001,5,Premium,19,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+16732,Volvo,S60,2001,5,Premium,19,25,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+16733,Volvo,S60,2001,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+16836,Volvo,S80/S80 Executive,2001,6,Premium,17,24,19,467.7368421,17.34789474,2.8,Front-Wheel Drive,Automatic (S4)
+16837,Volvo,S80/S80 Executive,2001,6,Premium,17,25,20,444.35,16.4805,2.9,Front-Wheel Drive,Automatic 4-spd
+16896,Volvo,V40,2001,4,Premium,20,29,23,386.3913043,14.33086957,1.9,Front-Wheel Drive,Automatic 5-spd
+16926,Volvo,V70 FWD,2001,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+16927,Volvo,V70 FWD,2001,5,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic (S5)
+16928,Volvo,V70 FWD,2001,5,Premium,19,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+16929,Volvo,V70 FWD,2001,5,Premium,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 5-spd
+16930,Volvo,V70 FWD,2001,5,Premium,19,25,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+16931,Volvo,V70 FWD,2001,5,Premium,18,25,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic (S5)
+16932,Volvo,V70 AWD,2001,5,Premium,16,23,19,467.7368421,17.34789474,2.4,4-Wheel or All-Wheel Drive,Automatic (S5)
+17297,Volvo,V70 XC AWD,2001,5,Premium,16,21,18,493.7222222,18.31166667,2.4,4-Wheel or All-Wheel Drive,Automatic (S5)
+17486,Volvo,C70 Convertible,2002,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 5-spd
+17487,Volvo,C70 Convertible,2002,5,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+17488,Volvo,C70 Convertible,2002,5,Premium,18,25,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+17655,Volvo,C70 Coupe,2002,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic 5-spd
+17656,Volvo,C70 Coupe,2002,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+17657,Volvo,S40 FWD,2002,4,Premium,19,27,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Automatic 5-spd
+17658,Volvo,S60 AWD,2002,5,Premium,17,24,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Automatic (S5)
+17659,Volvo,S60 FWD,2002,5,Premium,18,25,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+17660,Volvo,S60 FWD,2002,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic (S5)
+17661,Volvo,S60 FWD,2002,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+17662,Volvo,S60 FWD,2002,5,Premium,19,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+17663,Volvo,S60 FWD,2002,5,Premium,19,25,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+17766,Volvo,S80/S80 Executive,2002,6,Premium,17,23,19,467.7368421,17.34789474,2.9,Front-Wheel Drive,Automatic 4-spd
+17767,Volvo,S80/S80 Executive,2002,6,Premium,16,23,19,467.7368421,17.34789474,2.9,Front-Wheel Drive,Automatic (S4)
+17833,Volvo,V40,2002,4,Premium,19,27,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Automatic 5-spd
+17864,Volvo,V70 FWD,2002,5,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+17865,Volvo,V70 FWD,2002,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic (S5)
+17866,Volvo,V70 FWD,2002,5,Premium,19,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+17867,Volvo,V70 FWD,2002,5,Premium,18,25,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+17868,Volvo,V70 FWD,2002,5,Premium,19,25,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+17869,Volvo,V70 AWD,2002,5,Premium,17,24,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Automatic (S5)
+18252,Volvo,V70 XC AWD,2002,5,Premium,17,23,20,444.35,16.4805,2.4,4-Wheel or All-Wheel Drive,Automatic (S5)
+18455,Volvo,C70 Convertible,2003,5,Premium,18,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic 5-spd
+18456,Volvo,C70 Convertible,2003,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+18457,Volvo,C70 Convertible,2003,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 5-spd
+18622,Volvo,S40 FWD,2003,4,Premium,19,27,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Automatic 5-spd
+18623,Volvo,S60 AWD,2003,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+18624,Volvo,S60 FWD,2003,5,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+18625,Volvo,S60 FWD,2003,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic (S5)
+18626,Volvo,S60 FWD,2003,5,Premium,19,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic 5-spd
+18627,Volvo,S60 FWD,2003,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+18628,Volvo,S60 FWD,2003,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+18719,Volvo,S80/S80 Executive,2003,6,Premium,18,25,20,444.35,16.4805,2.9,Front-Wheel Drive,Automatic 4-spd
+18720,Volvo,S80/S80 Executive,2003,6,Premium,17,24,19,467.7368421,17.34789474,2.9,Front-Wheel Drive,Automatic (S4)
+18796,Volvo,V40,2003,4,Premium,19,27,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Automatic 5-spd
+18831,Volvo,V70 AWD,2003,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+18832,Volvo,V70 FWD,2003,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+18833,Volvo,V70 FWD,2003,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Automatic (S5)
+18834,Volvo,V70 FWD,2003,5,Premium,19,28,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+18835,Volvo,V70 FWD,2003,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic 5-spd
+18836,Volvo,V70 FWD,2003,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+19117,Volvo,XC90 FWD,2003,5,Premium,16,22,18,493.7222222,18.31166667,2.5,Front-Wheel Drive,Automatic (S5)
+19248,Volvo,XC70 AWD,2003,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+19249,Volvo,XC90 AWD,2003,5,Premium,16,22,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+19250,Volvo,XC90 AWD,2003,6,Premium,14,19,16,555.4375,20.600625,2.9,4-Wheel or All-Wheel Drive,Automatic (S4)
+19524,Volvo,C70 Convertible,2004,5,Premium,16,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic 5-spd
+19525,Volvo,C70 Convertible,2004,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+19526,Volvo,C70 Convertible,2004,5,Premium,16,25,19,467.7368421,17.34789474,2.4,Front-Wheel Drive,Automatic 5-spd
+19699,Volvo,S40 FWD,2004,4,Premium,19,27,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Automatic 5-spd
+19700,Volvo,S40 FWD,2004,5,Premium,19,28,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic (S5)
+19701,Volvo,S40 FWD,2004,5,Premium,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+19702,Volvo,S60 AWD,2004,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+19703,Volvo,S60 FWD,2004,5,Premium,18,25,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Manual 5-spd
+19704,Volvo,S60 FWD,2004,5,Premium,18,26,21,423.1904762,15.69571429,2.3,Front-Wheel Drive,Automatic (S5)
+19705,Volvo,S60 FWD,2004,5,Premium,19,28,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+19706,Volvo,S60 FWD,2004,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+19707,Volvo,S60 FWD,2004,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+19708,Volvo,S60 R AWD,2004,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+19709,Volvo,S60 R AWD,2004,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+19818,Volvo,S80 AWD,2004,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+19819,Volvo,S80/S80 Premier,2004,5,Premium,18,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic 5-spd
+19820,Volvo,S80/S80 Premier,2004,6,Premium,18,25,20,444.35,16.4805,2.9,Front-Wheel Drive,Automatic 4-spd
+19821,Volvo,S80/S80 Premier,2004,6,Premium,17,24,19,467.7368421,17.34789474,2.9,Front-Wheel Drive,Automatic (S4)
+19909,Volvo,V40,2004,4,Premium,19,27,22,403.9545455,14.98227273,1.9,Front-Wheel Drive,Automatic 5-spd
+19947,Volvo,V70 AWD,2004,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+19948,Volvo,V70 FWD,2004,5,Premium,17,24,20,444.35,16.4805,2.3,Front-Wheel Drive,Manual 5-spd
+19949,Volvo,V70 FWD,2004,5,Premium,16,23,19,467.7368421,17.34789474,2.3,Front-Wheel Drive,Automatic (S5)
+19950,Volvo,V70 FWD,2004,5,Premium,19,28,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+19951,Volvo,V70 FWD,2004,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+19952,Volvo,V70 FWD,2004,5,Premium,18,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic 5-spd
+19953,Volvo,V70 R AWD,2004,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+19954,Volvo,V70 R AWD,2004,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+20242,Volvo,XC90 FWD,2004,5,Premium,16,22,19,467.7368421,17.34789474,2.5,Front-Wheel Drive,Automatic (S5)
+20380,Volvo,XC70 AWD,2004,5,Premium,17,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+20381,Volvo,XC90 AWD,2004,5,Premium,16,22,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+20382,Volvo,XC90 AWD,2004,6,Premium,14,19,16,555.4375,20.600625,2.9,4-Wheel or All-Wheel Drive,Automatic (S4)
+20818,Volvo,S40 AWD,2005,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+20819,Volvo,S40 AWD,2005,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+20820,Volvo,S40 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+20821,Volvo,S40 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic (S5)
+20822,Volvo,S40 FWD,2005,5,Premium,19,29,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Manual 6-spd
+20823,Volvo,S40 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+20824,Volvo,S60 AWD,2005,5,Premium,17,24,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+20825,Volvo,S60 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+20826,Volvo,S60 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+20827,Volvo,S60 FWD,2005,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 6-spd
+20828,Volvo,S60 FWD,2005,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+20829,Volvo,S60 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+20830,Volvo,S60 R AWD,2005,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+20831,Volvo,S60 R AWD,2005,5,Premium,16,22,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+2088,Volvo,240 DL/240 GL,1986,4,Regular,18,22,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+2089,Volvo,240 DL/240 GL,1986,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+20940,Volvo,S80 AWD,2005,5,Premium,17,24,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+20941,Volvo,S80 FWD,2005,5,Premium,18,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+20942,Volvo,S80 FWD,2005,6,Premium,16,24,19,467.7368421,17.34789474,2.9,Front-Wheel Drive,Automatic (S4)
+21041,Volvo,V50 AWD,2005,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+21042,Volvo,V50 AWD,2005,5,Premium,17,24,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+21043,Volvo,V50 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+21044,Volvo,V50 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic (S5)
+21045,Volvo,V50 FWD,2005,5,Premium,19,29,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Manual 6-spd
+21046,Volvo,V50 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+21074,Volvo,V70 AWD,2005,5,Premium,17,24,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+21075,Volvo,V70 FWD,2005,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+21076,Volvo,V70 FWD,2005,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+21077,Volvo,V70 FWD,2005,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Manual 6-spd
+21078,Volvo,V70 FWD,2005,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Automatic (S5)
+21079,Volvo,V70 FWD,2005,5,Premium,18,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+21080,Volvo,V70 R AWD,2005,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+21081,Volvo,V70 R AWD,2005,5,Premium,16,22,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+21350,Volvo,XC90 FWD,2005,5,Premium,16,21,18,493.7222222,18.31166667,2.5,Front-Wheel Drive,Automatic (S5)
+21488,Volvo,XC70 AWD,2005,5,Premium,16,22,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+21489,Volvo,XC90 AWD,2005,5,Premium,15,20,17,522.7647059,19.38882353,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+21490,Volvo,XC90 AWD,2005,6,Premium,14,19,16,555.4375,20.600625,2.9,4-Wheel or All-Wheel Drive,Automatic (S4)
+21592,Volvo,XC90 AWD,2005,8,Premium,13,19,15,592.4666667,21.974,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+21898,Volvo,S40 AWD,2006,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+21899,Volvo,S40 AWD,2006,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+21900,Volvo,S40 FWD,2006,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+21901,Volvo,S40 FWD,2006,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic (S5)
+21902,Volvo,S40 FWD,2006,5,Premium,20,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+21903,Volvo,S40 FWD,2006,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+21904,Volvo,S60 AWD,2006,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+21905,Volvo,S60 AWD,2006,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+21906,Volvo,S60 FWD,2006,5,Premium,19,26,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic 5-spd
+21907,Volvo,S60 FWD,2006,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+21908,Volvo,S60 FWD,2006,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 6-spd
+21909,Volvo,S60 FWD,2006,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+21910,Volvo,S60 FWD,2006,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+21911,Volvo,S60 FWD,2006,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+21912,Volvo,S60 R AWD,2006,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+21913,Volvo,S60 R AWD,2006,5,Premium,16,23,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S6)
+2197,Volvo,740/760,1986,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+2198,Volvo,740/760,1986,4,Regular,19,23,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 4-spd
+2199,Volvo,740/760,1986,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+2200,Volvo,740/760,1986,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+2201,Volvo,740/760,1986,6,Diesel,21,24,23,442.6086957,16.61673913,2.4,Rear-Wheel Drive,Automatic 4-spd
+2202,Volvo,740/760,1986,6,Diesel,22,27,24,424.1666667,15.924375,2.4,Rear-Wheel Drive,Manual 4-spd
+22021,Volvo,S80 AWD,2006,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+22022,Volvo,S80 FWD,2006,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+2203,Volvo,740/760,1986,6,Regular,16,20,18,493.7222222,18.31166667,2.8,Rear-Wheel Drive,Automatic 4-spd
+22129,Volvo,V50 AWD,2006,5,Premium,17,24,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+22130,Volvo,V50 AWD,2006,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+22131,Volvo,V50 FWD,2006,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+22132,Volvo,V50 FWD,2006,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Automatic (S5)
+22133,Volvo,V50 FWD,2006,5,Premium,20,29,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+22134,Volvo,V50 FWD,2006,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+22152,Volvo,V70 AWD,2006,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+22153,Volvo,V70 AWD,2006,5,Premium,18,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+22154,Volvo,V70 FWD,2006,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+22155,Volvo,V70 FWD,2006,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+22156,Volvo,V70 FWD,2006,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Manual 6-spd
+22157,Volvo,V70 FWD,2006,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+22158,Volvo,V70 FWD,2006,5,Premium,18,27,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic (S5)
+22159,Volvo,V70 R AWD,2006,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+22160,Volvo,V70 R AWD,2006,5,Premium,16,23,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S6)
+22461,Volvo,XC90 FWD,2006,5,Premium,15,21,18,493.7222222,18.31166667,2.5,Front-Wheel Drive,Automatic (S5)
+22607,Volvo,XC70 AWD,2006,5,Premium,17,24,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+22608,Volvo,XC90 AWD,2006,5,Premium,15,20,17,522.7647059,19.38882353,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+22609,Volvo,XC90 AWD,2006,8,Premium,13,19,15,592.4666667,21.974,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+22697,Volvo,New C70 Convertible,2006,5,Premium,18,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 6-spd
+23160,Volvo,C70 Convertible,2007,5,Premium,18,27,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 6-spd
+23161,Volvo,C70 Convertible,2007,5,Premium,18,27,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic (S5)
+23221,Volvo,S40 AWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+23222,Volvo,S40 AWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+23223,Volvo,S40 FWD,2007,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+23224,Volvo,S40 FWD,2007,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic (S5)
+23225,Volvo,S40 FWD,2007,5,Premium,18,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Manual 6-spd
+23226,Volvo,S40 FWD,2007,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+23227,Volvo,S60 AWD,2007,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+23228,Volvo,S60 AWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+23229,Volvo,S60 FWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 6-spd
+23230,Volvo,S60 FWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+23231,Volvo,S60 FWD,2007,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+23232,Volvo,S60 FWD,2007,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+23233,Volvo,S60 R AWD,2007,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+23234,Volvo,S60 R AWD,2007,5,Premium,15,23,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S6)
+2330,Volvo,240 DL/240 GL Wagon,1986,4,Regular,18,22,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+2331,Volvo,240 DL/240 GL Wagon,1986,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+2332,Volvo,740/760 Wagon,1986,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+23322,Volvo,V50 AWD,2007,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+23323,Volvo,V50 AWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+23324,Volvo,V50 FWD,2007,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+23325,Volvo,V50 FWD,2007,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic (S5)
+23326,Volvo,V50 FWD,2007,5,Premium,18,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Manual 6-spd
+23327,Volvo,V50 FWD,2007,5,Premium,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+2333,Volvo,740/760 Wagon,1986,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 4-spd
+23337,Volvo,V70 AWD,2007,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+23338,Volvo,V70 AWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+23339,Volvo,V70 FWD,2007,5,Premium,19,27,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 5-spd
+2334,Volvo,740/760 Wagon,1986,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+23340,Volvo,V70 FWD,2007,5,Premium,19,27,22,403.9545455,14.98227273,2.4,Front-Wheel Drive,Manual 5-spd
+23341,Volvo,V70 FWD,2007,5,Premium,17,24,20,444.35,16.4805,2.4,Front-Wheel Drive,Manual 6-spd
+23342,Volvo,V70 FWD,2007,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+23343,Volvo,V70 FWD,2007,5,Premium,18,27,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic (S5)
+23344,Volvo,V70 R AWD,2007,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+23345,Volvo,V70 R AWD,2007,5,Premium,15,23,18,493.7222222,18.31166667,2.5,4-Wheel or All-Wheel Drive,Automatic (S6)
+2335,Volvo,740/760 Wagon,1986,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+2336,Volvo,740/760 Wagon,1986,6,Diesel,21,24,23,442.6086957,16.61673913,2.4,Rear-Wheel Drive,Automatic 4-spd
+23400,Volvo,XC90 FWD,2007,5,Premium,15,21,18,493.7222222,18.31166667,2.5,Front-Wheel Drive,Automatic (S5)
+23401,Volvo,XC90 FWD,2007,6,Premium,15,21,17,522.7647059,19.38882353,3.2,Front-Wheel Drive,Automatic (S6)
+23426,Volvo,XC70 AWD,2007,5,Premium,16,23,19,467.7368421,17.34789474,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+23427,Volvo,XC90 AWD,2007,5,Premium,15,20,17,522.7647059,19.38882353,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+23428,Volvo,XC90 AWD,2007,6,Premium,14,20,17,522.7647059,19.38882353,3.2,4-Wheel or All-Wheel Drive,Automatic (S6)
+23429,Volvo,XC90 AWD,2007,8,Premium,13,19,15,592.4666667,21.974,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+23931,Volvo,S80 AWD,2007,6,Premium,16,24,19,467.7368421,17.34789474,3.2,4-Wheel or All-Wheel Drive,Automatic (S6)
+23932,Volvo,S80 AWD,2007,8,Premium,15,23,18,493.7222222,18.31166667,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+23933,Volvo,S80 FWD,2007,6,Premium,16,25,19,467.7368421,17.34789474,3.2,Front-Wheel Drive,Automatic (S6)
+24272,Volvo,C70 Convertible,2008,5,Premium,18,27,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 6-spd
+24273,Volvo,C70 Convertible,2008,5,Premium,18,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic (S5)
+24329,Volvo,C30 FWD,2008,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+24330,Volvo,C30 FWD,2008,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic (S5)
+24331,Volvo,C30 FWD,2008,5,Premium,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+24332,Volvo,C30 FWD,2008,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+24333,Volvo,S40 AWD,2008,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+24334,Volvo,S40 AWD,2008,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+24335,Volvo,S40 FWD,2008,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+24336,Volvo,S40 FWD,2008,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic (S5)
+24337,Volvo,S40 FWD,2008,5,Premium,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+24338,Volvo,S40 FWD,2008,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+24339,Volvo,S60 AWD,2008,5,Premium,17,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+24340,Volvo,S60 AWD,2008,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+24341,Volvo,S60 FWD,2008,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 6-spd
+24342,Volvo,S60 FWD,2008,5,Premium,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+24343,Volvo,S60 FWD,2008,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+24344,Volvo,S60 FWD,2008,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+24409,Volvo,S80 AWD,2008,6,Premium,15,23,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic (S6)
+24410,Volvo,S80 AWD,2008,6,Premium,16,24,19,467.7368421,17.34789474,3.2,4-Wheel or All-Wheel Drive,Automatic (S6)
+24411,Volvo,S80 AWD,2008,8,Premium,15,23,18,493.7222222,18.31166667,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+24412,Volvo,S80 FWD,2008,6,Premium,16,24,19,467.7368421,17.34789474,3.2,Front-Wheel Drive,Automatic (S6)
+24447,Volvo,V50 AWD,2008,5,Premium,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+24448,Volvo,V50 AWD,2008,5,Premium,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+24449,Volvo,V50 FWD,2008,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+24450,Volvo,V50 FWD,2008,5,Premium,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic (S5)
+24451,Volvo,V50 FWD,2008,5,Premium,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+24452,Volvo,V50 FWD,2008,5,Premium,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+24630,Volvo,XC90 FWD,2008,6,Premium,14,20,16,555.4375,20.600625,3.2,Front-Wheel Drive,Automatic (S6)
+24693,Volvo,XC70 AWD,2008,6,Premium,15,22,17,522.7647059,19.38882353,3.2,4-Wheel or All-Wheel Drive,Automatic (S6)
+24694,Volvo,XC90 AWD,2008,6,Premium,14,20,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Automatic (S6)
+24695,Volvo,XC90 AWD,2008,8,Premium,13,19,15,592.4666667,21.974,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+24931,Volvo,V70 FWD,2008,6,Premium,16,24,19,467.7368421,17.34789474,3.2,Front-Wheel Drive,Automatic (S6)
+25429,Volvo,C70 Convertible,2009,5,Regular,18,27,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Manual 6-spd
+25430,Volvo,C70 Convertible,2009,5,Regular,18,26,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic (S5)
+25453,Volvo,C30 FWD,2009,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+25454,Volvo,C30 FWD,2009,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+25455,Volvo,C30 FWD,2009,5,Regular,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+25456,Volvo,C30 FWD,2009,5,Regular,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Automatic (S5)
+25457,Volvo,S40 AWD,2009,5,Regular,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+25458,Volvo,S40 AWD,2009,5,Regular,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+25459,Volvo,S40 FWD,2009,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+25460,Volvo,S40 FWD,2009,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+25461,Volvo,S40 FWD,2009,5,Regular,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+25462,Volvo,S40 FWD,2009,5,Regular,20,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic (S5)
+25463,Volvo,S60 AWD,2009,5,Regular,17,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic 5-spd
+25464,Volvo,S60 AWD,2009,5,Regular,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+25465,Volvo,S60 FWD,2009,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic (S5)
+25466,Volvo,S60 FWD,2009,5,Regular,19,27,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic 5-spd
+25467,Volvo,S60 FWD,2009,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+25515,Volvo,S80 AWD,2009,6,Regular,15,23,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic (S6)
+25516,Volvo,S80 AWD,2009,8,Regular,15,22,18,493.7222222,18.31166667,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+25517,Volvo,S80 FWD,2009,6,Regular,16,25,20,444.35,16.4805,3.2,Front-Wheel Drive,Automatic (S6)
+25535,Volvo,V50 AWD,2009,5,Regular,17,25,20,444.35,16.4805,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd
+25536,Volvo,V50 AWD,2009,5,Regular,18,26,21,423.1904762,15.69571429,2.5,4-Wheel or All-Wheel Drive,Automatic (S5)
+25537,Volvo,V50 FWD,2009,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+25538,Volvo,V50 FWD,2009,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+25539,Volvo,V50 FWD,2009,5,Regular,20,28,23,386.3913043,14.33086957,2.4,Front-Wheel Drive,Manual 5-spd
+25540,Volvo,V50 FWD,2009,5,Regular,20,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic (S5)
+25543,Volvo,V70 FWD,2009,6,Regular,16,25,20,444.35,16.4805,3.2,Front-Wheel Drive,Automatic (S6)
+25658,Volvo,XC90 FWD,2009,6,Regular,14,20,17,522.7647059,19.38882353,3.2,Front-Wheel Drive,Automatic (S6)
+25725,Volvo,XC70 AWD,2009,6,Regular,15,22,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic (S6)
+25726,Volvo,XC70 AWD,2009,6,Regular,15,23,18,493.7222222,18.31166667,3.2,4-Wheel or All-Wheel Drive,Automatic (S6)
+25727,Volvo,XC90 AWD,2009,6,Regular,14,20,16,555.4375,20.600625,3.2,4-Wheel or All-Wheel Drive,Automatic (S6)
+25728,Volvo,XC90 AWD,2009,8,Regular,13,19,15,592.4666667,21.974,4.4,4-Wheel or All-Wheel Drive,Automatic (S6)
+25729,Volvo,XC60 AWD,2009,6,Regular,15,22,18,493.7222222,18.31166667,3,4-Wheel or All-Wheel Drive,Automatic (S6)
+26517,Volvo,XC60 AWD,2010,6,Regular,16,21,18,493.7222222,18.31166667,3,All-Wheel Drive,Automatic (S6)
+26922,Volvo,240 DL/GL/Turbo,1984,4,Regular,16,20,17,522.7647059,19.38882353,2.1,,Automatic 4-spd
+26923,Volvo,240 DL/GL/Turbo,1984,4,Regular,16,21,18,493.7222222,18.31166667,2.1,,Manual 5-spd
+26924,Volvo,240 DL/GL/Turbo,1984,4,Regular,18,23,20,444.35,16.4805,2.3,,Automatic 4-spd
+26925,Volvo,240 DL/GL/Turbo,1984,4,Regular,18,22,19,467.7368421,17.34789474,2.3,,Automatic 4-spd
+26926,Volvo,240 DL/GL/Turbo,1984,4,Regular,20,27,23,386.3913043,14.33086957,2.3,,Manual 5-spd
+26927,Volvo,240 DL/GL/Turbo,1984,4,Regular,20,26,22,403.9545455,14.98227273,2.3,,Manual 5-spd
+26928,Volvo,240 DL/GL/Turbo,1984,6,Diesel,22,26,24,424.1666667,15.924375,2.4,,Automatic 3-spd
+26929,Volvo,240 DL/GL/Turbo,1984,6,Diesel,23,31,26,391.5384615,14.69942308,2.4,,Manual 5-spd
+27044,Volvo,760 GLE,1984,4,Regular,17,21,18,493.7222222,18.31166667,2.3,,Automatic 4-spd
+27045,Volvo,760 GLE,1984,4,Regular,18,22,19,467.7368421,17.34789474,2.3,,Manual 5-spd
+27046,Volvo,760 GLE,1984,6,Diesel,21,26,23,442.6086957,16.61673913,2.4,,Automatic 4-spd
+27047,Volvo,760 GLE,1984,6,Diesel,22,29,25,407.2,15.2874,2.4,,Manual 5-spd
+27048,Volvo,760 GLE,1984,6,Regular,16,21,18,493.7222222,18.31166667,2.9,,Automatic 4-spd
+27184,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,16,20,17,522.7647059,19.38882353,2.1,,Automatic 4-spd
+27185,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,16,21,18,493.7222222,18.31166667,2.1,,Manual 5-spd
+27186,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,18,22,20,444.35,16.4805,2.3,,Automatic 4-spd
+27187,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,18,22,19,467.7368421,17.34789474,2.3,,Automatic 4-spd
+27188,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,19,25,21,423.1904762,15.69571429,2.3,,Manual 5-spd
+27189,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,20,24,22,403.9545455,14.98227273,2.3,,Manual 5-spd
+27190,Volvo,240 DL/GL/Turbo Wagon,1984,6,Diesel,22,26,24,424.1666667,15.924375,2.4,,Automatic 3-spd
+27191,Volvo,240 DL/GL/Turbo Wagon,1984,6,Diesel,23,31,26,391.5384615,14.69942308,2.4,,Manual 5-spd
+27994,Volvo,240 DL/GL/Turbo,1984,4,Regular,16,20,17,522.7647059,19.38882353,2.1,,Automatic 4-spd
+27995,Volvo,240 DL/GL/Turbo,1984,4,Regular,16,21,18,493.7222222,18.31166667,2.1,,Manual 5-spd
+27996,Volvo,240 DL/GL/Turbo,1984,4,Regular,18,23,20,444.35,16.4805,2.3,,Automatic 4-spd
+27997,Volvo,240 DL/GL/Turbo,1984,4,Regular,18,22,19,467.7368421,17.34789474,2.3,,Automatic 4-spd
+27998,Volvo,240 DL/GL/Turbo,1984,4,Regular,20,27,23,386.3913043,14.33086957,2.3,,Manual 5-spd
+27999,Volvo,240 DL/GL/Turbo,1984,4,Regular,20,26,22,403.9545455,14.98227273,2.3,,Manual 5-spd
+28094,Volvo,760 GLE,1984,4,Regular,17,21,18,493.7222222,18.31166667,2.3,,Automatic 4-spd
+28095,Volvo,760 GLE,1984,4,Regular,18,22,19,467.7368421,17.34789474,2.3,,Manual 5-spd
+28096,Volvo,760 GLE,1984,6,Diesel,21,23,22,462.7272727,17.37204545,2.4,,Automatic 4-spd
+28097,Volvo,760 GLE,1984,6,Regular,16,21,18,493.7222222,18.31166667,2.9,,Automatic 4-spd
+28213,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,16,20,17,522.7647059,19.38882353,2.1,,Automatic 4-spd
+28214,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,16,21,18,493.7222222,18.31166667,2.1,,Manual 5-spd
+28215,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,18,22,20,444.35,16.4805,2.3,,Automatic 4-spd
+28216,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,18,22,19,467.7368421,17.34789474,2.3,,Automatic 4-spd
+28217,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,19,25,21,423.1904762,15.69571429,2.3,,Manual 5-spd
+28218,Volvo,240 DL/GL/Turbo Wagon,1984,4,Regular,20,24,22,403.9545455,14.98227273,2.3,,Manual 5-spd
+28569,Volvo,C70 FWD,2010,5,Regular,20,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+28570,Volvo,C70 FWD,2010,5,Regular,19,28,22,403.9545455,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+28614,Volvo,C30 FWD,2010,5,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+28615,Volvo,C30 FWD,2010,5,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+28616,Volvo,S40 AWD,2010,5,Regular,19,28,22,403.9545455,14.98227273,2.5,All-Wheel Drive,Automatic (S5)
+28617,Volvo,S40 FWD,2010,5,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+28618,Volvo,S40 FWD,2010,5,Regular,20,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic (S5)
+28650,Volvo,S80 AWD,2010,8,Regular,15,22,18,493.7222222,18.31166667,4.4,All-Wheel Drive,Automatic (S6)
+28651,Volvo,S80 AWD,2010,6,Regular,16,24,19,467.7368421,17.34789474,3,All-Wheel Drive,Automatic (S6)
+28652,Volvo,S80 FWD,2010,6,Regular,18,27,21,423.1904762,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+28699,Volvo,V50 AWD,2010,5,Regular,19,27,22,403.9545455,14.98227273,2.5,All-Wheel Drive,Automatic (S5)
+28700,Volvo,V50 FWD,2010,5,Regular,20,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic (S5)
+28705,Volvo,V70 FWD,2010,6,Regular,18,27,21,423.1904762,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+28706,Volvo,XC60 FWD,2010,6,Regular,18,27,21,423.1904762,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+28785,Volvo,XC90 FWD,2010,6,Regular,15,22,18,493.7222222,18.31166667,3.2,Front-Wheel Drive,Automatic (S6)
+28823,Volvo,XC60 AWD,2010,6,Regular,16,22,18,493.7222222,18.31166667,3.2,All-Wheel Drive,Automatic (S6)
+28824,Volvo,XC70 AWD,2010,6,Regular,16,21,18,493.7222222,18.31166667,3,All-Wheel Drive,Automatic (S6)
+28825,Volvo,XC70 AWD,2010,6,Regular,16,22,18,493.7222222,18.31166667,3.2,All-Wheel Drive,Automatic (S6)
+28826,Volvo,XC90 AWD,2010,8,Regular,13,19,15,592.4666667,21.974,4.4,All-Wheel Drive,Automatic (S6)
+28827,Volvo,XC90 AWD,2010,6,Regular,15,21,17,522.7647059,19.38882353,3.2,All-Wheel Drive,Automatic (S6)
+28870,Volvo,240,1990,4,Regular,17,21,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+28871,Volvo,240,1990,4,Regular,18,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+28872,Volvo,240,1990,4,Regular,17,23,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+28873,Volvo,240,1990,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+28875,Volvo,740,1990,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+28876,Volvo,740,1990,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 5-spd
+28877,Volvo,240 Wagon,1990,4,Regular,17,23,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+28878,Volvo,240 Wagon,1990,4,Regular,17,21,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+28879,Volvo,240 Wagon,1990,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 5-spd
+28880,Volvo,240 Wagon,1990,4,Regular,19,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+28881,Volvo,740 Wagon,1990,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+28882,Volvo,740 Wagon,1990,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 5-spd
+29098,Volvo,940,1995,4,Regular,17,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+29099,Volvo,850 Wagon,1995,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Automatic 4-spd
+29100,Volvo,850 Wagon,1995,5,Regular,18,26,21,423.1904762,15.69571429,2.4,Front-Wheel Drive,Manual 5-spd
+29101,Volvo,940 Wagon,1995,4,Regular,17,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+29248,Volvo,C70 Convertible,2006,5,Premium,18,27,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic (S5)
+29310,Volvo,C30 FWD,2010,5,Regular,21,29,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+29311,Volvo,C30 FWD,2010,5,Regular,20,31,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Automatic (S5)
+29312,Volvo,S40 AWD,2010,5,Regular,20,27,22,403.9545455,14.98227273,2.5,All-Wheel Drive,Manual 6-spd
+29313,Volvo,S40 FWD,2010,5,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+29314,Volvo,S40 FWD,2010,5,Regular,21,29,24,370.2916667,13.73375,2.4,Front-Wheel Drive,Manual 5-spd
+29334,Volvo,V50 AWD,2010,5,Regular,20,26,22,403.9545455,14.98227273,2.5,All-Wheel Drive,Manual 6-spd
+29335,Volvo,V50 FWD,2010,5,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+29336,Volvo,V50 FWD,2010,5,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+30050,Volvo,C70 FWD,2011,5,Regular,20,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Manual 6-spd
+30051,Volvo,C70 FWD,2011,5,Regular,19,28,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S5)
+30068,Volvo,C30 FWD,2011,5,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+30069,Volvo,C30 FWD,2011,5,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+30342,Volvo,S60 AWD,2011,6,Regular,18,26,21,423.1904762,15.69571429,3,All-Wheel Drive,Automatic (S6)
+30343,Volvo,S40 FWD,2011,5,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+30403,Volvo,S80 FWD,2011,6,Regular,19,26,22,403.9545455,14.98227273,3.2,Front-Wheel Drive,Automatic (S6)
+30404,Volvo,S80 AWD,2011,6,Regular,18,26,21,423.1904762,15.69571429,3,All-Wheel Drive,Automatic (S6)
+30438,Volvo,V50 FWD,2011,5,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+30533,Volvo,XC60 FWD,2011,6,Regular,18,25,21,423.1904762,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+30534,Volvo,XC70 FWD,2011,6,Regular,18,25,21,423.1904762,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+30535,Volvo,XC90 FWD,2011,6,Regular,16,22,18,493.7222222,18.31166667,3.2,Front-Wheel Drive,Automatic (S6)
+30579,Volvo,XC70 AWD,2011,6,Regular,17,22,19,467.7368421,17.34789474,3,All-Wheel Drive,Automatic (S6)
+30580,Volvo,XC60 AWD,2011,6,Regular,17,22,19,467.7368421,17.34789474,3,All-Wheel Drive,Automatic (S6)
+30581,Volvo,XC90 AWD,2011,8,Regular,14,21,16,555.4375,20.600625,4.4,All-Wheel Drive,Automatic (S6)
+30582,Volvo,XC90 AWD,2011,6,Regular,16,22,18,493.7222222,18.31166667,3.2,All-Wheel Drive,Automatic (S6)
+30583,Volvo,XC70 AWD,2011,6,Regular,18,24,20,444.35,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+30584,Volvo,XC60 AWD,2011,6,Regular,18,24,20,444.35,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+31206,Volvo,C30 FWD,2012,5,Regular,21,29,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+31207,Volvo,S60 AWD,2012,6,Regular,18,26,21,423.1904762,15.69571429,3,All-Wheel Drive,Automatic (S6)
+31208,Volvo,S60 FWD,2012,5,Regular,20,30,23,386.3913043,14.33086957,2.5,Front-Wheel Drive,Automatic (S6)
+31358,Volvo,C30 FWD,2012,5,Regular,21,30,24,370.2916667,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+31405,Volvo,S80 FWD,2012,6,Regular,20,28,23,386.3913043,14.33086957,3.2,Front-Wheel Drive,Automatic (S6)
+31406,Volvo,S80 AWD,2012,6,Regular,18,26,21,423.1904762,15.69571429,3,All-Wheel Drive,Automatic (S6)
+31494,Volvo,XC60 FWD,2012,6,Regular,19,25,21,423.1904762,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+31495,Volvo,XC70 FWD,2012,6,Regular,19,25,21,423.1904762,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+31543,Volvo,XC70 AWD,2012,6,Regular,17,23,20,444.35,16.4805,3,All-Wheel Drive,Automatic (S6)
+31544,Volvo,XC60 AWD,2012,6,Regular,17,23,20,444.35,16.4805,3,All-Wheel Drive,Automatic (S6)
+31569,Volvo,C70 FWD,2012,5,Regular,18,28,21,423.1904762,15.69571429,2.5,Front-Wheel Drive,Automatic (S5)
+31603,Volvo,XC90 FWD,2012,6,Regular,16,23,19,467.7368421,17.34789474,3.2,Front-Wheel Drive,Automatic (S6)
+31615,Volvo,XC90 AWD,2012,6,Regular,16,22,18,493.7222222,18.31166667,3.2,All-Wheel Drive,Automatic (S6)
+31616,Volvo,XC70 AWD,2012,6,Regular,18,24,20,444.35,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+31617,Volvo,XC60 AWD,2012,6,Regular,18,24,20,444.35,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+32212,Volvo,XC90 FWD,2013,6,Regular,16,23,19,472,17.34789474,3.2,Front-Wheel Drive,Automatic (S6)
+32213,Volvo,XC90 AWD,2013,6,Regular,16,22,18,476,18.31166667,3.2,All-Wheel Drive,Automatic (S6)
+32571,Volvo,C70 FWD,2013,5,Regular,19,27,22,400,14.98227273,2.5,Front-Wheel Drive,Automatic (S5)
+32588,Volvo,S60 AWD,2013,6,Regular,18,25,21,425,15.69571429,3,All-Wheel Drive,Automatic (S6)
+32589,Volvo,C30 FWD,2013,5,Regular,21,30,24,362,13.73375,2.5,Front-Wheel Drive,Automatic (S5)
+32590,Volvo,C30 FWD,2013,5,Regular,21,29,24,361,13.73375,2.5,Front-Wheel Drive,Manual 6-spd
+32591,Volvo,S60 FWD,2013,5,Regular,21,30,24,362,13.73375,2.5,Front-Wheel Drive,Automatic (S6)
+32592,Volvo,S60 AWD,2013,5,Regular,20,29,23,375,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+32618,Volvo,S80 AWD,2013,6,Regular,18,25,21,425,15.69571429,3,All-Wheel Drive,Automatic (S6)
+32642,Volvo,XC70 AWD,2013,6,Regular,17,23,20,445,16.4805,3,All-Wheel Drive,Automatic (S6)
+32643,Volvo,XC60 AWD,2013,6,Regular,17,23,20,445,16.4805,3,All-Wheel Drive,Automatic (S6)
+32722,Volvo,S80 FWD,2013,6,Regular,19,28,22,390,14.98227273,3.2,Front-Wheel Drive,Automatic (S6)
+32750,Volvo,XC70 AWD,2013,6,Regular,18,24,20,427,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+32751,Volvo,XC60 AWD,2013,6,Regular,18,24,20,438,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+32830,Volvo,XC60 FWD,2013,6,Regular,19,25,21,415,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+32831,Volvo,XC70 FWD,2013,6,Regular,19,25,21,415,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+3342,Volvo,240 DL/240 GL,1987,4,Regular,18,22,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+3343,Volvo,240 DL/240 GL,1987,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+3344,Volvo,780,1987,6,Regular,15,19,16,555.4375,20.600625,2.8,Rear-Wheel Drive,Automatic 4-spd
+3345,Volvo,780,1987,6,Regular,15,20,17,522.7647059,19.38882353,2.8,Rear-Wheel Drive,Automatic 4-spd
+33658,Volvo,S60 AWD,2014,6,Regular,18,25,21,425,15.69571429,3,All-Wheel Drive,Automatic (S6)
+33659,Volvo,S60 FWD,2014,5,Regular,21,30,24,362,13.73375,2.5,Front-Wheel Drive,Automatic (S6)
+33660,Volvo,S60 AWD,2014,5,Regular,20,29,23,375,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+33674,Volvo,S80 FWD,2014,6,Regular,20,28,23,383,14.33086957,3.2,Front-Wheel Drive,Automatic (S6)
+33675,Volvo,S80 AWD,2014,6,Regular,18,25,21,425,15.69571429,3,All-Wheel Drive,Automatic (S6)
+33723,Volvo,XC60 FWD,2014,6,Regular,18,26,21,416,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+33724,Volvo,XC70 FWD,2014,6,Regular,18,26,21,416,15.69571429,3.2,Front-Wheel Drive,Automatic (S6)
+33730,Volvo,XC70 AWD,2014,6,Regular,17,24,20,434,16.4805,3,All-Wheel Drive,Automatic (S6)
+33731,Volvo,XC60 AWD,2014,6,Regular,17,24,20,434,16.4805,3,All-Wheel Drive,Automatic (S6)
+33732,Volvo,XC70 AWD,2014,6,Regular,18,25,21,420,15.69571429,3.2,All-Wheel Drive,Automatic (S6)
+33733,Volvo,XC60 AWD,2014,6,Regular,18,25,20,429,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+33743,Volvo,XC90 FWD,2014,6,Regular,16,24,19,455,17.34789474,3.2,Front-Wheel Drive,Automatic (S6)
+33757,Volvo,XC90 AWD,2014,6,Regular,16,23,18,472,18.31166667,3.2,All-Wheel Drive,Automatic (S6)
+3448,Volvo,740/760,1987,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+3449,Volvo,740/760,1987,4,Regular,19,23,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 4-spd
+3450,Volvo,740/760,1987,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+3451,Volvo,740/760,1987,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+3452,Volvo,740/760,1987,6,Regular,15,20,17,522.7647059,19.38882353,2.8,Rear-Wheel Drive,Automatic 4-spd
+3453,Volvo,740/760,1987,6,Regular,16,19,17,522.7647059,19.38882353,2.8,Rear-Wheel Drive,Automatic 4-spd
+34645,Volvo,S60 AWD,2015,5,Regular,20,28,23,378,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+34659,Volvo,XC60 AWD,2015,6,Regular,17,24,20,434,16.4805,3,All-Wheel Drive,Automatic (S6)
+34660,Volvo,XC70 AWD,2015,6,Regular,17,24,20,434,16.4805,3,All-Wheel Drive,Automatic (S6)
+34670,Volvo,S60 AWD,2015,6,Regular,19,28,22,396,14.98227273,3,All-Wheel Drive,Automatic (S6)
+34671,Volvo,S80 AWD,2015,6,Regular,19,28,22,396,14.98227273,3,All-Wheel Drive,Automatic (S6)
+34672,Volvo,V60 AWD,2015,5,Regular,20,28,23,378,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+34673,Volvo,V60 AWD,2015,6,Regular,19,28,22,396,14.98227273,3,All-Wheel Drive,Automatic (S6)
+34827,Volvo,S60 FWD,2015,4,Regular,25,36,29,310,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+34828,Volvo,S60 FWD,2015,4,Premium,24,34,27,327,12.20777778,2,Front-Wheel Drive,Automatic (S8)
+34832,Volvo,S80 FWD,2015,4,Regular,25,36,29,310,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+34838,Volvo,V60 FWD,2015,4,Regular,25,36,29,310,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+34840,Volvo,XC60 FWD,2015,4,Regular,24,31,27,336,12.20777778,2,Front-Wheel Drive,Automatic (S8)
+34841,Volvo,XC70 FWD,2015,4,Regular,24,31,27,336,12.20777778,2,Front-Wheel Drive,Automatic (S8)
+34842,Volvo,XC60 FWD,2015,4,Premium,22,30,25,358,13.1844,2,Front-Wheel Drive,Automatic (S8)
+34846,Volvo,XC70 AWD,2015,6,Regular,18,25,21,420,15.69571429,3.2,All-Wheel Drive,Automatic (S6)
+34847,Volvo,XC60 AWD,2015,6,Regular,18,25,20,429,16.4805,3.2,All-Wheel Drive,Automatic (S6)
+34911,Volvo,S60 PoleStar AWD,2015,6,Regular,18,27,21,408,15.69571429,3,All-Wheel Drive,Automatic (S6)
+34915,Volvo,V60 PoleStar AWD,2015,6,Regular,18,27,21,408,15.69571429,3,All-Wheel Drive,Automatic (S6)
+35118,Volvo,XC60 AWD,2015,5,Regular,18,25,21,420,15.69571429,2.5,All-Wheel Drive,Automatic (S6)
+3584,Volvo,240 DL/240 GL Wagon,1987,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+3585,Volvo,240 DL/240 GL Wagon,1987,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+3586,Volvo,740/760 Wagon,1987,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+3587,Volvo,740/760 Wagon,1987,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+3588,Volvo,740/760 Wagon,1987,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+3589,Volvo,740/760 Wagon,1987,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+35978,Volvo,V60 CC FWD,2015,4,Regular,24,31,27,336,12.20777778,2,Front-Wheel Drive,Automatic (S8)
+35979,Volvo,V60 CC AWD,2015,5,Regular,20,28,23,383,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+36149,Volvo,XC90 AWD,2016,4,Premium,20,25,22,397,14.98227273,2,All-Wheel Drive,Automatic (S8)
+36221,Volvo,S60 AWD,2016,6,Regular,18,27,21,412,15.69571429,3,All-Wheel Drive,Automatic (S6)
+36222,Volvo,S60 Inscription AWD,2016,5,Regular,20,28,23,378,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+36223,Volvo,S60 AWD,2016,5,Regular,20,28,23,378,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+36224,Volvo,S60 FWD,2016,4,Regular,26,37,30,296,10.987,2,Front-Wheel Drive,Automatic (S8)
+36225,Volvo,S60 FWD,2016,4,Premium,23,32,27,334,12.20777778,2,Front-Wheel Drive,Automatic (S8)
+36226,Volvo,S60 PoleStar AWD,2016,6,Regular,18,27,21,412,15.69571429,3,All-Wheel Drive,Automatic (S6)
+36236,Volvo,V60 AWD,2016,5,Regular,20,28,23,378,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+36237,Volvo,V60 AWD,2016,6,Regular,18,27,21,412,15.69571429,3,All-Wheel Drive,Automatic (S6)
+36238,Volvo,V60 PoleStar AWD,2016,6,Regular,18,27,21,412,15.69571429,3,All-Wheel Drive,Automatic (S6)
+36239,Volvo,XC60 FWD,2016,4,Regular,23,30,26,346,12.67730769,2,Front-Wheel Drive,Automatic (S8)
+36240,Volvo,XC70 FWD,2016,4,Regular,23,30,26,346,12.67730769,2,Front-Wheel Drive,Automatic (S8)
+36241,Volvo,XC60 FWD,2016,4,Premium,22,29,24,364,13.73375,2,Front-Wheel Drive,Automatic (S8)
+36243,Volvo,XC60 AWD,2016,6,Regular,17,23,20,445,16.4805,3,All-Wheel Drive,Automatic (S6)
+36244,Volvo,XC70 AWD,2016,5,Regular,19,26,21,409,15.69571429,2.5,All-Wheel Drive,Automatic (S6)
+36245,Volvo,XC60 AWD,2016,5,Regular,19,26,21,409,15.69571429,2.5,All-Wheel Drive,Automatic (S6)
+36246,Volvo,V60 CC AWD,2016,5,Regular,20,28,23,383,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+36247,Volvo,S60 CC AWD,2016,5,Regular,20,28,23,383,14.33086957,2.5,All-Wheel Drive,Automatic (S6)
+36282,Volvo,S60 Inscription FWD,2016,4,Regular,25,37,29,308,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+36289,Volvo,S80 FWD,2016,4,Regular,25,37,29,308,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+36292,Volvo,V60 FWD,2016,4,Regular,25,37,29,308,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+36994,Volvo,XC90 FWD,2016,4,Premium,22,26,24,373,13.73375,2,Front-Wheel Drive,Automatic (S8)
+36995,Volvo,XC90 AWD,2016,4,Premium,22,25,23,384,14.33086957,2,All-Wheel Drive,Automatic (S8)
+37193,Volvo,S60 AWD,2016,4,Premium,22,31,25,355,13.1844,2,All-Wheel Drive,Automatic (S8)
+37197,Volvo,V60 AWD,2016,4,Premium,22,31,25,355,13.1844,2,All-Wheel Drive,Automatic (S8)
+37205,Volvo,XC60 AWD,2016,4,Premium,19,27,22,400,14.98227273,2,All-Wheel Drive,Automatic (S8)
+37224,Volvo,XC90 AWD PHEV,2016,4,Premium and Electricity,24,27,25,241,8.670674373,2,All-Wheel Drive,Automatic (S8)
+37547,Volvo,XC90 AWD,2017,4,Premium,20,25,22,399,14.98227273,2,All-Wheel Drive,Automatic (S8)
+37548,Volvo,XC90 AWD,2017,4,Premium,22,25,23,384,14.33086957,2,All-Wheel Drive,Automatic (S8)
+37550,Volvo,S60 Inscription FWD,2017,4,Regular,25,36,29,302,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+37551,Volvo,S60 FWD,2017,4,Regular,25,36,29,302,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+37552,Volvo,S60 Inscription AWD,2017,4,Regular,23,31,26,343,12.67730769,2,All-Wheel Drive,Automatic (S8)
+37553,Volvo,S60 AWD,2017,4,Regular,23,31,26,343,12.67730769,2,All-Wheel Drive,Automatic (S8)
+37554,Volvo,S60 CC AWD,2017,4,Regular,22,30,25,354,13.1844,2,All-Wheel Drive,Automatic (S8)
+37557,Volvo,S90 FWD,2017,4,Premium,23,34,27,328,12.20777778,2,Front-Wheel Drive,Automatic (S8)
+37558,Volvo,S90 AWD,2017,4,Premium,22,31,25,353,13.1844,2,All-Wheel Drive,Automatic (S8)
+37560,Volvo,V60 FWD,2017,4,Regular,25,36,29,302,11.36586207,2,Front-Wheel Drive,Automatic (S8)
+37561,Volvo,V60 AWD,2017,4,Premium,22,32,26,345,12.67730769,2,All-Wheel Drive,Automatic (S8)
+37562,Volvo,V60 CC AWD,2017,4,Regular,22,30,25,354,13.1844,2,All-Wheel Drive,Automatic (S8)
+37563,Volvo,V60 AWD,2017,4,Regular,23,31,26,343,12.67730769,2,All-Wheel Drive,Automatic (S8)
+37564,Volvo,XC60 FWD,2017,4,Regular,23,30,26,348,12.67730769,2,Front-Wheel Drive,Automatic (S8)
+37565,Volvo,XC60 AWD,2017,4,Premium,20,27,22,395,14.98227273,2,All-Wheel Drive,Automatic (S8)
+37566,Volvo,XC60 AWD,2017,4,Regular,20,29,23,384,14.33086957,2,All-Wheel Drive,Automatic (S8)
+37586,Volvo,S60 AWD,2017,4,Premium,22,32,26,345,12.67730769,2,All-Wheel Drive,Automatic (S8)
+37687,Volvo,XC90 FWD,2017,4,Premium,22,26,24,373,13.73375,2,Front-Wheel Drive,Automatic (S8)
+37703,Volvo,XC90 AWD PHEV,2017,4,Premium and Electricity,24,27,25,238,8.652550063,2,All-Wheel Drive,Automatic (S8)
+38059,Volvo,S60 Polestar AWD,2017,4,Premium,20,27,23,388,14.33086957,2,All-Wheel Drive,Automatic (S8)
+38069,Volvo,V60 Polestar AWD,2017,4,Premium,20,27,23,388,14.33086957,2,All-Wheel Drive,Automatic (S8)
+38412,Volvo,V90 CC AWD,2017,4,Premium,22,30,25,355,13.1844,2,All-Wheel Drive,Automatic (S8)
+412,Volvo,240 DL/GL/turbo,1985,4,Regular,15,19,17,522.7647059,19.38882353,2.1,Rear-Wheel Drive,Automatic 4-spd
+413,Volvo,240 DL/GL/turbo,1985,4,Regular,15,20,17,522.7647059,19.38882353,2.1,Rear-Wheel Drive,Manual 4-spd
+414,Volvo,240 DL/GL/turbo,1985,4,Regular,18,22,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+415,Volvo,240 DL/GL/turbo,1985,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+4525,Volvo,240 DL/240 GL,1988,4,Regular,18,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+4526,Volvo,240 DL/240 GL,1988,4,Regular,19,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+4527,Volvo,780,1988,6,Regular,15,19,16,555.4375,20.600625,2.8,Rear-Wheel Drive,Automatic 4-spd
+4624,Volvo,740/760,1988,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+4625,Volvo,740/760,1988,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+4626,Volvo,740/760,1988,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+4627,Volvo,740/760,1988,4,Regular,19,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+4628,Volvo,740/760,1988,6,Regular,15,19,16,555.4375,20.600625,2.8,Rear-Wheel Drive,Automatic 4-spd
+4757,Volvo,240 DL/240 GL Wagon,1988,4,Regular,18,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+4758,Volvo,240 DL/240 GL Wagon,1988,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+4759,Volvo,740/760 Wagon,1988,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+4760,Volvo,740/760 Wagon,1988,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+4761,Volvo,740/760 Wagon,1988,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+4762,Volvo,740/760 Wagon,1988,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+528,Volvo,740/760,1985,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+529,Volvo,740/760,1985,4,Regular,19,23,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Automatic 4-spd
+530,Volvo,740/760,1985,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+531,Volvo,740/760,1985,4,Regular,17,23,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Manual 4-spd
+532,Volvo,740/760,1985,6,Diesel,21,24,23,442.6086957,16.61673913,2.4,Rear-Wheel Drive,Automatic 4-spd
+533,Volvo,740/760,1985,6,Diesel,22,28,24,424.1666667,15.924375,2.4,Rear-Wheel Drive,Manual 4-spd
+534,Volvo,740/760,1985,6,Regular,16,21,18,493.7222222,18.31166667,2.9,Rear-Wheel Drive,Automatic 4-spd
+5648,Volvo,240 DL/240 GL,1989,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+5649,Volvo,240 DL/240 GL,1989,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+5650,Volvo,240 DL/240 GL,1989,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+5651,Volvo,240 DL/240 GL,1989,4,Regular,18,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+5652,Volvo,780,1989,4,Regular,17,21,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+5653,Volvo,780,1989,6,Regular,15,19,17,522.7647059,19.38882353,2.8,Rear-Wheel Drive,Automatic 4-spd
+5785,Volvo,740,1989,4,Regular,17,21,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+5786,Volvo,740,1989,4,Regular,17,24,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+5787,Volvo,740,1989,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+5788,Volvo,740,1989,4,Regular,16,22,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+5789,Volvo,740,1989,4,Regular,16,24,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Manual 4-spd
+5790,Volvo,740,1989,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+5791,Volvo,740,1989,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+5792,Volvo,740,1989,4,Regular,18,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+5793,Volvo,760,1989,4,Regular,17,21,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+5794,Volvo,760,1989,6,Regular,15,19,17,522.7647059,19.38882353,2.8,Rear-Wheel Drive,Automatic 4-spd
+5891,Volvo,240 DL/240 GL Wagon,1989,4,Regular,16,22,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+5892,Volvo,240 DL/240 GL Wagon,1989,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+5893,Volvo,240 DL/240 GL Wagon,1989,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 5-spd
+5894,Volvo,240 DL/240 GL Wagon,1989,4,Regular,18,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+5895,Volvo,740 Wagon,1989,4,Regular,17,21,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+5896,Volvo,740 Wagon,1989,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+5897,Volvo,740 Wagon,1989,4,Regular,17,23,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+5898,Volvo,740 Wagon,1989,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+5899,Volvo,740 Wagon,1989,4,Regular,16,22,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+5900,Volvo,740 Wagon,1989,4,Regular,16,24,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Manual 4-spd
+5901,Volvo,740 Wagon,1989,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+5902,Volvo,740 Wagon,1989,4,Regular,19,24,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+5903,Volvo,740 Wagon,1989,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 5-spd
+5904,Volvo,760 Wagon,1989,4,Regular,17,21,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+677,Volvo,240 DL/GL/turbo Wagon,1985,4,Regular,15,19,17,522.7647059,19.38882353,2.1,Rear-Wheel Drive,Automatic 4-spd
+6776,Volvo,240,1990,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+6777,Volvo,240,1990,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+6778,Volvo,780,1990,4,Regular,16,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+6779,Volvo,780,1990,6,Regular,15,19,17,522.7647059,19.38882353,2.8,Rear-Wheel Drive,Automatic 4-spd
+678,Volvo,240 DL/GL/turbo Wagon,1985,4,Regular,15,20,17,522.7647059,19.38882353,2.1,Rear-Wheel Drive,Manual 4-spd
+679,Volvo,240 DL/GL/turbo Wagon,1985,4,Regular,18,22,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+680,Volvo,240 DL/GL/turbo Wagon,1985,4,Regular,20,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 4-spd
+6873,Volvo,740,1990,4,Regular,16,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+6874,Volvo,740,1990,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+6875,Volvo,740,1990,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+6876,Volvo,740,1990,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+6877,Volvo,740 16-Valve,1990,4,Regular,16,22,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+6878,Volvo,740 16-Valve,1990,4,Regular,16,24,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Manual 4-spd
+6879,Volvo,760,1990,4,Regular,16,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+6880,Volvo,760,1990,6,Regular,15,19,17,522.7647059,19.38882353,2.8,Rear-Wheel Drive,Automatic 4-spd
+6969,Volvo,240 Wagon,1990,4,Regular,17,22,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Automatic 4-spd
+6970,Volvo,240 Wagon,1990,4,Regular,18,25,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+6971,Volvo,740 Wagon,1990,4,Regular,16,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+6972,Volvo,740 Wagon,1990,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+6973,Volvo,740 Wagon,1990,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 4-spd
+6974,Volvo,740 Wagon,1990,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+6975,Volvo,740 16-Valve Wagon,1990,4,Regular,16,22,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+6976,Volvo,740 16-Valve Wagon,1990,4,Regular,16,24,19,467.7368421,17.34789474,2.3,Rear-Wheel Drive,Manual 4-spd
+6977,Volvo,760 Wagon,1990,4,Regular,16,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+7901,Volvo,Coupe,1991,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+7902,Volvo,240,1991,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+7903,Volvo,240,1991,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+8007,Volvo,740,1991,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8008,Volvo,740,1991,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+8009,Volvo,740,1991,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 5-spd
+8010,Volvo,740,1991,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+8011,Volvo,940 GLE 16-Valve,1991,4,Regular,16,22,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8012,Volvo,940 SE,1991,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8013,Volvo,940 Turbo,1991,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8094,Volvo,240 Wagon,1991,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+8095,Volvo,240 Wagon,1991,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+8096,Volvo,740 Wagon,1991,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8097,Volvo,740 Wagon,1991,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+8098,Volvo,740 Wagon,1991,4,Regular,18,24,20,444.35,16.4805,2.3,Rear-Wheel Drive,Manual 5-spd
+8099,Volvo,740 Wagon,1991,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+8100,Volvo,940 GLE 16-Valve Wagon,1991,4,Regular,16,22,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8101,Volvo,940 SE Wagon,1991,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8102,Volvo,940 Turbo Wagon,1991,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+8982,Volvo,240,1992,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+8983,Volvo,240,1992,4,Regular,19,26,21,423.1904762,15.69571429,2.3,Rear-Wheel Drive,Manual 5-spd
+9079,Volvo,740,1992,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+9080,Volvo,740,1992,4,Regular,18,26,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+9081,Volvo,940,1992,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+9082,Volvo,940,1992,4,Regular,18,26,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+9083,Volvo,960,1992,6,Regular,16,24,19,467.7368421,17.34789474,2.9,Rear-Wheel Drive,Automatic 4-spd
+9181,Volvo,240 Wagon,1992,4,Regular,18,23,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+9182,Volvo,240 Wagon,1992,4,Regular,19,26,22,403.9545455,14.98227273,2.3,Rear-Wheel Drive,Manual 5-spd
+9183,Volvo,740 Wagon,1992,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+9184,Volvo,740 Wagon,1992,4,Regular,18,26,20,444.35,16.4805,2.3,Rear-Wheel Drive,Automatic 4-spd
+9185,Volvo,940 Wagon,1992,4,Regular,17,20,18,493.7222222,18.31166667,2.3,Rear-Wheel Drive,Automatic 4-spd
+9186,Volvo,960 Wagon,1992,6,Regular,16,24,19,467.7368421,17.34789474,2.9,Rear-Wheel Drive,Automatic 4-spd
